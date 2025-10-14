@@ -2643,7 +2643,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "servers.dat"
-hash = "6d45a933e75648f83f14917025ac728e1b4bbf24ebfff148a2c45bf91b59b5de"
+hash = "936775352c03b3bf24f219711c4326853e137d1b7ce984fb8b53a24ed0c1299d"
 
 [[files]]
 file = "shaderpacks/bsl.pw.toml"
