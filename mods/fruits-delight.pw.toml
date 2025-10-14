@@ -1,0 +1,16 @@
+filename = '[D][农业][农夫乐事][果园乐事]fruitsdelight-1.2.11.jar'
+name = 'Fruits Delight'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '505f8ccd4f9ea180235041b93fa10e7d922371e97aa5b5c624bbb609c2ebaacb2bd841e99b4ffec67ed22dc72cb44e5840a1f90a8151a498069a813e97f3555c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/g6sbyCTu/versions/x5jrBT3B/fruitsdelight-1.2.11.jar'
+
+[update.modrinth]
+mod-id = 'g6sbyCTu'
+version = 'x5jrBT3B'

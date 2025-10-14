@@ -1,0 +1,16 @@
+filename = '[D][农业][农夫乐事][自定义三明治]someassemblyrequired-5.2.2.jar'
+name = 'Some Assembly Required'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd7d161241545d8c61f78d9d120fb0baf461ffc919ddc2d4d9818211faaf615cd76aad191bb490fa2247b1175db28ba031ca40e4ad95532736bb8965e9c2493fb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jZi8ogTA/versions/ZgbWy7RA/someassemblyrequired-5.2.2.jar'
+
+[update.modrinth]
+mod-id = 'jZi8ogTA'
+version = 'ZgbWy7RA'

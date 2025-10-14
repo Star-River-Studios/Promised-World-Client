@@ -1,0 +1,16 @@
+filename = '[C][冒险][永恒星光][原版矿石生成]eternal_starlight_vo-1.2.1-neoforge.jar'
+name = 'Eternal Starlight Vanilla Ores'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '46ff53e24ac3171cd10247d79e1a2bd4903dfe0ffdf9abc2a14b864f79558193375caffa04e3187965a45ab78d8c1c4a0e9c51e9e54da5af1d50915ca95c16ef'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vlMtLQ1s/versions/2QUXAfL1/eternal_starlight_vo-1.2.1-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'vlMtLQ1s'
+version = '2QUXAfL1'

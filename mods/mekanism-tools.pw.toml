@@ -1,0 +1,16 @@
+filename = '[A][科技][通用机械][通用机械：工具]MekanismTools-1.21.1-10.7.16.82.jar'
+name = 'Mekanism Tools'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '39bc0dd61592bb8dd1e1a78fcebb15634c31ed359e100969b092dd9c3796bbcf3bea191361a93a5ead16b8352548d706be0a8f3d1dae1540b0992da48bcdbd8e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tqQpq1lt/versions/zb3hUatb/MekanismTools-1.21.1-10.7.16.82.jar'
+
+[update.modrinth]
+mod-id = 'tqQpq1lt'
+version = 'zb3hUatb'

@@ -1,0 +1,16 @@
+filename = '[C][冒险][永恒星光]eternalstarlight-0.5.1+1.21.1+neoforge.jar'
+name = 'Eternal Starlight'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '343fcf3a607e23c5296f27264a9f31de65ca535aea838b7fe97ae8365bb7142be7e815cd23ff42148c354562c6f56b6b21ba917deae56517309d39f6c7740b5f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XvcfUGfB/versions/aE42o85c/eternalstarlight-0.5.1%2B1.21.1%2Bneoforge.jar'
+
+[update.modrinth]
+mod-id = 'XvcfUGfB'
+version = 'aE42o85c'

@@ -1,0 +1,16 @@
+filename = '[D][农业][农夫乐事][披萨乐事]pizzadelight-1.21.1-2.0.1.jar'
+name = 'Pizza Delight'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2f18c27939a2c87550e89bc3976b3272b2e0741f31f53c636325094f00156bdd0dfb9c6d79ceaa0a69e3869c2d144fe09fef3ede48f9f74aad4d6b8c36442f90'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6VTyLLiG/versions/TjW0VhCc/pizzadelight-1.21.1-2.0.1.jar'
+
+[update.modrinth]
+mod-id = '6VTyLLiG'
+version = 'TjW0VhCc'

@@ -1,0 +1,16 @@
+filename = '[G][辅助][配置界面]configured-neoforge-1.21.1-2.6.1.jar'
+name = 'Configured'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'bef0fa55792bb717552c707fe88bcd32eb8754a1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7076243
+project-id = 457570

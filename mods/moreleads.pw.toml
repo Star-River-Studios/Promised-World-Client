@@ -1,0 +1,16 @@
+filename = '[F][实用][拴绳增强]MoreLeads-neoforge-1.21-1.2.0.jar'
+name = 'More Leads'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21-Snapshot', '1.21.1', '1.21.1-Snapshot', '1.21.2-Snapshot' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a43ce955e5931ac15a3849a52c4f45436d719232'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5765555
+project-id = 610055

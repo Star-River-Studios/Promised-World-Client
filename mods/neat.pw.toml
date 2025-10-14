@@ -1,0 +1,16 @@
+filename = '[G][辅助][客户端][极简血量显示]Neat-1.21-40-NEOFORGE.jar'
+name = 'Neat'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '995f90c8b1eefbfe5f08e97f3bf0b93c2f02f66a956cab47817e502fa5bd1c33990398a2f925af1dbc43fe672c58d3f461457244010f0958f8f00235bf8c4a16'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Ins7SzzR/versions/nH3LWEc0/Neat-1.21-40-NEOFORGE.jar'
+
+[update.modrinth]
+mod-id = 'Ins7SzzR'
+version = 'nH3LWEc0'

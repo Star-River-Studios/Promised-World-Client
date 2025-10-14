@@ -1,0 +1,16 @@
+filename = '[G][辅助][客户端][全息蓝图]forgematica-0.4.0+mc1.21.1.jar'
+name = 'Forgematica'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ea9e888753880bd360aa5dbcd48e94a6a4c52ff930f6a693ea159875b09fcf4cb79e026e84cc0551155211259cc596f8b5d523cc0612a21e9ce9c13edfa78b38'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dCKRaeBC/versions/60HIosRb/forgematica-0.4.0%2Bmc1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'dCKRaeBC'
+version = '60HIosRb'
