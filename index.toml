@@ -642,19 +642,19 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.core.config"
-hash = "b345a230bd6a335bc9269fedf84ae4a018ed53bb6553b62571b24295833b0848"
+hash = "78a66e2ec2d235fc5ff01c0079b9d7c01a6b55ae9aa56b076b9b626013d92b55"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.fullmap.config"
-hash = "4be016323db53becd07722d7adf03670601578cd0e7bdd0c7a47c98b96438de4"
+hash = "11b00f3f5e9e2dff2b101e8c13fa76eb107796418c4e3fcf7f0aed1f0c39c0f7"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap.config"
-hash = "54f1b600c4858343acfd1b3895277fdb45bfc33a5eb82bead3b1b002034e7a4c"
+hash = "459a3538263ad9f51d4d88b6aa213964f1cdd93c85396f0ad196537c18bce150"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap2.config"
-hash = "72c65e61a19a06618153e2fd135a65465fc9c1c87af2f84bb748bb04533c83ca"
+hash = "0303ac5d3cc4b469f525b1e5bd3c90893f2aea2738ffb033258aeb2fde18a770"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.rendering.config"
@@ -666,7 +666,7 @@ hash = "156976ebfa39152d252eada202f3649cd32af7a665576127fcb5bb5523fff67c"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.waypoint.config"
-hash = "02bb51256cdee2947ec8124364358c6031192c885962ca1c9f91d3ad35b15a3d"
+hash = "0ee6e97ca6403bb1fb734b2b2aae598c1c2502f6d92b89ad475ff88ce37c654a"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.webmap.config"
@@ -1945,23 +1945,19 @@ file = "journeymap/icon/theme/victorian_/victorian_.theme2.json"
 hash = "534b388fb1458afe7ac918ee3016e7a22bf79a9fdd90433b8be5e1fd57376e06"
 
 [[files]]
-file = "journeymap/journeymap.log"
-hash = "f9088932b2565565eb14f08e945fa51f2c5bacf49ec6fdd92ec9f85207c2ace4"
+file = "journeymap/server/6.0/journeymap.server.default.config"
+hash = "5b64bb944f22fd5ab1748e1c6679885786aff0e739e08095fa0f666f4a3c624c"
 
 [[files]]
-file = "logs/I18nUpdateMod.log"
-hash = "8100f39ba094603d53361a355f579df15ad8f2a529d417ab253d977beb4df558"
+file = "journeymap/server/6.0/journeymap.server.global.config"
+hash = "7cef58be04c18f11f40323b994b2378aa44a8e1d192b6a54ebafbabed94cf5b2"
 
 [[files]]
-file = "logs/debug.log"
-hash = "6e5b329a52c83ed231eb4b2c34752f16b43a4328d0581f9ef7394374d627db5b"
+file = "logs/.gitkeep"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "logs/latest.log"
-hash = "16ed8e5243f1ff8120c342ff409fdeaee56d530052557293d41471fa1cee5e93"
-
-[[files]]
-file = "logs/telemetry/20251014-1.json"
+file = "logs/telemetry/.gitkeep"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
@@ -2626,6 +2622,11 @@ file = "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.21.1.zip"
 hash = "62758ccc5650071e5af015248f03ecc18a18049da4f125af3e91bcd97051d90d"
 
 [[files]]
+file = "resourcepacks/xk-redstone-display.pw.toml"
+hash = "44b79ab61de9223fad9b2ab31f19b56c9ad2c595c27bd983baff1133328c5e97"
+metafile = true
+
+[[files]]
 file = "saves/.gitkeep"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -2643,7 +2644,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "servers.dat"
-hash = "936775352c03b3bf24f219711c4326853e137d1b7ce984fb8b53a24ed0c1299d"
+hash = "809649273589a1f8bf3a4fd91908859b5829660e5d573e1aaefa9dada3baa67d"
 
 [[files]]
 file = "shaderpacks/bsl.pw.toml"
