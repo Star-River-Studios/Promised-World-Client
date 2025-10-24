@@ -27,7 +27,7 @@
   "render_settings": {
     "fog_distance": 0,
     "fog_start": 100,
-    "multi_dimension_fog_control": false,
+    "multi_dimension_fog_control": true,
     "dimensionFogDistance": {},
     "light_updates": true,
     "item_frame": true,
@@ -35,7 +35,7 @@
     "painting": true,
     "piston": true,
     "beacon_beam": true,
-    "limit_beacon_beam_height": false,
+    "limit_beacon_beam_height": true,
     "enchanting_table_book": true,
     "item_frame_name_tag": true,
     "player_name_tag": true
@@ -44,7 +44,7 @@
     "overlay_corner": "TOP_LEFT",
     "text_contrast": "NONE",
     "show_fps": false,
-    "show_f_p_s_extended": true,
+    "show_f_p_s_extended": false,
     "show_coords": false,
     "reduce_resolution_on_mac": false,
     "use_adaptive_sync": false,

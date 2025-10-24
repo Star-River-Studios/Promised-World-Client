@@ -290,7 +290,7 @@ hash = "7ea96c71ef15522cdcaec7bafdc73fc7cfaa2d6398342d8f447b94906f14e97d"
 
 [[files]]
 file = "config/chunksfadein.properties"
-hash = "5911b6116d913b89cdad910bd3ba38ae1d5812e317e3f38e5d74dfff672b7aaa"
+hash = "fc77b4a8e9edddf54b002691c53cbdd5afb181975ac2a1f75800a9b069d69d86"
 
 [[files]]
 file = "config/compatdelight-common.toml"
@@ -406,7 +406,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "40e797da55983496bf138e6a19d2a838f5226806867749a13037bebfdd22c3ce"
+hash = "b4892b799c098c16052f7bfb84fd6536d35c6977d0f456afe88ef87101196376"
 
 [[files]]
 file = "config/irons_spellbooks-client.toml"
@@ -474,7 +474,7 @@ hash = "a9c9034135d0ce7d10b2b14e6958f12f8578af0313dae6528cc53b446511d953"
 
 [[files]]
 file = "config/lambdynlights.toml"
-hash = "fdd6958ff17541c8d1c891bd1602088bb6888f41229e966387a07311f32ec6d9"
+hash = "400b7ed289213f535c452f53f2b98f9e67ff899afd87d2e23d3dd2077bf0dfca"
 
 [[files]]
 file = "config/lodestone-client.toml"
@@ -518,7 +518,7 @@ hash = "bf9598324520c5cab754a7635274c2a5753f737d8353904f025e1f10c13c5d41"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "ef3fda0791a114e5fed0c184bb4f483ad62a36324ba6ae20ee53e23f8ccc8059"
+hash = "b6c5802086f45cf9c1dc3137ba256405c2e583f2763dc6b08ef837ff2c1b5ab4"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -547,6 +547,10 @@ hash = "e9af5f88697631ee27cb744f587f6f75a68cebab371e0df6f795ea63fce79d6a"
 [[files]]
 file = "config/refurbished_furniture.client.toml"
 hash = "7809f409eb6312421d1aeffa1ddfb3d8e12436552418934de548102ee7d2a2ec"
+
+[[files]]
+file = "config/resourcify.json"
+hash = "e58371e7d636e557efde9fecf278417fd1b5290f025fe79564bc57030eca1566"
 
 [[files]]
 file = "config/scholar-client.toml"
@@ -578,7 +582,7 @@ hash = "7c2b9a81b0ffaa59abbf5a330dd353e5734ca41d62af6c876b830ba36111fc12"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "f614f1e1ebf5e598068f456ec333e6417b9836ffbc94e386aa0a434319734da9"
+hash = "790667ca0d03ce05348c47a7752a2ddbb7bb3557189ecef0504b7214c6b8b1fd"
 
 [[files]]
 file = "config/sodium-extra.properties"
@@ -594,7 +598,7 @@ hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "445a55bccce87dd8467f3265d1572827e8778e873e3bb70290adf0bb8a811e96"
+hash = "4e64ca54fd14c86297e5cf90646e422c2b87cd2476dec1e3629a379bce3d50e5"
 
 [[files]]
 file = "config/someassemblyrequired-client.toml"
@@ -685,20 +689,8 @@ file = "config/yigd.json"
 hash = "01d786aee2f7eca99d6b043a1bd1dc06aae50b8b96f003310fcee8213e668228"
 
 [[files]]
-file = "coremods/.gitkeep"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "crash-reports/.gitkeep"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "data/scholar_loaded_built_in_resource_packs.dat"
 hash = "b63a450f678623db651b2cda33e0113e00ccf02e68fcbeb6619c2a4831499f33"
-
-[[files]]
-file = "defaultconfigs/.gitkeep"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "downloads/log.json"
@@ -706,19 +698,19 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.core.config"
-hash = "b345a230bd6a335bc9269fedf84ae4a018ed53bb6553b62571b24295833b0848"
+hash = "78a66e2ec2d235fc5ff01c0079b9d7c01a6b55ae9aa56b076b9b626013d92b55"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.fullmap.config"
-hash = "4be016323db53becd07722d7adf03670601578cd0e7bdd0c7a47c98b96438de4"
+hash = "8a9d34cb7f250e9e6d920ec594cc13225774c1dca7aa031d0db5e9c86c0fcdf9"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap.config"
-hash = "54f1b600c4858343acfd1b3895277fdb45bfc33a5eb82bead3b1b002034e7a4c"
+hash = "8f5ae055fedc0fb45b6ee90caea2ae80ff71ab29b04e0fde04dfe0b140fb13f4"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap2.config"
-hash = "72c65e61a19a06618153e2fd135a65465fc9c1c87af2f84bb748bb04533c83ca"
+hash = "0303ac5d3cc4b469f525b1e5bd3c90893f2aea2738ffb033258aeb2fde18a770"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.rendering.config"
@@ -730,15 +722,19 @@ hash = "156976ebfa39152d252eada202f3649cd32af7a665576127fcb5bb5523fff67c"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.waypoint.config"
-hash = "02bb51256cdee2947ec8124364358c6031192c885962ca1c9f91d3ad35b15a3d"
+hash = "399f8c59345eb2f02911c08d8312651ba4688fe8a9ed5a7e1ba03fc617ec8819"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.webmap.config"
 hash = "92ecaadb674023fb5cd2f67831547f41af6a3a90bc2ef076bc45351d363c6594"
 
 [[files]]
-file = "logs/.gitkeep"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = "journeymap/server/6.0/journeymap.server.default.config"
+hash = "5b64bb944f22fd5ab1748e1c6679885786aff0e739e08095fa0f666f4a3c624c"
+
+[[files]]
+file = "journeymap/server/6.0/journeymap.server.global.config"
+hash = "ebf4c8138b6f982e1df8ca89c203a448556f2c72eef77788baf11ef9c1b6fe7d"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -1212,7 +1208,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreleads.pw.toml"
-hash = "1bab45b68d1533d4e12938d0de6f1379087c77788264d04b0da8e2b6cf2efeb9"
+hash = "5fa62093a14c2369e114bb8d431a5f3ce434301a944be14e026e263c15b34f9e"
 metafile = true
 
 [[files]]
@@ -1472,7 +1468,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "e29b8b145a3e2d0b857328d2f5bf30c75c8d56c1363d3c87742297ee1f82315e"
+hash = "b72bb52fbc284304706709ec4c70ef2f5c515bdf624ed8247bbadc7ecc79b655"
 metafile = true
 
 [[files]]
@@ -1487,11 +1483,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "76e875bce6d57a273308be512e9bf4c4c3c2fdc1c9448676cd914822a65ba1f0"
-
-[[files]]
-file = "patchouli_books/.gitkeep"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "26739890e74bdfdc3402f03d728b3666deb1528b3d3a03767f27c2b64db47cc7"
 
 [[files]]
 file = "patchouli_data.json"
@@ -1501,22 +1493,6 @@ hash = "0d6f8bff5d59d58e2ddda36b742394251afe308cb8cf96fac6c6c06144e28a15"
 file = "resourcepacks/xk-redstone-display.pw.toml"
 hash = "44b79ab61de9223fad9b2ab31f19b56c9ad2c595c27bd983baff1133328c5e97"
 metafile = true
-
-[[files]]
-file = "saves/.gitkeep"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "schematics/.gitkeep"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "screenshots/.gitkeep"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "server-resource-packs/.gitkeep"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "servers.dat"
@@ -1545,10 +1521,6 @@ metafile = true
 file = "tacz/blue-archive-super-gun-pack.pw.toml"
 hash = "d62dafeb00528c643dd50431d00629ad508b96eb9bde27bf1db57964d56fbe91"
 metafile = true
-
-[[files]]
-file = "texturepacks/.gitkeep"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "waypoints/WaypointData.dat"

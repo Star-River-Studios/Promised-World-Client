@@ -1,6 +1,6 @@
 filename = '[F][实用][拴绳增强]MoreLeads-neoforge-1.21-1.2.0.jar'
 name = 'More Leads'
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21-Snapshot', '1.21.1', '1.21.1-Snapshot', '1.21.2-Snapshot' ]
 x-prismlauncher-release-type = 'release'
