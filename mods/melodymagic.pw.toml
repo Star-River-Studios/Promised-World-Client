@@ -1,0 +1,16 @@
+filename = '[B][魔法][旋律魔法]melodymagic-1.4.14.jar'
+name = 'MelodyMagic'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3', '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '437d7e263a6a49191980e8e287759325c9051a49a2be79095bbee1bceb0c0261fd30cd131b840ea92343dd666c9df34c9932ad3dbb9702959a9af01c826a6e0b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pgskxAzs/versions/XBnNjM1t/melodymagic-1.4.14.jar'
+
+[update.modrinth]
+mod-id = 'pgskxAzs'
+version = 'XBnNjM1t'

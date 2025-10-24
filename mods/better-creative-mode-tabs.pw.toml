@@ -1,0 +1,16 @@
+filename = '[G][辅助][更好的创造模式标签页]better_creative_tabs-0.1.0.jar'
+name = 'Better Creative Mode Tabs'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1d081e21954ee7fa351223cdc718af4c2b1c0e44'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5556597
+project-id = 1046557

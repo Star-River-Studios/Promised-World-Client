@@ -1,0 +1,16 @@
+filename = '[G][辅助][禁用模组联网]smsn-neoforge-1.2.10-1.21.1.jar'
+name = 'Save My Shaky Network'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9802359475184acf91e33eb7eaa6f720deeaa4ceeba0173dd07c98fe9f305bd3873fbf3d75810f9509080cf5f0b2959020c28c6872272360de50052a1c710795'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/oXzIQwRj/versions/55T7QoLt/smsn-neoforge-1.2.10-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'oXzIQwRj'
+version = '55T7QoLt'
