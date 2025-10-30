@@ -1,0 +1,16 @@
+filename = '[A][科技][应用能源2][显示元件槽位修复]Terminal View Cell Fix-1.0.0.jar'
+name = 'AE Terminal View Cell Fix'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7bbd5d94e38dfaee7c4d5266253ee77c29162d0a1e2f5844ec66ed7a80627cb7b4f7459ec59d2eaf0cec2dd82bb07672629766456b8d86f571c0202923a7d47b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DLesvzNX/versions/xisPqofI/Terminal View Cell Fix-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'DLesvzNX'
+version = 'xisPqofI'

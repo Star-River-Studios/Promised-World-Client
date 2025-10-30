@@ -1,0 +1,16 @@
+filename = '[G][辅助][更丰富的合成配方]better-crafting-recipes-1.9.1.3.jar'
+name = "Better Crafting Recipes ( whwdzg's Recipe)"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '19808ffabc47ad1d8259cf66795af4f0b52c3826e9ec76b5096b7c92e81b85141ddcf475071fd6ed1b4ac3c45ee7fc08a6588b6555c63656723f2be9d6b460d9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/aCXZzFav/versions/VS5daqbw/better-crafting-recipes-1.9.1.3.jar'
+
+[update.modrinth]
+mod-id = 'aCXZzFav'
+version = 'VS5daqbw'

@@ -47,15 +47,19 @@
     - AMD Radeon RX 580 4GB 或更高（**需 Mesa 21.0+ 开源驱动**）
   - **存储空间：** 64GB 或更高
 
-### 2-2 启动器要求
-- [Prism Launcher](https://prismlauncher.org/)
-  - 支持平台：Windows / macOS / Linux
-- [Hello Minecraft! Launcher](https://hmcl.huangyuhui.net/)
-  - 支持平台：Windows / macOS / Linux
-- [Plain Craft Launcher Community Edition](https://www.pclc.cc/projects/pcl-ce/)
-  - 支持平台：Windows
+### 2-2 软件要求
+- 启动器
+  - [Prism Launcher](https://prismlauncher.org/)
+    - 支持平台：Windows / macOS / Linux
+  - [Hello Minecraft! Launcher](https://hmcl.huangyuhui.net/)
+    - 支持平台：Windows / macOS / Linux
+  - [Plain Craft Launcher Community Edition](https://www.pclc.cc/projects/pcl-ce/)
+    - 支持平台：Windows
+- 其他软件
+  - [ffmpeg（ReForgedPlay模组需要）](https://ffmpeg.org/)
+    - Windows版已内置，macOS、Linux则需要自行使用软件包管理器进行安装
 
-### 2-3 安装教程（以Prism Launcher为例）
+### 2-3 客户端安装教程（以Prism Launcher为例）
 - 手动安装
   1. 首先从[Github Release](https://github.com/Star-River-Studios/Promised-World-Client/releases/latest)或[Modrinth](https://modrinth.com/project/promised-world-client/versions)下载客户端整合包文件（.mrpack格式）
   2. 打开启动器，点击`添加实例`
