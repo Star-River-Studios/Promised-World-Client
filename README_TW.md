@@ -61,22 +61,13 @@
     - Windows 版已內建，macOS、Linux 則需要自行使用軟體套件管理器進行安裝
 
 ### 2-3 客戶端安裝教學（以Prism Launcher為例）
-- 手動安裝
-  1. 首先從[Github Release](https://github.com/Star-River-Studios/Promised-World-Client/releases/latest)或[Modrinth](https://modrinth.com/project/promised-world-client/versions)下載客戶端整合包檔案（.mrpack格式）
-  2. 開啟啟動器，點擊`新增實例`
-  3. 在新增實例介面中，選擇左側導航列的`匯入`選項
-  4. 在匯入介面，點擊下方的`瀏覽`按鈕，選擇您下載的整合包檔案
-  5. 之後點擊`確定`，開始匯入
-  6. 等待匯入完成（期間會自動下載所需的模組、材質、光影等資源）
-  7. 啟動遊戲
-- 啟動器安裝
-  1. 開啟啟動器，點擊`新增實例`
-  2. 在新增實例介面中，選擇左側導航列的`Modrinth`選項
-  3. 在Modrinth介面中，搜尋`Promised World Client`，並選取
-  4. 在下方的`已選版本`中，選擇最新的版本
-  5. 點擊`確定`，開始匯入
-  6. 等待匯入完成（期間會自動下載所需的模組、材質、光影等資源）
-  7. 啟動遊戲
+1. 首先從[Github Release](https://github.com/Star-River-Studios/Promised-World-Client/releases/latest)下載客戶端整合包檔案（.mrpack格式）
+2. 開啟啟動器，點擊`新增實例`
+3. 在新增實例介面中，選擇左側導航列的`匯入`選項
+4. 在匯入介面，點擊下方的`瀏覽`按鈕，選擇您下載的整合包檔案
+5. 之後點擊`確定`，開始匯入
+6. 等待匯入完成（期間會自動下載所需的模組、材質、光影等資源）
+7. 啟動遊戲
 
 ## 叁、玩家社群
 - [QQ](https://qm.qq.com/q/qZ2TJ0lZdK)

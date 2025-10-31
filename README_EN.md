@@ -60,22 +60,13 @@ This repository is the client repository for the Minecraft multiplayer server - 
     - The Windows version is built-in, while macOS and Linux users need to install it manually using package managers.
 
 ### 2-3 Client Installation Tutorial (using Prism Launcher as example)
-- Manual Installation
-  1. First download the client modpack file (.mrpack format) from [Github Release](https://github.com/Star-River-Studios/Promised-World-Client/releases/latest) or [Modrinth](https://modrinth.com/project/promised-world-client/versions)
-  2. Open the launcher and click `Add Instance`
-  3. In the new instance interface, select the `Import` option from the left navigation bar
-  4. In the import interface, click the `Browse` button below and select the downloaded modpack file
-  5. Click `OK` to start importing
-  6. Wait for the import to complete (required mods, textures, shaders and other resources will be automatically downloaded during this process)
-  7. Launch the game
-- Launcher Installation
-  1. Open the launcher and click `Add Instance`
-  2. In the new instance interface, select the `Modrinth` option from the left navigation bar
-  3. In the Modrinth interface, search for `Promised World Client` and select it
-  4. In the `Selected Version` section below, choose the latest version
-  5. Click `OK` to start importing
-  6. Wait for the import to complete (required mods, textures, shaders and other resources will be automatically downloaded during this process)
-  7. Launch the game
+1. First download the client modpack file (.mrpack format) from [Github Release](https://github.com/Star-River-Studios/Promised-World-Client/releases/latest)
+2. Open the launcher and click `Add Instance`
+3. In the new instance interface, select the `Import` option from the left navigation bar
+4. In the import interface, click the `Browse` button below and select the downloaded modpack file
+5. Click `OK` to start importing
+6. Wait for the import to complete (required mods, textures, shaders and other resources will be automatically downloaded during this process)
+7. Launch the game
 
 ## III. Player Community
 - [QQ](https://qm.qq.com/q/qZ2TJ0lZdK)
@@ -84,7 +75,7 @@ This repository is the client repository for the Minecraft multiplayer server - 
 ## IV. Sponsorship Support
 If you wish to support the continued development and maintenance of this server, you can sponsor through the following methods:
 
-- [Maibei Duo - link to be added](#) - Sponsor through Maibei Duo (for users in Mainland China)
+- [MianBaoDuo - link to be added](#) - Sponsor through MianBaoDuo (for users in Mainland China)
 - [PayPal - link to be added](#) - Sponsor through PayPal (for overseas users)
 
 Your sponsorship will be used for:
