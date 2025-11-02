@@ -1,0 +1,16 @@
+filename = '[D][农业][农夫乐事][豆腐乐事]tofudelight-1.21.1-5.0.0.jar'
+name = 'TofuDelight'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '99b977b14b67e380e8f17dce48b92e1aeeeca1adaa54d1e162abb95a713860202a743c96af463ced8d034256bed03d522d8c653fc4784aa148b0e8d80d94a4ab'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/aRSw5ou4/versions/wrBhsmLZ/tofudelight-1.21.1-5.0.0.jar'
+
+[update.modrinth]
+mod-id = 'aRSw5ou4'
+version = 'wrBhsmLZ'

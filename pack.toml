@@ -1,0 +1,13 @@
+name = "Promised World Client"
+author = "ManyStars"
+version = "1.0.0-beta.1+pw.20251103"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d1417fdaf4bbed4155fb30cb67fe2e7913c8ff87ca6fd6121d3f3239b4b4a5a9"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.213"

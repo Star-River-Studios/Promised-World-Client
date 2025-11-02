@@ -1,0 +1,16 @@
+filename = '[Z][前置模组]telluriumforge-1.4.0-1.21.1-neoforge.jar'
+name = 'TelluriumForge'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'daafde3202b2be6626592b38f49d8a013db3e79c71113a20b4d26bddc58bfc7a5b1b20b2b4e1e49d3e7e0501994a334ddb11464683cc403fa7abf56107ffae57'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/GPY7zsQZ/versions/PDbRn5CL/telluriumforge-1.4.0-1.21.1-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'GPY7zsQZ'
+version = 'PDbRn5CL'

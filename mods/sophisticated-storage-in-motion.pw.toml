@@ -1,0 +1,16 @@
+filename = '[F][实用][精妙存储][精妙物流]sophisticatedstorageinmotion-1.21.1-0.10.24.155.jar'
+name = 'Sophisticated Storage in Motion'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '871b5fd7be6fbd42ccf97b498a505fcf3c39e846691ea791964f5560f1d5247e86966ba96f4b5daaedb175bb6485b21233286eedeae356400bc8cea064a7d15c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6vtFbyaJ/versions/O3nNftGu/sophisticatedstorageinmotion-1.21.1-0.10.24.155.jar'
+
+[update.modrinth]
+mod-id = '6vtFbyaJ'
+version = 'O3nNftGu'

@@ -1,0 +1,16 @@
+filename = '[D][农业][农夫乐事][云端之乐]DelightoFlight-1.21.1-1.2.2.jar'
+name = "Delight'o Flight"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ed4a28d523febdacc6030923ca1d4b45333db3e8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7170834
+project-id = 1347014

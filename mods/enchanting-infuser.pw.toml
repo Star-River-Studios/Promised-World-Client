@@ -1,0 +1,16 @@
+filename = '[F][实用][附魔灌注台]EnchantingInfuser-v21.1.2-1.21.1-NeoForge.jar'
+name = 'Enchanting Infuser'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6241679087afba18a89574f2565f66b3efffc3c0849db60f943261dfb9b8fd0923075280fa3b3962974440cc0212945a99ef142148c3ae5b6372c2a274cc1631'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ePv85y52/versions/beXGbkoY/EnchantingInfuser-v21.1.2-1.21.1-NeoForge.jar'
+
+[update.modrinth]
+mod-id = 'ePv85y52'
+version = 'beXGbkoY'

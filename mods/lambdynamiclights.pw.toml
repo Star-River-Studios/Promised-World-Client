@@ -1,0 +1,16 @@
+filename = '[H][优化][客户端][钠][Lambd的动态光源]lambdynamiclights-4.8.6+1.21.1.jar'
+name = 'LambDynamicLights'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '35b61b9bd9f20c3983fc96357a64cf992964850c7373232cc4f0b3f9fe6963a69a8be8fb7ccda7b0cef64732abef16418b05ca15d9211df9ad3d448a7633325f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yBW8D80W/versions/jo8kVG44/lambdynamiclights-4.8.6%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'yBW8D80W'
+version = 'jo8kVG44'

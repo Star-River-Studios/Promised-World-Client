@@ -1,0 +1,16 @@
+filename = '[C][冒险][有用的原版生物]useful-mobs-3.0.jar'
+name = 'Useful Mobs'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.10', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '950addfd2ea9d89aebc76734f0ddf6f5eae40d183e2368a72e670b6ac49292cc0d14a9039a02d487f491d97fca7d75dbdfdbb512dabb00938dd8b916e8652b93'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/elYq283b/versions/NkalVQGY/useful-mobs-3.0.jar'
+
+[update.modrinth]
+mod-id = 'elYq283b'
+version = 'NkalVQGY'

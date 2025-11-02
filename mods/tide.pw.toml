@@ -1,0 +1,16 @@
+filename = '[D][农业][潮汐]tide-neoforge-1.21-1.6.4.jar'
+name = 'Tide'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '074ac992dd1ca1857349907878cc9cdd917ae7beea6ab8190dee01d7244439b377388d6a467305b640235b992f38aea54c8b4f11c1894f4b252184b6cf321ab8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/die1AF7i/versions/Vud5znT2/tide-neoforge-1.21-1.6.4.jar'
+
+[update.modrinth]
+mod-id = 'die1AF7i'
+version = 'Vud5znT2'

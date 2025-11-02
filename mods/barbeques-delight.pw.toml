@@ -1,0 +1,16 @@
+filename = '[D][农业][农夫乐事][烧烤乐事]barbequesdelight-1.2.2.jar'
+name = "Barbeque's Delight [Forge/NeoForge]"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '13d76c0c793e6a865931866735ea6aec80842f73'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6849166
+project-id = 1007788
