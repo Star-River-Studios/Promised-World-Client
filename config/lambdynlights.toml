@@ -264,8 +264,38 @@ chunk_rebuild_scheduler = "culling"
 			[light_sources.settings.entities.mynethersdelight]
 				strider_rock = true
 
+			[light_sources.settings.entities.frightsdelight]
+				bone_shard = true
+
 			[light_sources.settings.entities.happy_ghast_legacy]
 				happy_ghast = true
+
+			[light_sources.settings.entities.ars_elemental]
+				siren_entity = true
+				summon_direwolf = true
+				lerp = true
+				summon_vhex = true
+				dripstone_spike = true
+				summon_camel = true
+				summon_dolphin = true
+				summon_wskeleton = true
+				firenando_entity = true
+				summon_skelehorse = true
+				flashing_weald_walker = true
+				conjured_dripstone = true
+				earth_mage = true
+				siren_familiar = true
+				conjured_ice_spike = true
+				firenando_familiar = true
+				air_mage = true
+				ice_spike = true
+				linger_magnet = true
+				flashjack_familiar = true
+				fire_mage = true
+				summon_strider = true
+				flashjack_entity = true
+				water_mage = true
+				flash_lightning = true
 
 			[light_sources.settings.entities.irons_spellbooks]
 				dragon_breath = true
@@ -385,6 +415,13 @@ chunk_rebuild_scheduler = "culling"
 				logistics_frame_active_provider = true
 				harvesting_drone = true
 
+			[light_sources.settings.entities.vinery]
+				mule = true
+				dark_cherry_boat = true
+				chair = true
+				dark_cherry_chest_boat = true
+				wandering_winemaker = true
+
 			[light_sources.settings.entities.sophisticatedbackpacks]
 				everlasting_backpack_item = true
 
@@ -403,6 +440,9 @@ chunk_rebuild_scheduler = "culling"
 			[light_sources.settings.entities.automobility]
 				automobile = true
 				hitbox = true
+
+			[light_sources.settings.entities.starbunclemania]
+				starby_mount = true
 
 			[light_sources.settings.entities.refurbished_furniture]
 				seat = true
@@ -532,6 +572,9 @@ chunk_rebuild_scheduler = "culling"
 				shell = true
 				bolt = true
 				bullet = true
+
+			[light_sources.settings.entities.little_big_redstone]
+				sticky_note = true
 
 			[light_sources.settings.entities.twilightforest]
 				slider = true
@@ -714,6 +757,31 @@ chunk_rebuild_scheduler = "culling"
 				shot_seeds = true
 				malarite_spear = true
 				starfire = true
+
+			[light_sources.settings.entities.iss_magicfromtheeast]
+				summoned_jiangshi = true
+				phantom_cavalry = true
+				onmyoji = true
+				push_zone = true
+				impermanence = true
+				spirit_ashigaru = true
+				soul_skull = true
+				summoned_kitsune = true
+				bone_hand = true
+				spirit_bullet = true
+				bagua_circle = true
+				spirit_arrow = true
+				jade_drapes = true
+				jade_executioner = true
+				jade_dao = true
+				pull_field = true
+				spirit_samurai = true
+				taoist = true
+				throw_circle = true
+				jade_loong = true
+				summon_cloud = true
+				challenged_soul = true
+				jade_sword = true
 
 			[light_sources.settings.entities.sophisticatedstorageinmotion]
 				storage_boat = true

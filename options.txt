@@ -240,11 +240,12 @@ key_keybind.sophisticatedcore.restock_item:key.keyboard.backslash
 key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.c
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
-key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x:ALT
+key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x:ALT
+key_key.ars_additions.open_lectern:key.keyboard.unknown
 key_key.deeperdarker.boost:key.keyboard.b
 key_key.deeperdarker.transmit:key.keyboard.v
 key_key.butcher.villagernosepress:key.keyboard.c
@@ -284,6 +285,9 @@ key_key.journeymap.fullscreen_follow_player:key.keyboard.f
 key_key.journeymap.fullscreen.disable_buttons:key.keyboard.unknown
 key_key.journeymap.toggle_entity_names:key.keyboard.g
 key_key.configured.open_mod_list:key.keyboard.unknown
+key_key.worldeditcui.chunk:key.keyboard.unknown
+key_key.worldeditcui.clear:key.keyboard.unknown
+key_key.worldeditcui.toggle:key.keyboard.unknown
 key_key.guideme.guide:key.keyboard.g
 key_key.jei.toggleOverlay:key.keyboard.o:CONTROL
 key_key.jei.focusSearch:key.keyboard.f:CONTROL
@@ -336,6 +340,11 @@ key_key.ae2.ae2wtlib_stow:key.keyboard.unknown
 key_key.ae2.portable_fluid_cell:key.keyboard.unknown
 key_key.ae2.wireless_pattern_encoding_terminal:key.keyboard.unknown
 key_key.ae2.wireless_terminal:key.keyboard.unknown
+key_key.beltborne_lanterns.open_config:key.keyboard.l
+key_key.beltborne_lanterns.toggle_debug:key.keyboard.k
+key_key.beltborne_lanterns.open_debug:key.keyboard.p
+key_key.beltborne_lanterns.toggle_lantern:key.keyboard.b
+key_key.ars_elemental.open_pouch:key.keyboard.j
 key_key.irons_spellbooks.spell_wheel:key.keyboard.r
 key_key.irons_spellbooks.spell_wheel_toggle:key.keyboard.unknown
 key_key.irons_spellbooks.spellbook_cast:key.keyboard.v
