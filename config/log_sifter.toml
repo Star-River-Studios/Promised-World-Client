@@ -24,6 +24,11 @@ message = "Couldn't load tag.*(?:\\n\\s+.*)*"
 is_regex = true
 
 [[suppress.rule]]
+logger = "net.minecraft.tags.TagLoader"
+message = "Couldn't read tag list.*(?:\\n(?:java\\.lang\\..*|\\s+.*)*)*"
+is_regex = true
+
+[[suppress.rule]]
 logger = "net.minecraft.world.level.storage.loot.LootDataType"
 message = "Couldn't parse element ResourceKey.*"
 is_regex = true
