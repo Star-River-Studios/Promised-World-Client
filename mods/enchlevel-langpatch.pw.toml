@@ -1,4 +1,4 @@
-filename = '[G][辅助][客户端][附魔等级语言补丁]enchlevel-langpatch-3.2.4.jar'
+filename = '[G][辅助][客户端][附魔等级语言补丁]enchlevel-langpatch-3.2.6.jar'
 name = 'Enchantment Level Language Patch'
 side = 'client'
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
@@ -319,16 +319,17 @@ x-prismlauncher-mc-versions = [
     '25w41a',
     '25w42a',
     '25w43a',
-    '25w44a'
+    '25w44a',
+    '25w45a'
 ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '828ceb436f19e00369e5eec14a229d0177b05effbce0063804646f53b8432d57e049f27b0edf832c522fa551dad1330d7d95a844d56bc43e2e488449852495d4'
+hash = 'ae76224116313c2b0f8279ebfb7f690bb21176f0ad0b6bc80d12d57f8041d7994e8ea752380f290aef93dd5959c637f05940b2fb829133af778174e25995b3c2'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/Lf4kDKU9/versions/EqZGxUlM/enchlevel-langpatch-3.2.4.jar'
+url = 'https://cdn.modrinth.com/data/Lf4kDKU9/versions/eyRXHaTz/enchlevel-langpatch-3.2.6.jar'
 
 [update.modrinth]
 mod-id = 'Lf4kDKU9'
-version = 'EqZGxUlM'
+version = 'eyRXHaTz'

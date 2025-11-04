@@ -1,0 +1,16 @@
+filename = '[F][实用][标签打印机]labellingcontainers-1.9.2.jar'
+name = 'Labelling Containers'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '283087e63af4db02032b7bc6db21d2f58a03280d004884b3ccc39a1e04e22e14133c060cc8bcb63544dd34bb4c7c51930ff0ab2f863ada00fab9be8a43c9ea7a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/b2T42hfY/versions/hGqSJ8Co/labellingcontainers-1.9.2.jar'
+
+[update.modrinth]
+mod-id = 'b2T42hfY'
+version = 'hGqSJ8Co'

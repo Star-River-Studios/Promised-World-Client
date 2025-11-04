@@ -1,4 +1,4 @@
-filename = '[B][魔法][新生魔艺][元素魔艺]ars_elemental-1.21.1-0.7.6.4.jar'
+filename = '[B][魔法][新生魔艺][元素魔艺]ars_elemental-1.21.1-0.7.6.5.jar'
 name = 'Ars Elemental'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '7312681f88753fcb394ef1322c4fa0c552ddcd24'
+hash = 'bde5211acf8a9185356e9b9e75873039d327d091'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7181695
+file-id = 7185603
 project-id = 561470

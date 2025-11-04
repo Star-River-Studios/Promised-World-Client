@@ -4,13 +4,13 @@
 	#Allowed Values: DISABLE, ENABLE, SHIFT, DEBUG, SHIFT_AND_DEBUG
 	burnTimeTooltip = "ENABLE"
 	#Allowed Values: DISABLE, ENABLE, SHIFT, DEBUG, SHIFT_AND_DEBUG
-	durabilityTooltipMode = "DISABLE"
+	durabilityTooltipMode = "ENABLE"
 	#Allowed Values: DISABLE, ENABLE, SHIFT, DEBUG, SHIFT_AND_DEBUG
 	enchantabilityTooltipMode = "ENABLE"
 	#Allowed Values: DISABLE, ENABLE, SHIFT, DEBUG, SHIFT_AND_DEBUG
-	foodTooltipMode = "SHIFT"
+	foodTooltipMode = "ENABLE"
 	#Allowed Values: DISABLE, ENABLE, SHIFT, DEBUG, SHIFT_AND_DEBUG
-	registryNameMode = "DISABLE"
+	registryNameMode = "ENABLE"
 	#Allowed Values: DISABLE, ENABLE, SHIFT, DEBUG, SHIFT_AND_DEBUG
 	maxStackSizeTooltipMode = "ENABLE"
 	#Allowed Values: DISABLE, ENABLE, SHIFT, DEBUG, SHIFT_AND_DEBUG
