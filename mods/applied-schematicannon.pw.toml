@@ -1,0 +1,16 @@
+filename = '[A][科技][机械动力][应用蓝图炮]appliedschematicannon-1.0.4.jar'
+name = 'Applied Schematicannon'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '01beefc2f633d50d2a82e01f245a3dd0588f9c48'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6584437
+project-id = 1269760

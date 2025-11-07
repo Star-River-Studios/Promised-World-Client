@@ -1,12 +1,12 @@
-filename = "[碧蓝档案扩展包]bluearchive0.0.2shotfix2.zip"
+filename = "[碧蓝档案扩展包]bluearchive0.0.3.zip"
 name = "[TaCZ]Blue Archive super gun pack"
 side = "both"
 
 [download]
-hash = "691F4A2DC33CE33908AF63E113610502B8A4654F"
+hash = "B34AB21A46D690425365E7AF62FAA89E069F0C1F"
 hash-format = "sha1"
 mode = "metadata:curseforge"
 
 [update.curseforge]
-file-id = 6598411
+file-id = 7151286
 project-id = 1095722

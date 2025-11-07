@@ -1,0 +1,16 @@
+filename = '[A][科技][机械动力][机械动力：超级管道]create_hypertube-0.2.6-hotfix-NEOFORGE.jar'
+name = 'Create: Hypertubes'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '0fa6ce93f6eef094e9cee8f11caa03f93a4a36c4147a0ef0f74cabb6374c3d159a2974ff72eb4686891d967e3c8b99c2424764f6822f3e6c1c033db9a2481b8a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ATDdrG1y/versions/LanBvn9M/create_hypertube-0.2.6-hotfix-NEOFORGE.jar'
+
+[update.modrinth]
+mod-id = 'ATDdrG1y'
+version = 'LanBvn9M'

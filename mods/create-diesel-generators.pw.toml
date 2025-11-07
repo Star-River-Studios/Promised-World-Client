@@ -1,0 +1,16 @@
+filename = '[A][科技][机械动力][机械动力：柴油动力]createdieselgenerators-1.21.1-1.3.7.jar'
+name = 'Create: Diesel Generators'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '76999caaf648216a9c67b0201db49e4c0a9a0bcbe59d78ecca19011085879256aca4b635720a429298ff1d735daf6b60421fd53c3f35febe45dc31d6d9b4cfa1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ZM3tt6p1/versions/GJ3rLH0C/createdieselgenerators-1.21.1-1.3.7.jar'
+
+[update.modrinth]
+mod-id = 'ZM3tt6p1'
+version = 'GJ3rLH0C'

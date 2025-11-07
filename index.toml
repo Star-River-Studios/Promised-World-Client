@@ -165,6 +165,22 @@ file = "cache/cfi-translations/assets/chunksfadein/lang/zh_tw.json"
 hash = "730526d123f76b17685dd68837105d8156d3803e6f53a4b9b542d2e8b6c41e4a"
 
 [[files]]
+file = "config/CSC/Data/variables.data"
+hash = "7da1d0bfa6550218a3405af1c5f26f6016d08a69c00bc7d70efe8009bde4a5f0"
+
+[[files]]
+file = "config/CSC/config.toml"
+hash = "b12265fbc892fcc591a60f033b6d11c1085331e8593c02cf457b190e28381400"
+
+[[files]]
+file = "config/CSC/online/rule_2025_10_01_16_01_43.json"
+hash = "2affa6d411073d4225f3bfa931ca4035fed2022d0e7f73431c390975e0aaf178"
+
+[[files]]
+file = "config/CSC/user_rule.json"
+hash = "b315aace9698606bd518ee01fe5a0559a1a0f64e411536655de0eeb87e12931a"
+
+[[files]]
 file = "config/GeneralFeedback/example.json"
 hash = "988da5f0c3074c43587cfcf0502900dfe9fab56f403837dd51e5aee51ae01a5b"
 
@@ -225,8 +241,12 @@ file = "config/ae2wtlib.toml"
 hash = "8405fa1f1820cf98d772dad0a86e67a8d57d40c51a496af5356bed91899d6e9b"
 
 [[files]]
-file = "config/appex-common.toml"
+file = "config/appex-common-1.toml.bak"
 hash = "180dfadaad471c3e81b772c2e589792d9bfd8ac6c4db9140df76b6a9162bdea6"
+
+[[files]]
+file = "config/appex-common.toml"
+hash = "1a62f013951c9faf9db2f3adbc79e94bea2932a3fe23a7366a2cdd5aa16d646f"
 
 [[files]]
 file = "config/appflux-common.toml"
@@ -297,6 +317,10 @@ file = "config/betteradvancements-client.toml"
 hash = "38e88509078026a5a660e00947e5a6db74a3c374c8c7978ef64c360167f84db9"
 
 [[files]]
+file = "config/betterf3.toml"
+hash = "42be4bfdc49eb5d384b801a971293f46636373cbd1807f316ad03057447bbf4a"
+
+[[files]]
 file = "config/bsf-client.toml"
 hash = "c67151b9df00cf8cb829ade87f452c93df9da84790a1d4318cd7a40ffa0e55b3"
 
@@ -321,6 +345,10 @@ file = "config/chunksfadein.properties"
 hash = "fc77b4a8e9edddf54b002691c53cbdd5afb181975ac2a1f75800a9b069d69d86"
 
 [[files]]
+file = "config/cmparallelpipes-client.toml"
+hash = "82258e4600e793f23eab83d8f44ad444c2dffc614718244ed6da859ec9777c53"
+
+[[files]]
 file = "config/compatdelight-common.toml"
 hash = "24663290d2cdb4d5bc6c5a379b264b0e9dfad97a520f69fb8901d8c907c6edd0"
 
@@ -331,6 +359,74 @@ hash = "db7bbdc89ab05070b2a4c22f6348b0c80aca4a3c449d92cdc6bc56b5af25ff7b"
 [[files]]
 file = "config/configured-client.properties"
 hash = "a9f1058d68eb630eb4783d12da4a5dea5c2f5481fdf38280e33944b9593d2d9c"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "e20f6769fd946b918f24cfd54a422a599faa43394ee9a33012e645102a366da3"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "2e77b1d93b40ce3f381ad7eb2a9e6d7148de917518be5c2616939a4369c4b140"
+
+[[files]]
+file = "config/create_cardboarded_conveynience-common.toml"
+hash = "954f0eca1455015cf390996e56e8cdd51ea8a32400a83bd732ffe2ec5d2396e8"
+
+[[files]]
+file = "config/create_central_kitchen-client.toml"
+hash = "0a1393aff89a803f574fcdb72a6c39c7fcdc95fae4e9ccf3d53cbd155c405c9d"
+
+[[files]]
+file = "config/create_central_kitchen-common.toml"
+hash = "e211c5226a565d1affc5d6c2f752cc5856369a6118ca2fef3a2b61f3fa36a5a8"
+
+[[files]]
+file = "config/create_deep_dark-common.toml"
+hash = "2f004290be6150ae3d5dfcb9674ebb2c407a4ca69e4e546f0e86dff9e2c2da16"
+
+[[files]]
+file = "config/create_dragons_plus-client.toml"
+hash = "cf30f0e99ef65fe80e80481bf9aaafefdbbf97adb84c0c3611ac2d9ca3cf8a28"
+
+[[files]]
+file = "config/create_dragons_plus-common.toml"
+hash = "5b1b6397fdc6e5e8f26527b78c9386a34b143e180efca6d086387778b79fbb65"
+
+[[files]]
+file = "config/create_enchantment_industry-client.toml"
+hash = "f1c6a25f81ec0f112e431b9064088e641c37b33a1aa16eed2bc4d03884c2b39c"
+
+[[files]]
+file = "config/create_hypertube-client.toml"
+hash = "25400eab973ba2d5cee6b6beaba0eecb75d597843124c2596ea7f4d0d2622749"
+
+[[files]]
+file = "config/create_new_age-client.toml"
+hash = "106458d22945b3ff5a8898a778e4a03ec6d30400321a39f5795b4e7d1385ea42"
+
+[[files]]
+file = "config/create_new_age-common.toml"
+hash = "5f8ddd146c49270081e09b2459e3e4cfe4e6c59537ea24ca1ea8b13f89304c22"
+
+[[files]]
+file = "config/createaddition-common.toml"
+hash = "0441e89a64a3730006d3dde2e1fe81a25f9af4fcb1fd08c9f956b00e56c50650"
+
+[[files]]
+file = "config/createdieselgenerators-client.toml"
+hash = "2f1d8f05b215da49383ae8a04ffadcb12202830a6cb2fbada26caaed9ce35dec"
+
+[[files]]
+file = "config/createdieselgenerators-common.toml"
+hash = "9745e0b82765ee9ac86c4340a941e1f26c10b2da19296928d99169fc36dfea1a"
+
+[[files]]
+file = "config/createfood.toml"
+hash = "10912fde3667f4d29b6f5ffe201e8867577606003764aba881fcaf907554405d"
+
+[[files]]
+file = "config/createnuclear-common.toml"
+hash = "9dd04f151c24615848ebde4f54900f45263c3004b1fb6065adc245ece13b4c14"
 
 [[files]]
 file = "config/cuisinedelight-client.toml"
@@ -389,6 +485,14 @@ file = "config/exposure_polaroid-client.toml"
 hash = "a5b310842f230d58680375561bfaf43db571ce0c6f2a5e5ad5559f7bb51433b6"
 
 [[files]]
+file = "config/extra_gauges-client.toml"
+hash = "4758f170780da39eb61ec8425b8da53499cf610e626885738fa4d5d01f39012b"
+
+[[files]]
+file = "config/extra_gauges-common.toml"
+hash = "ddd6e6bd4b9c65cbd64ef4403d827b84bd9073ce1c7fc01129c1947d0d6fc3e0"
+
+[[files]]
 file = "config/extradelight-common.toml"
 hash = "3898ab965692ff4699f110c9d27212ce14c09102bb0988486f189ee692a7c125"
 
@@ -429,6 +533,10 @@ file = "config/fluxnetworks-common.toml"
 hash = "28e28b4bd80833d08b04ffc3d054f2fc435dfac96ee014c8cc8b3dc49e8ba961"
 
 [[files]]
+file = "config/flywheel-client.toml"
+hash = "49414280350d38397bb99dc9f721e07e8d3d17920094455f08ae10079d460d9a"
+
+[[files]]
 file = "config/fml.toml"
 hash = "07c546de707ca14a8e3e0f3ae2de289ba0e52f486af6f627d098ceb044b72173"
 
@@ -442,7 +550,7 @@ hash = "2558187720f76c331375142b757590cb2dd2e25407858181a8abdbe7bdf88832"
 
 [[files]]
 file = "config/generalfeedback_config.toml"
-hash = "1bdf0d00a0e5510a11d58fcffc7c48f72b08b6796ff83ace36f2d66f496b731a"
+hash = "438cc21bcd46c7a9e6d1258b0d5cc67bfe2c4ee383d2fa4f083801476ea79980"
 
 [[files]]
 file = "config/guideme.toml"
@@ -470,7 +578,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "cbef60dd1b5db40a11a0230c8202c570c753bd6c76df071ced1b5c000c17ad63"
+hash = "1a35c72598d51fd218ce4b697b6481984ef50da2c7b804fa532a23e7aba5cae2"
 
 [[files]]
 file = "config/irons_spellbooks-client.toml"
@@ -494,11 +602,11 @@ hash = "f9f68a1557cdfab8394d2f4b54a2756d96451dcdddea4f5e04cb912b516ffa05"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "d1951b62269201d9a292fc0c366af85fc693cf215c32be51dac4b71a37b9b616"
+hash = "ca2c0a1120e185de35a5ba41c9d009d7e5c7e70ec313135118ce32e22a46c5cf"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "2a44709739de8d19b1befa62d7b6ef4ddedcf59bf14c4a8ccfdf408b9b709455"
+hash = "4d28c0c2214bc2a2234dcc81c18bb89533d5eea0161ac51e82cd2bf6b423443f"
 
 [[files]]
 file = "config/jearchaeology-common.toml"
@@ -585,6 +693,14 @@ file = "config/monolib-common.toml"
 hash = "875328038c958562c9d720174940394a1bdf4bc970db79130f9d4850a3a1f0b9"
 
 [[files]]
+file = "config/moreburners-client.toml"
+hash = "b78a46bf68208b53bdc4f16919f7249f2dc254a8932894e7b79eac512d7238da"
+
+[[files]]
+file = "config/moreburners-common.toml"
+hash = "d43a76d60c956cd48640d77a925f569cb913281992608ef13b329629f88f2f94"
+
+[[files]]
 file = "config/moreleads.cfg"
 hash = "d471c988bf69ded5875fa99335778ae3936b284636df4fcdd893ee165c2e908b"
 
@@ -613,8 +729,12 @@ file = "config/netmusic-common.toml"
 hash = "bf9598324520c5cab754a7635274c2a5753f737d8353904f025e1f10c13c5d41"
 
 [[files]]
+file = "config/northstar-client.toml"
+hash = "c922d82c7a79e3658e0b055d00cdbb968881aad0c60b2110a9aacb582a763aea"
+
+[[files]]
 file = "config/packetfixer.properties"
-hash = "f5ed2c87829bb8efdc871bd3e2bad06e9550fefd1dce73e6498fd2047b807d17"
+hash = "45efef4581aa0b036a017efc0a357874f9bf855c4a7b61c3862655fdba2db996"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -639,6 +759,10 @@ hash = "052d37ccd8ea50a41b1313430b3b85690ae130e6fde53c1c4902ab40e51afb4f"
 [[files]]
 file = "config/pneumaticcraft/thirdparty.cfg"
 hash = "e9af5f88697631ee27cb744f587f6f75a68cebab371e0df6f795ea63fce79d6a"
+
+[[files]]
+file = "config/ponder-client.toml"
+hash = "55affffe67e84dfe11e590769e235aee999b77f9484a3adf7ee8247a9f3d35ba"
 
 [[files]]
 file = "config/refurbished_furniture.client.toml"
@@ -887,7 +1011,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-experienced.pw.toml"
-hash = "d8db0994a41c785552e2e69fe43ebcef80574390c4b933fe85be85926638bde6"
+hash = "2e620bc52dccb2f9040140e2c29424bb1ce65a8c10d85ddd2339162b4045352b"
 metafile = true
 
 [[files]]
@@ -903,6 +1027,11 @@ metafile = true
 [[files]]
 file = "mods/applied-pneumatics.pw.toml"
 hash = "ae941d5f57b0faf5cf5e871f1af153af5f4d90a476fcc09a883338902365edff"
+metafile = true
+
+[[files]]
+file = "mods/applied-schematicannon.pw.toml"
+hash = "e0301e00020bb93d02d3269ad87b8aa43b4cf96ddb58e8b20033e4d9b3db6fcb"
 metafile = true
 
 [[files]]
@@ -1061,6 +1190,101 @@ hash = "5f1de4b36c9111203739c5e692ebb036df97f8a08c5c29fb986623bd28bf5ff3"
 metafile = true
 
 [[files]]
+file = "mods/create-cardboarded-conveynience.pw.toml"
+hash = "4badbf07d38c33901414242100f871de496af0aee949d7449e13c3667a51aabb"
+metafile = true
+
+[[files]]
+file = "mods/create-cc-total-logistics.pw.toml"
+hash = "aafb6aac59e5464f94ed487c5322d08eab24dd6d4c2a05333689dcbb346ddcde"
+metafile = true
+
+[[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "a429dbbb78e1f75394c7a0a47d4fee0f98e2fad016dc989abde7c7c0e941f8dd"
+metafile = true
+
+[[files]]
+file = "mods/create-deep-dark.pw.toml"
+hash = "97f1eff87476f621951160e9c511f7ee61d2b7317e1ee28b3dc99d6fd83cf899"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "c491c21ac1af64e83a5fdd15321c1ae525623b9695e1a67a39434197031215ad"
+metafile = true
+
+[[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "3a27d30c6e97b5de2859c4448a0f66d903a837189eaba015b44c774881849431"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "047e7e28772a121d4e16ec604ec2948162bdf416ffd604b59107ebcc8cf2e16c"
+metafile = true
+
+[[files]]
+file = "mods/create-food.pw.toml"
+hash = "fb7d01e334d25259742eabf2a9e53a1b725e893fdd88e0bdc680eee7b1295045"
+metafile = true
+
+[[files]]
+file = "mods/create-garnished.pw.toml"
+hash = "e86802f69ec334aaf225b9819ffd2fee46d28b82213cb0f791721b1712c2e939"
+metafile = true
+
+[[files]]
+file = "mods/create-integrated-farming.pw.toml"
+hash = "fdae05577a0aea0bf818ce43d994d999a59e4dcc2e387a9e7dc55963ec33173b"
+metafile = true
+
+[[files]]
+file = "mods/create-mobile-packages.pw.toml"
+hash = "0a2f46f6b6e5e88142f818cc0f0b9503c5891513f4de49e5f5fee8620f909b84"
+metafile = true
+
+[[files]]
+file = "mods/create-more-parallel-pipes.pw.toml"
+hash = "7757ca58fcb36d95595f89f1ba373b0dbc144e0cc382ea2f41d3f66aac5fd5ed"
+metafile = true
+
+[[files]]
+file = "mods/create-new-age.pw.toml"
+hash = "2477be70381cdfea79617f7054e0b71029826e6ce3c543659297f8b84a770b51"
+metafile = true
+
+[[files]]
+file = "mods/create-smart-bounds.pw.toml"
+hash = "f8cbea40179eec2a7677f41daab5b8fa1b3f8f686b56c0cf5cb99f40d7877587"
+metafile = true
+
+[[files]]
+file = "mods/create-stock-bridge.pw.toml"
+hash = "f177acd843754b7f187a34fbbedb6dfc211162e8ba7c4372ea04f58503688761"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "add98401df627b4f1a7cc47f5a3b32e07a113945bc382893e71d0a83d4d05366"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "5859ff15f4f00e0fba758c8822b5a5b70e50cb48f07e901d9cace265045365d2"
+metafile = true
+
+[[files]]
+file = "mods/createnuclear.pw.toml"
+hash = "92fc021485634d010b2a33e4203b1842a0479171ec9010c0bf889bcaabf664aa"
+metafile = true
+
+[[files]]
+file = "mods/createschematicchecker.pw.toml"
+hash = "39b67a93858487d3015533c0245ff58a48851a3245190958b7b6005a2ba8b331"
+metafile = true
+
+[[files]]
 file = "mods/cuisine-delight.pw.toml"
 hash = "fef8a772488bd72f29174ac86543c73a0ba8757fba925bbb6f133f1183b8b96e"
 metafile = true
@@ -1083,6 +1307,11 @@ metafile = true
 [[files]]
 file = "mods/delighto-flight.pw.toml"
 hash = "5f88065fecfc8ef9a0bb67841d31d5321b5fbdffb639f53262e5953f9de7879d"
+metafile = true
+
+[[files]]
+file = "mods/delivery-director.pw.toml"
+hash = "a91dd291a0566490cb7afd81486a04bcba7562968ee78a1c8fcfab34a7f4b3df"
 metafile = true
 
 [[files]]
@@ -1136,6 +1365,11 @@ hash = "01107e108f8950dae04242b2b24931309711a7c2300ea41013a982bdf248d6ae"
 metafile = true
 
 [[files]]
+file = "mods/extra-gauges.pw.toml"
+hash = "e9964c9fe9105b7adceca398e00b38b48722f4a57bb696af5e7e47dfcfcdd031"
+metafile = true
+
+[[files]]
 file = "mods/extradelight.pw.toml"
 hash = "a732b2fe34e79218e6a9e70b5a6a92e98a4644b4807b9604d92c123548866927"
 metafile = true
@@ -1182,7 +1416,7 @@ metafile = true
 
 [[files]]
 file = "mods/frights-delight.pw.toml"
-hash = "39e5324f6d44a667dae44b6fa704c7c82409e474c6c7e18079c3941c1130b39d"
+hash = "a972b04ab3120eca20d3face6b2b88710d1149b80de083ac7295e2e885336182"
 metafile = true
 
 [[files]]
@@ -1233,6 +1467,11 @@ metafile = true
 [[files]]
 file = "mods/hexerei.pw.toml"
 hash = "c358bd36145bd2645675aed5918906b05d00d8c0301a8906576baab4d1cec6b0"
+metafile = true
+
+[[files]]
+file = "mods/hypertube.pw.toml"
+hash = "e06ddcbf8d818ce254ac80dd00b92d496ca2ce601a2fb739c1af92d786cd9754"
 metafile = true
 
 [[files]]
@@ -1431,6 +1670,11 @@ hash = "eb7a29e9d0a1f078f8896f46ee0d1b53eb450a5f7004b5a67702dae598167686"
 metafile = true
 
 [[files]]
+file = "mods/more-create-burners.pw.toml"
+hash = "fc15b6a3fa6a527ccde31e10b164e531d4c64aff0da4e82dd3432f98367eb273"
+metafile = true
+
+[[files]]
 file = "mods/moreleads.pw.toml"
 hash = "5fa62093a14c2369e114bb8d431a5f3ce434301a944be14e026e263c15b34f9e"
 metafile = true
@@ -1463,6 +1707,11 @@ metafile = true
 [[files]]
 file = "mods/net-music.pw.toml"
 hash = "f18cc80dd659cc1b3f85ec6cace0e99f4fd63345b7926ec86b60876926c6a101"
+metafile = true
+
+[[files]]
+file = "mods/northstar-redux.pw.toml"
+hash = "b0d79d5205ac0366ee79eb51bcf5c4e03d92bc2435c5bd755f249b62628c554f"
 metafile = true
 
 [[files]]
@@ -1562,7 +1811,7 @@ metafile = true
 
 [[files]]
 file = "mods/rustic-delight.pw.toml"
-hash = "a48e54eade8b8a334ce6def1f8dc4f26ba8c72b2a32458b9ab4e2c6cd03bd3bd"
+hash = "7db97526cb9f38cb467f0971125fd9c5bea8e8179ad24fd14a760367dca31ffc"
 metafile = true
 
 [[files]]
@@ -1606,6 +1855,11 @@ hash = "73def749d26003814ca5afac5bb7df091b0e40c2f9af457a2dfbcc9f123a2744"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks-create-integration.pw.toml"
+hash = "a0a90e888cb3e973db09599616cceb4803a42e9a7447f6b4f43d07881c4d480c"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "335613ff0454c140704171f3f5b34127d19194583d417d8c12bb3da182779d73"
 metafile = true
@@ -1613,6 +1867,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "d00bb4b058dd37a1d3fb9cca0c736b6e2214efbd5238db31c931b19074044214"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-create-integration.pw.toml"
+hash = "0a8edbd46cc7fb107a68916c9c3208ec527ea37da507d854cf65350eef44b0eb"
 metafile = true
 
 [[files]]
@@ -1757,7 +2016,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "1daa2463db84d7797e99a4d0827053632b3096788d9376c2e54cf26416ac09cd"
+hash = "3a6339be56a9cc08226e6995ca4f1bf1ae3e74ff8b28673c489010a99de3d528"
 
 [[files]]
 file = "patchouli_data.json"
@@ -1770,16 +2029,12 @@ metafile = true
 
 [[files]]
 file = "servers.dat"
-hash = "bb0811e0c6ac2053655b2b9a8668f7d341a8b914107e153d3f8c73b26d9db3d9"
+hash = "7f6c64c30e4f9cacb0bbdad49a3fafb45dc49fbf09c67e792a1c4d2913a12691"
 
 [[files]]
 file = "shaderpacks/bsl.pw.toml"
 hash = "e19bbfaf56f0f83fbb9a98676c21fe6f0c8a07300045e30b0068d1e171fc5a8f"
 metafile = true
-
-[[files]]
-file = "tacz/[经典重铸扩展包]ClassicRCCRP v1.1.2 release+1.21.1.zip"
-hash = "498938767a6218fb7c73c9e861704357923280de99a4d5ca9240093d2a6ab6ca"
 
 [[files]]
 file = "tacz/applied-armorer-gun-pack.pw.toml"
@@ -1793,7 +2048,17 @@ metafile = true
 
 [[files]]
 file = "tacz/blue-archive-super-gun-pack.pw.toml"
-hash = "e7a53aaea5ce2d13072738cbc3e32f25b6adf4ab3905195695dbc02b1411af6c"
+hash = "4c2607df79fd9f69561b9cc0af8e4352ca2fbbfba2fe15e69ec1e5b3ff1461a2"
+metafile = true
+
+[[files]]
+file = "tacz/create-armorer-gun-pack.pw.toml"
+hash = "04c5ed0bf3155f634b2a536fe7ba1f5659726c23c7de86bb158c4f8343a8a3f1"
+metafile = true
+
+[[files]]
+file = "tacz/immersive-armorer-gun-pack.pw.toml"
+hash = "9884906a417d00e08f85ce46aa0a44ae3457ec4236cd3d686a45dca04286f12a"
 metafile = true
 
 [[files]]

@@ -1,0 +1,12 @@
+filename = "[机动军械师扩展包]Create Armorer-v1.2.0hotfix-for115.zip"
+name = "[TaCZ]Create Armorer"
+side = "both"
+
+[download]
+hash = "FFA11BBBB976D5114EEAFB716A3D1BB733E7413B"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 6849855
+project-id = 1092101

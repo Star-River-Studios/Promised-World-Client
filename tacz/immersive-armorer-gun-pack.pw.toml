@@ -1,0 +1,12 @@
+filename = "[沉浸军械师扩展包]Immersive Armorer-v1.2.0-for115.zip"
+name = "[TaCZ]Immersive Armorer"
+side = "both"
+
+[download]
+hash = "8D80A7B161F90C3675C30E206A493CDB014D9D55"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 6648585
+project-id = 1081193

@@ -1,0 +1,16 @@
+filename = '[A][科技][机械动力][机械动力：食物扩展]createfood-neoforge-1.21.1-2.0.0-beta-3.jar'
+name = 'Create: Food'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '138a415ce7885bb1797a25176d38b9e5414c8ebc58782b9c49ff471afef100138f609e0c8dc61d11db00e7552a93101eb2e0af2b53c1ef8d5dc8efd4b6106803'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4HnO3el1/versions/Sd9pbQKb/createfood-neoforge-1.21.1-2.0.0-beta-3.jar'
+
+[update.modrinth]
+mod-id = '4HnO3el1'
+version = 'Sd9pbQKb'
