@@ -729,10 +729,6 @@ file = "config/netmusic-common.toml"
 hash = "bf9598324520c5cab754a7635274c2a5753f737d8353904f025e1f10c13c5d41"
 
 [[files]]
-file = "config/northstar-client.toml"
-hash = "c922d82c7a79e3658e0b055d00cdbb968881aad0c60b2110a9aacb582a763aea"
-
-[[files]]
 file = "config/packetfixer.properties"
 hash = "45efef4581aa0b036a017efc0a357874f9bf855c4a7b61c3862655fdba2db996"
 
@@ -1707,11 +1703,6 @@ metafile = true
 [[files]]
 file = "mods/net-music.pw.toml"
 hash = "f18cc80dd659cc1b3f85ec6cace0e99f4fd63345b7926ec86b60876926c6a101"
-metafile = true
-
-[[files]]
-file = "mods/northstar-redux.pw.toml"
-hash = "b0d79d5205ac0366ee79eb51bcf5c4e03d92bc2435c5bd755f249b62628c554f"
 metafile = true
 
 [[files]]
