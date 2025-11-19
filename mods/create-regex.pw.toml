@@ -1,0 +1,16 @@
+filename = '[A][科技][机械动力][机械动力：正则表达式]create_regex-1.0.0.jar'
+name = 'Create Regex'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0181bfe98c96626ec222ad641f11745997164c12eccc52d69c575ca2c24eff84e5facbcaa0b6732984a2aff413663b209b8b5ee4cb8e8c1d26d200f68350d5e1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DqfZWf7r/versions/A2eyuoDb/create_regex-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'DqfZWf7r'
+version = 'A2eyuoDb'

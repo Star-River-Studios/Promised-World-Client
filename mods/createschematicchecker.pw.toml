@@ -1,4 +1,4 @@
-filename = '[A][科技][机械动力][机械动力：蓝图检查器]createschematicchecker-0.21.11-6.0-neoforge-1.21.1.jar'
+filename = '[A][科技][机械动力][机械动力：蓝图检查器]createschematicchecker-0.21.12-6.0-neoforge-1.21.1.jar'
 name = 'Create:Schematic Checker'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'ca540bc7475cc0e6db970d14b9ae97666fe1201cdf835949bd156111d87a490825542ad17aecc87128481c17e4ee25d9bac3f69b20fe625414c669ed3ca2afaa'
+hash = '8953753d980759b9a58d970fa674f0cf0a141a73f51b5a77d9d40c0cdb0ce9ff5e030a8498c210f3f05322f87642d96a4019e0d920a6339ea5eabc8d38f160be'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/ULzrAD1U/versions/Qh4WdGgt/createschematicchecker-0.21.11-6.0-neoforge-1.21.1.jar'
+url = 'https://cdn.modrinth.com/data/ULzrAD1U/versions/A8immPEP/createschematicchecker-0.21.12-6.0-neoforge-1.21.1.jar'
 
 [update.modrinth]
 mod-id = 'ULzrAD1U'
-version = 'Qh4WdGgt'
+version = 'A8immPEP'

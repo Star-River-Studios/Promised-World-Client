@@ -1,0 +1,16 @@
+filename = '[A][科技][机械动力][机械动力：应用动力学]createappliedkinetics-1.5.3-1.21.1.jar'
+name = 'Create: Applied Kinetics'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '811381c533257d0fa7f552e4cbc8395c9775530d8c4d3d128e1ee98af6a12dc5317d36f2289579e1b8f4bade99c27049a63e406222efc889f32b1b3c9d460245'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/mYGTCuZY/versions/5hxuW9NL/createappliedkinetics-1.5.3-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'mYGTCuZY'
+version = '5hxuW9NL'

@@ -1,0 +1,16 @@
+filename = '[A][科技][机械动力][机械动力：元物流]createmetalogistics-1.21.1-0.4.4.jar'
+name = 'Create: Meta Logistics'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7252b9f9a7b55fa6e40f93daaf116a1ceb90e8f40a56ff1ac9d255ff3466d985f0c56053586e59d08709843edd6125d23d0a5942e661da433874e4868a47b908'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2ACRRn3U/versions/eyEjuupr/createmetalogistics-1.21.1-0.4.4.jar'
+
+[update.modrinth]
+mod-id = '2ACRRn3U'
+version = 'eyEjuupr'

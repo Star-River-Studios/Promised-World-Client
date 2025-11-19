@@ -55,9 +55,6 @@
     - 支持平台：Windows / macOS / Linux
   - [Plain Craft Launcher Community Edition](https://www.pclc.cc/projects/pcl-ce/)
     - 支持平台：Windows
-- 其他软件
-  - [ffmpeg（ReForgedPlay模组需要）](https://ffmpeg.org/)
-    - Windows版已内置，macOS、Linux则需要自行使用软件包管理器进行安装
 
 ### 2-3 客户端安装教程（以Prism Launcher为例）
 1. 首先从[Github Release](https://github.com/Star-River-Studios/Promised-World-Client/releases/latest)下载客户端整合包文件（.mrpack格式）
@@ -81,3 +78,6 @@
 您的赞助将用于：
 - 维护服务器基础设施
 - 请作者去码头整点薯条:)
+
+## 五、更新日志
+[更新日志](./CHANGELOG.md)

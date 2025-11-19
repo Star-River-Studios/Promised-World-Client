@@ -1,0 +1,16 @@
+filename = '[G][辅助][客户端][整合包版本检查工具]versioner-1.0.0.jar'
+name = 'VersionerReborn'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'adb968bd0aae43e43c644e31a42ede4a0d80476c0e47f82f1e3b7245b7194a695a4b12d726e27f9c46b56ce172ebb864ac75d5bf42cddc638175dd16d17e289f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/P8C75WsP/versions/DGFhqAxl/versioner-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'P8C75WsP'
+version = 'DGFhqAxl'

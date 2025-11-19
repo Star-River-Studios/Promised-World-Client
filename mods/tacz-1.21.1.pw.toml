@@ -1,16 +1,16 @@
-filename = '[C][冒险][永恒枪械工坊：零-非官方版]tacz-neoforge-1.21.1-1.1.6-hotfix-r5.jar'
-name = '[UNOFFICIAL] TaCZ 1.21.1 NeoForge Port'
+filename = '[C][冒险][永恒枪械工坊：零-非官方版]tacz-neoforge-1.21.1-1.1.6-hotfix-r7.jar'
+name = 'Timeless & Classics Guns: Zero'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'c28a8a6137c4e89770c57a2251a21adae228609f7b757d18ce3958bc0325900e91d6a4b1eef44eaecab56d24dad120e0639b6dcda2f656d9a7a9df8c61df4e3d'
+hash = 'c9ab1460be48cd6099459f87705f9699be05477156927479902a9925656f68ef150bcf37d165518b179eda43c73e2aab3277d7ca2ad4072f9f1a68f4dc011ac0'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/OypNE65K/versions/y3PoZHK0/tacz-neoforge-1.21.1-1.1.6-hotfix-r5.jar'
+url = 'https://cdn.modrinth.com/data/OypNE65K/versions/XKOMIg4a/tacz-neoforge-1.21.1-1.1.6-hotfix-r7.jar'
 
 [update.modrinth]
 mod-id = 'OypNE65K'
-version = 'y3PoZHK0'
+version = 'XKOMIg4a'

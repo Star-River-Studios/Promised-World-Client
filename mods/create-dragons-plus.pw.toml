@@ -1,4 +1,4 @@
-filename = '[Z][前置模组]create-dragons-plus-1.8.3.jar'
+filename = '[Z][前置模组]create-dragons-plus-1.8.5.jar'
 name = 'Create: Dragons Plus'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = '9dec1195e2bd96a3fecc72f7a19ca46198bb365a36a66a0c70942a16586bf9a79ef9d64b19ea4eb4f98576d473df46cd761f9195ef69babf321902f7b456ea44'
+hash = '59bafc422073a2928b59e5d39d5011f0d9aac22d790c475e5795219560f22a99916e0126b842864335a959dbaa238ee2e9bdaae32862b6a971919d04b19d1949'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/dzb1a5WV/versions/mvitCDo3/create-dragons-plus-1.8.3.jar'
+url = 'https://cdn.modrinth.com/data/dzb1a5WV/versions/SzMfOokp/create-dragons-plus-1.8.5.jar'
 
 [update.modrinth]
 mod-id = 'dzb1a5WV'
-version = 'mvitCDo3'
+version = 'SzMfOokp'

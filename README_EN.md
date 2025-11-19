@@ -55,9 +55,6 @@ This repository is the client repository for the Minecraft multiplayer server - 
     - Supported platforms: Windows / macOS / Linux
   - [Plain Craft Launcher Community Edition](https://www.pclc.cc/projects/pcl-ce/)
     - Supported platforms: Windows
-- Other Software
-  - [ffmpeg (Required by ReForgedPlay mod)](https://ffmpeg.org/)
-    - The Windows version is built-in, while macOS and Linux users need to install it manually using package managers.
 
 ### 2-3 Client Installation Tutorial (using Prism Launcher as example)
 1. First download the client modpack file (.mrpack format) from [Github Release](https://github.com/Star-River-Studios/Promised-World-Client/releases/latest)
@@ -81,3 +78,6 @@ If you wish to support the continued development and maintenance of this server,
 Your sponsorship will be used for:
 - Maintaining server infrastructure
 - Buying some fries for the authors at the dock :)
+
+## V. Changelog
+- [Changelog](./CHANGELOG.md)

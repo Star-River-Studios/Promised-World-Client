@@ -1,16 +1,16 @@
-filename = '[A][科技][红石计划][红石计划：传导]ProjectRed-1.21.1-4.22.0-alpha+11-transmission.jar'
-name = 'Project Red Transmission'
+filename = '[A][科技][红石计划][红石计划：传导]ProjectRed-1.21.1-4.22.0-beta+14-transmission.jar'
+name = 'ProjectRed Transmission'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = 'e62ddcab3f22bbf140aa9f76c433a837d642aa8ae60f0d2edd86d4e38b17ac3b6d143ea6949dd7d9ed5379ef6bbe1c097b804a780ea980c28e2159c3c79164ba'
+hash = 'd4c2999a86c8c727361ec5b5b281824d0ff3fdcca4d3eb083fe9dbbb9ce9e7f3b848bfd1e962599c5678e5f98d1be92ee99ec99333282962238371086e06439d'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/dXmH4rEw/versions/fOEoAGiA/ProjectRed-1.21.1-4.22.0-alpha%2B11-transmission.jar'
+url = 'https://cdn.modrinth.com/data/dXmH4rEw/versions/XhAo9jLd/ProjectRed-1.21.1-4.22.0-beta%2B14-transmission.jar'
 
 [update.modrinth]
 mod-id = 'dXmH4rEw'
-version = 'fOEoAGiA'
+version = 'XhAo9jLd'

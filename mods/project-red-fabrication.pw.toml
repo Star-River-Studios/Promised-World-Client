@@ -1,16 +1,16 @@
-filename = '[A][科技][红石计划][红石计划：制作]ProjectRed-1.21.1-4.22.0-alpha+11-fabrication.jar'
-name = 'Project Red Fabrication'
+filename = '[A][科技][红石计划][红石计划：制作]ProjectRed-1.21.1-4.22.0-beta+14-fabrication.jar'
+name = 'ProjectRed Fabrication'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = 'fd8261bcc672fd6b4907d5128936af45dc81e46d8c1b28767b0c8459f8842a86162dba5b52707ee5bea7f83e1b0b9901ab99c55cdaeb3d919e1692b30a15004f'
+hash = '5edcabbeab24db7a37a0b49f61852f2d8bcd3cbbd2c0798793070a5ec9f191ed4dc9552b80b6db7183f6c3f949bd447a15d498952567448ca8f699bb38062bb4'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/5H1VMCiY/versions/xKox8Aam/ProjectRed-1.21.1-4.22.0-alpha%2B11-fabrication.jar'
+url = 'https://cdn.modrinth.com/data/5H1VMCiY/versions/VuYjKE8l/ProjectRed-1.21.1-4.22.0-beta%2B14-fabrication.jar'
 
 [update.modrinth]
 mod-id = '5H1VMCiY'
-version = 'xKox8Aam'
+version = 'VuYjKE8l'

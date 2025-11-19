@@ -1,16 +1,16 @@
-filename = '[A][科技][红石计划][红石计划：集成]ProjectRed-1.21.1-4.22.0-alpha+11-integration.jar'
-name = 'Project Red Integration'
+filename = '[A][科技][红石计划][红石计划：集成]ProjectRed-1.21.1-4.22.0-beta+14-integration.jar'
+name = 'ProjectRed Integration'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = '138df59dfea219213d30ac957a969006c19436ce59958fec1ace51d6c6266d417e20630558363f4c16b51976447c5d5fd7631f271c3050a383a54652f4ddbd00'
+hash = 'ecdb6a4238c65a4b27da006035867a49612f85ea559b3dcc5950a7ff70d6b5c84b2ca8f9f5e210d5124fa9652fea633c91f42447c1df039628e204c6e14c7d35'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/3JruZJb0/versions/ylvznwdI/ProjectRed-1.21.1-4.22.0-alpha%2B11-integration.jar'
+url = 'https://cdn.modrinth.com/data/3JruZJb0/versions/4Z7kcXEp/ProjectRed-1.21.1-4.22.0-beta%2B14-integration.jar'
 
 [update.modrinth]
 mod-id = '3JruZJb0'
-version = 'ylvznwdI'
+version = '4Z7kcXEp'

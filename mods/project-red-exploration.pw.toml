@@ -1,16 +1,16 @@
-filename = '[A][科技][红石计划][红石计划：探索]ProjectRed-1.21.1-4.22.0-alpha+11-exploration.jar'
-name = 'Project Red Exploration'
+filename = '[A][科技][红石计划][红石计划：探索]ProjectRed-1.21.1-4.22.0-beta+14-exploration.jar'
+name = 'ProjectRed Exploration'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = '23b3981c9be2b68fbe6d920f8cb7daad44b6c421f7756856efc65f4ae40a79d23ebc9f451d2ca98d1773ded16c4fcc6e42ead326ee1faa8dbd720c76e66516e8'
+hash = '3ab3efbeadff8fef8c81ef8c52eae94fa80f54290e8e2427e332041498e60b403a4c0b56e26c968bab34eab4b64042843816e7d39183fa857b24d0c9b583f42f'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/TVQMH6pX/versions/41f5zMFu/ProjectRed-1.21.1-4.22.0-alpha%2B11-exploration.jar'
+url = 'https://cdn.modrinth.com/data/TVQMH6pX/versions/i8wjuTKZ/ProjectRed-1.21.1-4.22.0-beta%2B14-exploration.jar'
 
 [update.modrinth]
 mod-id = 'TVQMH6pX'
-version = '41f5zMFu'
+version = 'i8wjuTKZ'

@@ -1,16 +1,16 @@
-filename = '[F][实用][网络音乐机]netmusic-1.1.8-neoforge+mc1.21.1.jar'
-name = 'Net Music'
+filename = '[F][实用][网络音乐机]netmusic-1.2.0-neoforge+mc1.21.1.jar'
+name = 'Net Music Mod'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'a310dcc378dea4bdc8005fb5c6798e50de68bb6d08270e0731944f524025b1a75654e55ea81d1f732038bc8ca25fe34eb1468995cdf49e9534a5b099cfa9db24'
+hash = '941780f3f54791391630d5a59c704fdf36c3eea9962e5dda8180f905256d4d3456a9b5830c9ebd5c22e96df1f41802e434499fc624a0e46f194266eb03ca92cc'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/gKNuqaQq/versions/sc6s5DUE/netmusic-1.1.8-neoforge%2Bmc1.21.1.jar'
+url = 'https://cdn.modrinth.com/data/gKNuqaQq/versions/3xn2Wl0a/netmusic-1.2.0-neoforge%2Bmc1.21.1.jar'
 
 [update.modrinth]
 mod-id = 'gKNuqaQq'
-version = 'sc6s5DUE'
+version = '3xn2Wl0a'

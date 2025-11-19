@@ -1,0 +1,16 @@
+filename = '[D][农业][农夫乐事][高级砧板]cuttingdelight-1.0.0-beta.2.jar'
+name = 'Cutting Delight'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '7fbbaeb069cac2b6a5b94668b8668d80d293d86d6de7ba929ef156acd7e7c00d6ef54655f35e12f7695cdd2f608cf1481621602ca4b87ecab5cac9a082ea554f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/5oqQBDcS/versions/bOJw7NH9/cuttingdelight-1.0.0-beta.2.jar'
+
+[update.modrinth]
+mod-id = '5oqQBDcS'
+version = 'bOJw7NH9'

@@ -1,4 +1,4 @@
-filename = '[A][科技][机械动力][机械动力：应用能源2扩展]createstockbridge-1.21.1-0.1.6.jar'
+filename = '[A][科技][机械动力][机械动力：存储桥接]createstockbridge-1.21.1-0.1.6.jar'
 name = 'Create Stock Bridge'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]

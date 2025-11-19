@@ -1,0 +1,16 @@
+filename = '[A][科技][机械动力][机械动力：更多管道]create_mpnt-1.0.0.jar'
+name = "Create: More Pipes n' Things"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '739e05712f8a1946a0f210668143a1d9867a9903bcc900e85e5d36a54a6df6d01b4d8d7b99c6230f549d93dc708db7d58c10acc68536ad3c4f1ec527f55f4626'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xv82Wk5D/versions/yfqMwGJn/create_mpnt-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'xv82Wk5D'
+version = 'yfqMwGJn'
