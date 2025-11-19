@@ -2168,9 +2168,5 @@ hash = "9884906a417d00e08f85ce46aa0a44ae3457ec4236cd3d686a45dca04286f12a"
 metafile = true
 
 [[files]]
-file = "update_data.json"
-hash = "45a4dd2547d2afd5436816b369f23fca532b66b445bf5e7bb7ffed33754e0c41"
-
-[[files]]
 file = "waypoints/WaypointData.dat"
 hash = "a97f9209798b2f0874b7c2fd3c5b5319f2777a481b555287676ec55c5c7522d7"
