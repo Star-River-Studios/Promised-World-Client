@@ -1,0 +1,16 @@
+filename = '[A][科技][机械动力][机械动力：动态终端]createcontraptionterminals-1.21-1.2.0.jar'
+name = 'Create Contraption Terminals'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '43f11d108620ef4e2291b9529e7a46a6cd151cd9df51cb12a527c65f1ae6bed4bacd19616d6dd051c7c457ee1c8bbbd822514cd19c60da16cbfa07f66a61c2fe'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gOPAFzp0/versions/5Gi82Kml/createcontraptionterminals-1.21-1.2.0.jar'
+
+[update.modrinth]
+mod-id = 'gOPAFzp0'
+version = '5Gi82Kml'

@@ -123,10 +123,13 @@
   "kaleidoscope_cookery": {
     "chopping_board": true,
     "shawarma_spit": true,
-    "oil_pot": true,
     "recipe_block": true,
     "millstone": true,
     "enamel_basin": true
+  },
+  "toms_storage": {
+    "inventory_config": true,
+    "inventory_connector": true
   },
   "twilightforest": {
     "chiseled_bookshelf_spawner": true,

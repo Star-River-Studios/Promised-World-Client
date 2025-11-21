@@ -1,0 +1,13 @@
+filename = 'BedrockStyleCursors_v1.0.0.zip'
+name = 'Bedrock-Style Cursors'
+side = 'client'
+
+[download]
+hash = '9155B69BF3D64987DD81AA8DB735340BA9B3EE1F4C5F75C20DDABF7BCAD70A9D1C01A72FB7E619499304A837BD0BDC1A39613AA404C05AE465D7A36F86C797FB'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dUA5FyFq/versions/q44839P0/BedrockStyleCursors_v1.0.0.zip'
+
+[update.modrinth]
+mod-id = 'dUA5FyFq'
+version = 'q44839P0'

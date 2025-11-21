@@ -48,8 +48,8 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["file/Minecraft-Mod-Language-Modpack-Converted-1.21.1.zip","scholar:colored_books","scholar:chiseled_bookshelf_colored_books"]
-incompatibleResourcePacks:[]
+resourcePacks:["tacz_resources","teastory_asset_generator","vanilla","file/Minecraft-Mod-Language-Modpack-Converted-1.21.1.zip","scholar:colored_books","scholar:chiseled_bookshelf_colored_books","mod_resources","file/BedrockStyleCursors_v1.0.0.zip"]
+incompatibleResourcePacks:["teastory_asset_generator"]
 lastServer:
 lang:zh_cn
 chatVisibility:0
@@ -143,6 +143,7 @@ key_key.nemos_inventory_sorting.sort_alphabetically_inventory:key.keyboard.unkno
 key_key.nemos_inventory_sorting.sort_alphabetically_descending:key.keyboard.unknown
 key_key.nemos_inventory_sorting.sort_alphabetically_descending_inventory:key.keyboard.unknown
 key_chunksfadein.keybinds.toggleMod:key.keyboard.unknown
+key_key.toms_storage.open_terminal:key.keyboard.b
 key_key.control:key.keyboard.left.control
 key_key.sfm.more_info:key.keyboard.left.shift
 key_key.sfm.container_inspector.activation_key:key.keyboard.i:CONTROL
@@ -170,6 +171,7 @@ key_key.mekanism.description:key.keyboard.n:SHIFT
 key_key.mekanism.module_tweaker:key.keyboard.backslash
 key_key.mekanism.key_boost:key.keyboard.left.control
 key_key.mekanism.key_hud:key.keyboard.h
+key_key.plasmovoice.settings:key.keyboard.v
 key_pneumaticcraft.armor.options:key.keyboard.u
 key_pneumaticcraft.helmet.hack:key.keyboard.h
 key_pneumaticcraft.helmet.debugging.drone:key.keyboard.y
@@ -227,10 +229,10 @@ key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.c
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
-key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x:ALT
-key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x:ALT
+key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
 key_key.ars_additions.open_lectern:key.keyboard.unknown
 key_key.deeperdarker.boost:key.keyboard.b
 key_key.deeperdarker.transmit:key.keyboard.v

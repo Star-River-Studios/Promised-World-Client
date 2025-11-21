@@ -123,7 +123,6 @@
 
 ## 💬 更新寄语
 （占位）
-
 ```
 
 ---
@@ -470,6 +469,56 @@
     - Bagus Lib
     - Create: Dragons Plus
     - Tesseract API
+
+## 📚 使用指南
+详细系统要求、启动器配置与安装步骤，请参阅项目 README：
+- [简体中文版](./README.md)
+- [繁體中文版](./README_TW.md)
+- [English version](./README_EN.md)
+
+## 🙌 加入社区
+- QQ 群：[点击加入](https://qm.qq.com/q/qZ2TJ0lZdK)
+- Discord：[Join Server](https://discord.gg/j275P4PRzP)
+
+## 💬 更新寄语
+欢迎继续体验本服务器，你的反馈是我们前进的动力！
+
+---
+
+# 🌍 应许之世 v2.1.0+pw.20251122
+
+> 📅 发布日期：2025-11-22
+
+## 🛠️ 更新介绍
+在本次更新中，我们删除了饱受诟病的`Immersive Melodies（沉浸式奏乐）`模组，同时我们还添加了几个新的模组。
+除此之外还添加了一个光标资源，并对现有模组进行了一次更新。
+
+## 🔧 分发标准
+
+- 采用 **Modrinth 整合包格式**（后缀为 `.mrpack` 的压缩文件）进行分发
+- 所有资源（模组、材质包、光影、枪械包等）由 **Packwiz** 统一管理
+- 此为 **「繁星计划（Project Many Stars）」** 下属服务器客户端的统一规范
+
+## 📋 变更说明
+
+### 📦 模组变更
+- ➕ **新增**
+  - Plasmo Voice（等离子语音）（客户端）
+  - pv-addon-groups（语音分组）（客户端）
+  - Create: Threaded Trains（机械动力：铁路网性能优化）
+  - Create: Filters Anywhere（机械动力：过滤器增强）
+  - Tom's Simple Storage Mod（汤姆的简易存储）
+  - Create Contraption Terminals（机械动力：动态终端）
+- 🗑️ **删除**
+  - Immersive Melodies（沉浸式奏乐）
+- 🔄 **更新**
+  - Delight o' Flight（云端之乐）
+  - Create Hypertube'（机械动力：超级管道）
+  - Super Factory Manager（超级工厂管理器）
+
+### 🎨 资源变更
+- ➕ **新增**
+  - Bedrock-Style Cursors（材质包-游戏内鼠标光标包）
 
 ## 📚 使用指南
 详细系统要求、启动器配置与安装步骤，请参阅项目 README：

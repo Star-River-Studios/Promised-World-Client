@@ -1,4 +1,4 @@
-filename = '[F][实用][超级工厂管理器]Super Factory Manager (SFM)-MC1.21.1-4.26.0.jar'
+filename = '[F][实用][超级工厂管理器]Super Factory Manager (SFM)-MC1.21.1-4.27.0.jar'
 name = 'Super Factory Manager'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'a557788ff384ef697a2c37862482e2f8c4efa572d5a355e678df4318bc20d3a482ed497f274d10d5df66e0be53df26c3861405d53510ddfa8b3794ebf68195ec'
+hash = 'aef2192c28245d53d56047d94519ed14af1f8e179f4ba944dabfbf0985b9ec3acc7d6ff2407ef326adcccf516b0ce5fab05837f08d5eab2a18be609918e175a4'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/aecUorJQ/versions/Za3Yr2ba/Super Factory Manager %28SFM%29-MC1.21.1-4.26.0.jar'
+url = 'https://cdn.modrinth.com/data/aecUorJQ/versions/2yCC390y/Super Factory Manager %28SFM%29-MC1.21.1-4.27.0.jar'
 
 [update.modrinth]
 mod-id = 'aecUorJQ'
-version = 'Za3Yr2ba'
+version = '2yCC390y'
