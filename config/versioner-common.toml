@@ -16,7 +16,7 @@
 	#Where the version data JSON will be fetched from, KEEP http:// or https://
 	versionDataURL = "https://gitee.com/Star-River-Studios/Promised-World-Client/raw/main/update_data.json"
 	#The url that is opened when the user clicks on update button, KEEP http:// or https://
-	updateURL = "https://gitee.com/Star-River-Studios/Promised-World-Client/releases/latest"
+	updateURL = "https://github.com/Star-River-Studios/Promised-World-Client/releases/latest"
 	#The border of large messages, makes them look pretty
 	delimiter = "========================================"
 
@@ -30,11 +30,11 @@
 
 [currentVersion]
 	#Version name of the current version
-	versionName = "2.1.0+pw.20251122"
+	versionName = "3.0.0-beta.1+pw.20251208"
 	#Version code of the current version, must not be negative.
 	# Default: 0
 	# Range: > 0
-	versionCode = 20251122
+	versionCode = 20251208
 	#How to output formatted version name. Only used for displaying current version.
 	versionFormat = "%currentVersionName%"
 	#Variables to use when formatting current version. One entry per line, the format is key=value
@@ -63,4 +63,4 @@
 	#Text to display when hovering mouse over the text, as tooltips.
 	tooltipText = ["§eCurrent Version§f: §6%currentVersionName% (%currentVersionCode%)", "§2Latest Version§f: §2%versionName% (%versionCode%)", "§9§nClick for update link!"]
 	#When the user click on the text, they will be sent to this link.
-	clickLink = "https://gitee.com/Star-River-Studios/Promised-World-Client/releases/latest"
+	clickLink = "https://github.com/Star-River-Studios/Promised-World-Client/releases/latest"

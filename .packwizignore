@@ -1,4 +1,5 @@
 *.gitkeep
+/tools/*
 /LICENSE
 /CHANGELOG.md
 /README.md

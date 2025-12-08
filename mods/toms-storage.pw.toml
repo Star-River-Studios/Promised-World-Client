@@ -1,4 +1,4 @@
-filename = '[F][实用][汤姆的简易存储]toms_storage-1.21-2.2.2.jar'
+filename = '[F][实用][汤姆的简易存储]toms_storage-1.21-2.2.3.jar'
 name = "Tom's Simple Storage Mod"
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'fe1fa5cb7ffdd87460f7162d179c2232e2eac922fde7d93dc54cbb390d087e2b3eb369fd877ad07169932f4020aff641a2932e1e0716603ee57ca965460a0e3d'
+hash = '4015cc551b8d5b6f93c64f5b2bd9b9c58f7d4f6d4c96acdfc6a720109bd67f12657abfb9a8ecd325cf1eabda5fd1086d385e52724599ed2f42c35ced64d1e096'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/XZNI4Cpy/versions/EEFysEme/toms_storage-1.21-2.2.2.jar'
+url = 'https://cdn.modrinth.com/data/XZNI4Cpy/versions/YZ629sQj/toms_storage-1.21-2.2.3.jar'
 
 [update.modrinth]
 mod-id = 'XZNI4Cpy'
-version = 'EEFysEme'
+version = 'YZ629sQj'

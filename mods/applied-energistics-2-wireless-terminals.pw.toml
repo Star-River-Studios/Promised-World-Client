@@ -1,4 +1,4 @@
-filename = '[A][科技][应用能源2][AE2无线终端]ae2wtlib-19.2.6.jar'
+filename = '[A][科技][应用能源2][AE2无线终端]ae2wtlib-19.3.0.jar'
 name = 'Applied Energistics 2 Wireless Terminals'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'd3b2a5039049826de6d41f737d2ccd630f32d2c3297d8ce1525a5d50a1d77c2faaaea96442660522c8c60e3758648d48c6f437783f8f91f484e3815b12f694ca'
+hash = '477fbc6642b2f96208b99189b9fb3fb774d41587a545a35d0b417fc0321bbe944db2553f0a08d0663258500ea73c3773f7fc093af604ff1d4b579b32c7c40d69'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/pNabrMMw/versions/IQFaf9vp/ae2wtlib-19.2.6.jar'
+url = 'https://cdn.modrinth.com/data/pNabrMMw/versions/jJ2svSk6/ae2wtlib-19.3.0.jar'
 
 [update.modrinth]
 mod-id = 'pNabrMMw'
-version = 'IQFaf9vp'
+version = 'jJ2svSk6'

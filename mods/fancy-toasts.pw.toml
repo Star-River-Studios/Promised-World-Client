@@ -1,16 +1,16 @@
-filename = '[G][辅助][客户端][更好的成就提示]fancytoasts-neoforge-1.21.1-1.4.4.1.jar'
-name = 'FancyToasts'
+filename = '[G][辅助][客户端][更好的成就提示]fancytoasts-neoforge-1.21.1-1.4.5.1.jar'
+name = 'Fancy Toasts | Better Advancements'
 side = 'client'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '3e1d7a05f72e2e91782e7b2387497e8017232793'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = '00f6a33a8704fe814122be247fc4b143d640d62fce004de231af5497b93a36f0d97554d71fb1021eeec81bd1bd67fb63e1c25ab2304c604725d7437f0158a902'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/eUziWqPC/versions/mRTW5IaJ/fancytoasts-neoforge-1.21.1-1.4.5.1.jar'
 
-[update.curseforge]
-file-id = 7233467
-project-id = 1326436
+[update.modrinth]
+mod-id = 'eUziWqPC'
+version = 'mRTW5IaJ'

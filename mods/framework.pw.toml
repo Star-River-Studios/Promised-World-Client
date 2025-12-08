@@ -1,4 +1,4 @@
-filename = '[Z][前置模组]framework-neoforge-1.21.1-0.13.1.jar'
+filename = '[Z][前置模组]framework-neoforge-1.21.1-0.13.5.jar'
 name = 'Framework'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = '224d36da132e660b6933f2c71ea2db36d30b035e'
+hash = 'ac8020d47e347d1b1de7df27d4c86d4721016944'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7172783
+file-id = 7263629
 project-id = 549225

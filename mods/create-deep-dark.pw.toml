@@ -1,16 +1,16 @@
-filename = '[A][科技][机械动力][机械动力：深暗之域]create_deep_dark-2.1.0-neoforge-1.21.1.jar'
-name = 'Create: Deep Dark [Forge/NeoForge]'
+filename = '[A][科技][机械动力][机械动力：深暗之域]create_deep_dark-3.0.0-neoforge-1.21.1.jar'
+name = 'Create: Deep Dark'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '845d17fce322af3f9534e8388fc976b769cc6fe8cbc57e452c326b7fb76eecba46a3d41d6c808e1c8806be75a34ce9ab9a98c1828898af9b5f7deb86edaa75f2'
+hash = 'aba5ae087bb7e48f4dd22876ef4cdb0e122a9ab3242e64186db3b092c328f8f37742149494719abaa5ef82513899cc197a05c23cf33128137426046f0f88b205'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/knrLSB8n/versions/r1enuyGf/create_deep_dark-2.1.0-neoforge-1.21.1.jar'
+url = 'https://cdn.modrinth.com/data/knrLSB8n/versions/pKBb3bDH/create_deep_dark-3.0.0-neoforge-1.21.1.jar'
 
 [update.modrinth]
 mod-id = 'knrLSB8n'
-version = 'r1enuyGf'
+version = 'pKBb3bDH'

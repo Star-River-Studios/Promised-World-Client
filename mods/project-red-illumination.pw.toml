@@ -1,16 +1,16 @@
-filename = '[A][科技][红石计划][红石计划：照明]ProjectRed-1.21.1-4.22.0-beta+14-illumination.jar'
-name = 'ProjectRed Illumination'
+filename = '[A][科技][红石计划][红石计划：照明]ProjectRed-1.21.1-4.22.0-beta+33-illumination.jar'
+name = 'Project Red Illumination'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = '90d6f4f969cc156ae88a84732b7d2cc96a35e4d822c083b536778d687ed5dcb06797beb01896d058fadd7b35f0542712a024f8e41de202beb12bb6c6c3e64542'
+hash = '877c0372335d76887d3dc3517dda98a94aabc52ada2ee8ab5f9f7bd483296b47238289ffe9000db76dc248720d549bfb1061e6228d7d22528282f583bd999f21'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/9a4Zqq1k/versions/a5U6O5Ku/ProjectRed-1.21.1-4.22.0-beta%2B14-illumination.jar'
+url = 'https://cdn.modrinth.com/data/9a4Zqq1k/versions/3QolYvBZ/ProjectRed-1.21.1-4.22.0-beta%2B33-illumination.jar'
 
 [update.modrinth]
 mod-id = '9a4Zqq1k'
-version = 'a5U6O5Ku'
+version = '3QolYvBZ'

@@ -52,6 +52,11 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "lightmanscurrency": {
+    "model_variant": true,
+    "model_variant.locked": false,
+    "paygate": true
+  },
   "jadeaddons.create": {
     "filter": true,
     "backtank_capacity": true,
@@ -91,6 +96,10 @@
     "block_properties": false,
     "mod_name": true
   },
+  "extendedae": {
+    "jade_chamber": true,
+    "jade_wireless": true
+  },
   "ae2": {
     "part_icon": true,
     "charger": true,
@@ -103,8 +112,14 @@
     "crafting_monitor": true,
     "part_name": true
   },
-  "ars_nouveau": {
-    "mob_jar": true
+  "extendedae_plus": {
+    "wt_locked": true,
+    "wt_frequency": true,
+    "wt_network_usable": true,
+    "wt_master_mode": true,
+    "wt_channels": true,
+    "wt_master_location": true,
+    "wt_owner": true
   },
   "jadeaddons": {
     "equipment_requirement": ""
@@ -130,6 +145,10 @@
   "toms_storage": {
     "inventory_config": true,
     "inventory_connector": true
+  },
+  "touhou_little_maid": {
+    "maid": true,
+    "shrine_lamp": true
   },
   "twilightforest": {
     "chiseled_bookshelf_spawner": true,

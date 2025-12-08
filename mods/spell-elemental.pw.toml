@@ -1,0 +1,16 @@
+filename = '[B][魔法][Iron的法术与魔法书][元素反应]spellelemental-0.4.3.jar'
+name = 'Spell Elemental'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3f31752944e5bcc52f5c7ebdd73dff12f9270b79d54e0d880be59bc962366f5db6efd4dfad6556ffe554318d22badf35841157233f12067ea0255dde1d7ec198'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HlgqsPff/versions/SZOKhKtt/spellelemental-0.4.3.jar'
+
+[update.modrinth]
+mod-id = 'HlgqsPff'
+version = 'SZOKhKtt'

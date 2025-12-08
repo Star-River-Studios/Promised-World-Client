@@ -1,0 +1,16 @@
+filename = '[F][实用][更多附魔]moreenchantments-1.2.1.jar'
+name = 'More Enchants'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '81106fe50958c25ef9878ad1979b33ee5b4d5f8eecb862bef4cb55cef00c9a9d9813f323541668eeb71ecaaab2bd0318caaf658ad6cc9f98110fa4c7439eda65'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LbDPuvYD/versions/Jme2Xf1X/moreenchantments-1.2.1.jar'
+
+[update.modrinth]
+mod-id = 'LbDPuvYD'
+version = 'Jme2Xf1X'

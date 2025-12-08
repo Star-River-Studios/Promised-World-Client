@@ -1,5 +1,5 @@
 filename = '[A][科技][通用机械][通用机械：发电机]MekanismGenerators-1.21.1-10.7.17.83.jar'
-name = 'Mekanism: Generators'
+name = 'Mekanism Generators'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

@@ -1,4 +1,4 @@
-filename = '[A][科技][应用能源2][应用能源2：气动工艺扩展]appliedpneumatics-1.0.5-1.21.1.jar'
+filename = '[A][科技][应用能源2][应用能源2：气动工艺扩展]appliedpneumatics-1.0.6-1.21.1.jar'
 name = 'Applied Pneumatics'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'dfdd2c698a986671f1281d7ae545c3481de3e56363e00a6bd01662456d56da0e9b201d37dd54e61e14bf6b076d0b77ccc7e11a3504b8171c66dd4ee8ee69885d'
+hash = '574a07efcdb126f9f89e1c18ef20e375da3415b5c0bb4963dcbbebcd0a3088ab75f874757af1928bb9b81017be3c370790d4f89cf707e6827de00cf2d4459f09'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/tca1XWFk/versions/fLlLQN5Q/appliedpneumatics-1.0.5-1.21.1.jar'
+url = 'https://cdn.modrinth.com/data/tca1XWFk/versions/j7tmgbnf/appliedpneumatics-1.0.6-1.21.1.jar'
 
 [update.modrinth]
 mod-id = 'tca1XWFk'
-version = 'fLlLQN5Q'
+version = 'j7tmgbnf'

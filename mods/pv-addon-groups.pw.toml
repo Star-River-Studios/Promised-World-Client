@@ -1,6 +1,6 @@
-filename = '[G][辅助][客户端][等离子语音][语音分组]pv-addon-groups-1.1.1.jar'
+filename = '[G][辅助][等离子语音][语音分组]pv-addon-groups-1.1.1.jar'
 name = 'pv-addon-groups'
-side = 'client'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
 x-prismlauncher-mc-versions = [
     '1.16.5',

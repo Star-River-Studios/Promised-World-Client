@@ -1,5 +1,5 @@
 filename = '[A][科技][通用机械][通用机械：工具]MekanismTools-1.21.1-10.7.17.83.jar'
-name = 'Mekanism: Tools'
+name = 'Mekanism Tools'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

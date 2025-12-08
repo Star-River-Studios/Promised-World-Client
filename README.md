@@ -25,11 +25,11 @@
   - **JDK：** 21 或更高版本
   - **处理器：**
     - Intel Core i7-8750H 或更高
-    - Apple M1（8核GPU）或更高
+    - Apple M1 或更高
   - **内存：** 16GB 或更高
   - **显卡：**
     - AMD Radeon Pro 555X 或更高
-    - Apple M1 或更高
+    - Apple M1（8核GPU）或更高
   - **存储空间：** 64GB 或更高
 - Linux
   - **操作系统：** 64 位 Linux 发行版，内核版本 4.18 或更高

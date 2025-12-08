@@ -1,0 +1,16 @@
+filename = '[A][科技][机械动力][机械动力：物流附加]createadditionallogistics-1.21.1-1.4.3.jar'
+name = 'Create: Additional Logistics'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '08410a2aca85e2de864b4fd23795a52ee0787f183362796799de45e8e98b28113717a19f13f2cd5615107f8e8570781541458fc82acd69c3ab2c2144fccaac9e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CZaz7aje/versions/mbCi448E/createadditionallogistics-1.21.1-1.4.3.jar'
+
+[update.modrinth]
+mod-id = 'CZaz7aje'
+version = 'mbCi448E'

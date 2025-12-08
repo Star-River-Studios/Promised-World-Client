@@ -1,0 +1,37 @@
+[basic]
+	# Default: 5
+	# Range: > 0
+	priority = 5
+
+[behavior]
+	# Default: 0
+	# Range: > 0
+	centerSearchRadius = 0
+	# Default: 0
+	# Range: > 0
+	maidSearchRadius = 0
+	# Default: 4
+	# Range: > 0
+	reachRadius = 4
+	claimsBeforehand = true
+	randomWalk = true
+	itemFrameInteraction = true
+
+[work]
+	# Default: 600
+	# Range: > 1
+	bubbleInterval = 600
+	# Default: 8
+	# Range: > 1
+	operationInterval = 8
+	# Default: 10
+	# Range: > 1
+	operationDuration = 10
+	# Default: 256
+	# Range: > 0
+	baseStress = 256
+	# Default: 10
+	# Range: > 0
+	stressPerFavorability = 10
+	enduranceOperation = true
+	twoHandedOperation = true

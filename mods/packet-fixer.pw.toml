@@ -1,5 +1,5 @@
 filename = '[H][优化][数据包大小优化]packetfixer-3.3.1-1.20.5-1.21.X-merged.jar'
-name = 'PacketFixer'
+name = 'Packet Fixer'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [

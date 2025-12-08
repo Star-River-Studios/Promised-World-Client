@@ -1,4 +1,4 @@
-filename = '[D][农业][豆腐工艺重制版]tofucraft-1.21.1-12.16.2.2.jar'
+filename = '[D][农业][豆腐工艺重制版]tofucraft-1.21.1-12.17.1.0.jar'
 name = 'TofuCraftReload'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '82d9b15131b5363e18297d67d2fc44d9254654a9388c1a331386ed1b341c186dcd25bec8a02661a196f4cc2cf93cf824990e090ee4234c8172f76bb1637ffdd4'
+hash = '019c60b2d6225e0b8971103ce245b805a3bb20815ea109e6493dcbe2a182391050dcb9d702bd0c2493d58b2603b91dc25d9f431033a502f5f0f5fcd773066bc3'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/69rMY8bC/versions/OixqcFFt/tofucraft-1.21.1-12.16.2.2.jar'
+url = 'https://cdn.modrinth.com/data/69rMY8bC/versions/sx1i1ApP/tofucraft-1.21.1-12.17.1.0.jar'
 
 [update.modrinth]
 mod-id = '69rMY8bC'
-version = 'OixqcFFt'
+version = 'sx1i1ApP'

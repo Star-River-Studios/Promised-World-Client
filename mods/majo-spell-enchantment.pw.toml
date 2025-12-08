@@ -1,0 +1,16 @@
+filename = '[B][魔法][Iron的法术与魔法书][魔女的魔咒]MajoSpellEnchantment-NeoForge-1.21.1-1.1.8.jar'
+name = "Majo's Spell Enchantment"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e0438e105df7a6fb6d48a474342dc251a4c10010'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7047251
+project-id = 1318486

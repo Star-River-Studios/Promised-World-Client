@@ -1,5 +1,5 @@
 filename = '[A][科技][机械动力][机械动力：超级管道]create_hypertube-0.3.0-NEOFORGE.jar'
-name = 'Create Hypertube'
+name = 'Create: Hypertubes'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

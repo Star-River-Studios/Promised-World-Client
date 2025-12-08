@@ -1,0 +1,16 @@
+filename = '[B][魔法][魔法编程]Psi-1.21.1-107.jar'
+name = 'Psi'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '289bfc166f4328c28173d7cdf6b256e6b65abac8abfd0be582982595758562e9d583692c123cce3df4efab978c0c14053d2cc4f85a487c71d74b66072b59e412'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pOeA0exL/versions/evVeD5jB/Psi-1.21.1-107.jar'
+
+[update.modrinth]
+mod-id = 'pOeA0exL'
+version = 'evVeD5jB'

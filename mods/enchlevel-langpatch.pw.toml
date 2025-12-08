@@ -1,6 +1,6 @@
 filename = '[G][辅助][客户端][附魔等级语言补丁]enchlevel-langpatch-3.3.1.jar'
 name = 'Enchantment Level Language Patch'
-side = 'both'
+side = 'client'
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [
     '1.16',
@@ -138,6 +138,8 @@ x-prismlauncher-mc-versions = [
     '1.21.1 rc1',
     '1.21.10',
     '1.21.10 rc1',
+    '1.21.11 Pre-Release 1',
+    '1.21.11 Pre-Release 2',
     '1.21.2',
     '1.21.2 Pre-Release 1',
     '1.21.2 Pre-Release 2',

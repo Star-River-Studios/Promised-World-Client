@@ -1,6 +1,6 @@
-filename = '[G][辅助][客户端][等离子语音]plasmovoice-neoforge-1.21-2.1.6.jar'
+filename = '[G][辅助][等离子语音]plasmovoice-neoforge-1.21-2.1.6.jar'
 name = 'Plasmo Voice'
-side = 'client'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
