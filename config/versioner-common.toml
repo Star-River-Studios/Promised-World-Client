@@ -30,11 +30,11 @@
 
 [currentVersion]
 	#Version name of the current version
-	versionName = "3.0.0-beta.1+pw.20251208"
+	versionName = "3.0.0-beta.2+pw.20251212"
 	#Version code of the current version, must not be negative.
 	# Default: 0
 	# Range: > 0
-	versionCode = 20251208
+	versionCode = 20251212
 	#How to output formatted version name. Only used for displaying current version.
 	versionFormat = "%currentVersionName%"
 	#Variables to use when formatting current version. One entry per line, the format is key=value

@@ -1,0 +1,12 @@
+filename = "[地狱潜兵扩展包]HellDiver2 Gunpack-v1.1.4-for114+.zip"
+name = "[TaCZ]Hell Divers2 Gun Pack"
+side = "both"
+
+[download]
+hash = "19D5BF5E522A203C468B7DC1369100B5325523CF"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 6069497
+project-id = 1031134

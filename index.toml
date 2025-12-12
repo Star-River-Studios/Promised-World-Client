@@ -689,6 +689,10 @@ file = "config/guideme.toml"
 hash = "e4f58ced20ccf200592141f4afcad54a0d33faa6b672a90e58781c1a8183a036"
 
 [[files]]
+file = "config/hamsters.json"
+hash = "c945b8d4c3227a43e5a65fee502211dd9a2e8ee9fa245f86bf30fd9e5f8e80d8"
+
+[[files]]
 file = "config/immersive_aircraft.json"
 hash = "898347b99b3326ae0ce719a06351eb930b1a3567e4f3c22ba94f014f1e115a46"
 
@@ -706,7 +710,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "9c6a99cfab17b8df0b078ef5a2326d8707b2c12ae8a5b160894610c3c613f7d3"
+hash = "40ae99de57fddaee43912eb6931362cbb03aa8af232055b9ad0c82719ead33e3"
 
 [[files]]
 file = "config/irons_spellbooks-client.toml"
@@ -890,7 +894,7 @@ hash = "c922d82c7a79e3658e0b055d00cdbb968881aad0c60b2110a9aacb582a763aea"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "322dd8a29a637a800c0ed22696fc24b1212b837a3e6e4f57679ea865643d5154"
+hash = "1c7e6962a2a8d057eebc6d6603d62a2b45682619dff0c7727dc05ae5dfbed7ec"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -958,7 +962,7 @@ hash = "f2bcaa83faf2cf101bafee320d8226b2709cfaa3f9f7eea2e72fa3a16cdb31f0"
 
 [[files]]
 file = "config/plasmovoice/meta_cache.json"
-hash = "1e7e633a76816898eed3d3dbac1e4a0fb7a5e27a6f7f6cc2b22a13b675368957"
+hash = "9322b27db59ee6d2c2fb8892a84ce18e5a7bb105c3a909b18d60a578ca86e249"
 
 [[files]]
 file = "config/pneumaticcraft-client.toml"
@@ -1202,7 +1206,7 @@ hash = "a7697bfc49c5e4a6677476ad1adb327df790f1d421280aefd8f3b04ac1149e64"
 
 [[files]]
 file = "config/versioner-common.toml"
-hash = "14f78d508bc05c8cbbaa9e6b8e321987ab2eff30530315ce3be90ff6ea41f0a7"
+hash = "00e024defd48e8956bb8732f97ec462df8f7946a5379a487bb893d19d1cba4a5"
 
 [[files]]
 file = "config/vinery.toml"
@@ -1815,6 +1819,11 @@ metafile = true
 [[files]]
 file = "mods/guideme.pw.toml"
 hash = "1e0e6e8539f3030205e93e13e99534524c5a8c6a86dcfc3167eb182653eadcef"
+metafile = true
+
+[[files]]
+file = "mods/hamsters.pw.toml"
+hash = "e4dca3e83c96a63483801fe46a2fa101565fcd41267a8912de9e4e96cabd6b65"
 metafile = true
 
 [[files]]
@@ -2469,7 +2478,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "07c29d4f8a3d71cad925ade3d606c2e361e55a586c2da66f343c6378c52c017d"
+hash = "5d19a0eb24d8092d791baeaae9e29c8576a3ff5036bcd617172ff207e69fe06d"
 
 [[files]]
 file = "patchouli_data.json"
@@ -2505,11 +2514,6 @@ hash = "e84fd3cbb7599027fd795183e090ba1008e83aeae23d7c01e752e286a4cbca76"
 metafile = true
 
 [[files]]
-file = "tacz/ars-armorer-gun-pack.pw.toml"
-hash = "6da39d745ff68c822dbab36a29a7dc14b391c74c8ec5fd1d502d071a0fc03ae4"
-metafile = true
-
-[[files]]
 file = "tacz/blue-archive-super-gun-pack.pw.toml"
 hash = "4c2607df79fd9f69561b9cc0af8e4352ca2fbbfba2fe15e69ec1e5b3ff1461a2"
 metafile = true
@@ -2517,6 +2521,11 @@ metafile = true
 [[files]]
 file = "tacz/create-armorer-gun-pack.pw.toml"
 hash = "04c5ed0bf3155f634b2a536fe7ba1f5659726c23c7de86bb158c4f8343a8a3f1"
+metafile = true
+
+[[files]]
+file = "tacz/hell-divers2-gun-pack.pw.toml"
+hash = "3af0280c6fa399ed012a9f23441472736aa00c18304e210f725ccb8064b48db0"
 metafile = true
 
 [[files]]
