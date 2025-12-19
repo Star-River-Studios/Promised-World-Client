@@ -15,9 +15,16 @@ function DoneMsg($msg) {
     Write-Host "[DONE] $msg" -ForegroundColor Green
 }
 function ConfirmMsg($msg) {
-    Write-Host "[CONFIRM] $msg" -ForegroundColor Cyan -NoNewline
-    return [Console]::ReadLine()
+    # 输出提示，不换行
+    Write-Host -NoNewline "[CONFIRM] $msg" -ForegroundColor Cyan
+    try {
+        $input = [Console]::ReadLine()
+    } catch [System.Management.Automation.PipelineStoppedException] {
+        exit
+    }
+    return $input.Trim()  # 去掉前后空格
 }
+
 
 # ==================== 基础路径 ====================
 $RootDir  = Split-Path -Parent $MyInvocation.MyCommand.Path
@@ -91,26 +98,6 @@ function Clear-Build {
     DoneMsg "build 目录已清理完成"
 }
 
-# ==================== 行为映射 ====================
-$Actions = @{
-    1 = {
-        Build-Pack 'Full' $FullDir
-    }
-    2 = {
-        Build-Pack 'Lite' $LiteDir
-    }
-    3 = {
-        Build-Pack 'Full' $FullDir;
-        Build-Pack 'Lite' $LiteDir
-    }
-    4 = {
-        Clear-Build
-    }
-    5 = {
-        exit
-    }
-}
-
 # ==================== 菜单 ====================
 Write-Host "====== Packwiz 构建脚本 ======"
 Write-Host '1) 构建 Full 客户端'
@@ -119,11 +106,15 @@ Write-Host '3) 全部构建（Full → Lite）'
 Write-Host '4) 清理构建目录'
 Write-Host '5) 退出'
 
-$Choice = Read-Host '请选择操作'
+# 先读取用户输入
+$Choice = ConfirmMsg '请选择操作：'
 
-if ($Actions.ContainsKey([int]$Choice)) {
-    & $Actions[[int]$Choice]
-}
-else {
-    WarnMsg '无效选项。'
+# ==================== 行为映射 ====================
+switch ($Choice) {
+    '1' { Build-Pack 'Full' $FullDir }
+    '2' { Build-Pack 'Lite' $LiteDir }
+    '3' { Build-Pack 'Full' $FullDir; Build-Pack 'Lite' $LiteDir }
+    '4' { Clear-Build }
+    '5' { exit }
+    default { WarnMsg '无效选项。' }
 }

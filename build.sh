@@ -24,7 +24,7 @@ done_msg() {
 }
 confirm() {
     local reply
-    echo -en "${CYAN}[CONFIRM] $1${RESET}：" > /dev/tty
+    echo -en "${CYAN}[CONFIRM] $1：${RESET}" > /dev/tty
     read -r reply < /dev/tty || true
     echo "$reply"
 }
@@ -96,38 +96,22 @@ clean_build() {
     done_msg "build 目录已清理完成"
 }
 
-# ==================== 行为 ====================
-build_full() {
-    build_pack "Full" "$FULL_DIR";
-}
-build_lite() {
-    build_pack "Lite" "$LITE_DIR";
-}
-build_all() {
-    build_full;
-    build_lite;
-}
-exit_script() {
-    exit 0;
-}
-
-ACTIONS=(build_full build_lite build_all clean_build exit_script)
-echo "====== Packwiz 构建脚本 ======"
-MENU=(
-    "构建 Full 客户端"
-    "构建 Lite 客户端"
-    "全部构建（Full → Lite）"
-    "清理构建目录"
-    "退出"
-)
-
 # ==================== 菜单 ====================
-PS3=$'\n请选择操作: '
-select _ in "${MENU[@]}"; do
-    if [[ -n ${ACTIONS[$REPLY-1]:-} ]]; then
-        "${ACTIONS[$REPLY-1]}"
-        exit 0
-    else
-        warn "无效选择。"
-    fi
-done
+echo "====== Packwiz 构建脚本 ======"
+echo "1) 构建 Full 客户端"
+echo "2) 构建 Lite 客户端"
+echo "3) 全部构建（Full → Lite）"
+echo "4) 清理构建目录"
+echo "5) 退出"
+
+choice=$(confirm "请选择操作" || echo "")
+
+# ==================== 行为映射 ====================
+case "$choice" in
+    1) build_pack "Full" "$FULL_DIR" ;;
+    2) build_pack "Lite" "$LITE_DIR" ;;
+    3) build_pack "Full" "$FULL_DIR"; build_pack "Lite" "$LITE_DIR" ;;
+    4) clean_build ;;
+    5) exit_script ;;
+    *) warn "无效选项。" ;;
+esac
