@@ -2,10 +2,22 @@ Set-StrictMode -Version Latest
 $ErrorActionPreference = 'Stop'
 
 # ==================== 颜色函数 ====================
-function InfoMsg($msg)  { Write-Host "[INFO] $msg" -ForegroundColor Blue }
-function WarnMsg($msg)  { Write-Host "[WARN] $msg" -ForegroundColor Yellow }
-function ErrorMsg($msg) { Write-Host "[ERROR] $msg" -ForegroundColor Red }
-function DoneMsg($msg)  { Write-Host "[DONE] $msg" -ForegroundColor Green }
+function InfoMsg($msg) {
+    Write-Host "[INFO] $msg" -ForegroundColor Blue
+}
+function WarnMsg($msg) {
+    Write-Host "[WARN] $msg" -ForegroundColor Yellow
+}
+function ErrorMsg($msg) {
+    Write-Host "[ERROR] $msg" -ForegroundColor Red
+}
+function DoneMsg($msg) {
+    Write-Host "[DONE] $msg" -ForegroundColor Green
+}
+function ConfirmMsg($msg) {
+    Write-Host "[CONFIRM] $msg" -ForegroundColor Cyan -NoNewline
+    return [Console]::ReadLine()
+}
 
 # ==================== 基础路径 ====================
 $RootDir  = Split-Path -Parent $MyInvocation.MyCommand.Path
@@ -30,7 +42,7 @@ function Get-PackName {
     "$Name`_$Version"
 }
 
-function Prepare-BuildDir {
+function Initialize-Build {
     param([string]$OutName)
 
     if (-not (Test-Path $BuildDir)) {
@@ -43,9 +55,17 @@ function Prepare-BuildDir {
 
     $TargetFile = Join-Path $BuildDir "$OutName.mrpack"
     if (Test-Path $TargetFile) {
-        $choice = Read-Host (WarnMsg "文件 $OutName.mrpack 已存在，是否删除并继续？[y/N]")
-        if ($choice -match '^[Yy]$') { InfoMsg "删除已存在文件"; Remove-Item $TargetFile -Force }
-        else { ErrorMsg "目录内有同名文件，请清除后再试！"; exit 1 }
+
+        $choice = ConfirmMsg "文件 $OutName.mrpack 已存在，是否删除并继续？[y/N]："
+
+        if ($choice -match '^[Yy]$') {
+            InfoMsg "删除已存在文件"
+            Remove-Item $TargetFile -Force
+        }
+        else {
+            ErrorMsg "目录内有同名文件，构建已取消。"
+            exit 1
+        }
     }
 }
 
@@ -56,26 +76,39 @@ function Build-Pack {
     if (-not (Test-Path $PackToml)) { throw (ErrorMsg "找不到 $PackToml") }
 
     $OutName = Get-PackName $PackToml
-    Prepare-BuildDir $OutName
+    Initialize-Build $OutName
 
     InfoMsg "开始构建 $Label 客户端..."
     & $Packwiz --pack-file $PackToml modrinth export --output (Join-Path $BuildDir "$OutName.mrpack")
     DoneMsg "构建完成，文件名: $OutName.mrpack"
 }
 
-function Clean-Build {
+function Clear-Build {
     InfoMsg '开始清理 build 目录...'
-    if (Test-Path $BuildDir) { Remove-Item "$BuildDir\*" -Recurse -Force -ErrorAction SilentlyContinue }
+    if (Test-Path $BuildDir) {
+        Remove-Item "$BuildDir\*" -Recurse -Force -ErrorAction SilentlyContinue
+    }
     DoneMsg "build 目录已清理完成"
 }
 
 # ==================== 行为映射 ====================
 $Actions = @{
-    1 = { Build-Pack 'Full' $FullDir }
-    2 = { Build-Pack 'Lite' $LiteDir }
-    3 = { Build-Pack 'Full' $FullDir; Build-Pack 'Lite' $LiteDir }
-    4 = { Clean-Build }
-    5 = { exit }
+    1 = {
+        Build-Pack 'Full' $FullDir
+    }
+    2 = {
+        Build-Pack 'Lite' $LiteDir
+    }
+    3 = {
+        Build-Pack 'Full' $FullDir;
+        Build-Pack 'Lite' $LiteDir
+    }
+    4 = {
+        Clear-Build
+    }
+    5 = {
+        exit
+    }
 }
 
 # ==================== 菜单 ====================
@@ -90,6 +123,7 @@ $Choice = Read-Host '请选择操作'
 
 if ($Actions.ContainsKey([int]$Choice)) {
     & $Actions[[int]$Choice]
-} else {
+}
+else {
     WarnMsg '无效选项。'
 }

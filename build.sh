@@ -7,12 +7,27 @@ BLUE="\033[34m"
 YELLOW="\033[33m"
 RED="\033[31m"
 GREEN="\033[32m"
+CYAN="\033[36m"
 RESET="\033[0m"
 
-info()    { echo -e "${BLUE}[INFO] $*${RESET}"; }
-warn()    { echo -e "${YELLOW}[WARN] $*${RESET}"; }
-error()   { echo -e "${RED}[ERROR] $*${RESET}"; }
-done_msg(){ echo -e "${GREEN}[DONE] $*${RESET}"; }
+info() {
+    echo -e "${BLUE}[INFO] $*${RESET}";
+}
+warn() {
+    echo -e "${YELLOW}[WARN] $*${RESET}";
+}
+error() {
+    echo -e "${RED}[ERROR] $*${RESET}";
+}
+done_msg() {
+    echo -e "${GREEN}[DONE] $*${RESET}";
+}
+confirm() {
+    local reply
+    echo -en "${CYAN}[CONFIRM] $1${RESET}：" > /dev/tty
+    read -r reply < /dev/tty || true
+    echo "$reply"
+}
 
 # ==================== 基础路径 ====================
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
@@ -49,10 +64,11 @@ prepare_build_dir() {
     fi
 
     if [[ -f "$BUILD_DIR/$out_file.mrpack" ]]; then
-        read -rp "$(warn "文件 $out_file.mrpack 已存在，是否删除并继续？[y/N] ")" choice
+        local choice
+        choice=$(confirm "文件 $out_file.mrpack 已存在，是否删除并继续？[y/N]")
         case "$choice" in
             [Yy]*) info "删除已存在文件"; rm -f "$BUILD_DIR/$out_file.mrpack" ;;
-            *) error "目录内有同名文件，请清除后再试"; exit 1 ;;
+            *) error "目录内有同名文件，构建已取消"; exit 1 ;;
         esac
     fi
 }
@@ -81,10 +97,19 @@ clean_build() {
 }
 
 # ==================== 行为 ====================
-build_full() { build_pack "Full" "$FULL_DIR"; }
-build_lite() { build_pack "Lite" "$LITE_DIR"; }
-build_all() { build_full; build_lite; }
-exit_script() { exit 0; }
+build_full() {
+    build_pack "Full" "$FULL_DIR";
+}
+build_lite() {
+    build_pack "Lite" "$LITE_DIR";
+}
+build_all() {
+    build_full;
+    build_lite;
+}
+exit_script() {
+    exit 0;
+}
 
 ACTIONS=(build_full build_lite build_all clean_build exit_script)
 echo "====== Packwiz 构建脚本 ======"
