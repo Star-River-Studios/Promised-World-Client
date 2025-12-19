@@ -1,0 +1,16 @@
+filename = '[D][农业][森罗物语：厨房]kaleidoscopecookery-1.1.2-neoforge+mc1.21.1.jar'
+name = 'Kaleidoscope Cookery'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9f8f7972f7925b20486e79c1e810169da75550dd9207aba0806d856dd4524e1ff998866721733109bf15e75e8d93bea850454dc3aa645184b05fd481fa22e70e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/v17FatAc/versions/kBJQIHJn/kaleidoscopecookery-1.1.2-neoforge%2Bmc1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'v17FatAc'
+version = 'kBJQIHJn'

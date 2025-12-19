@@ -1,0 +1,13 @@
+name = "Promised-World-Client-Full"
+author = "ManyStars"
+version = "1.0.0+pw.lite.20251225"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "315a19eac92890d8f93e55ba1646671f469ed7f08d565443dec3e755704c7a2c"
+
+[versions]
+fabric = "0.18.3"
+minecraft = "1.21.10"

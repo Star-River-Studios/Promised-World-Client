@@ -1,0 +1,16 @@
+filename = '[A][科技][机械动力][机械动力：精致附加]bits_n_bobs-0.0.23.jar'
+name = "Create Bits 'n' Bobs"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ed93be7a3319b46947e9327b35aa6ee8bcdf8ff1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7332130
+project-id = 1398383

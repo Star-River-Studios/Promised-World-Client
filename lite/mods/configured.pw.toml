@@ -1,0 +1,16 @@
+filename = '[G][辅助][配置界面]configured-fabric-1.21.10-2.7.3.jar'
+name = 'Configured'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '476bdca1d5ba520cc79aea9a56f0d728c1d08351'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7276571
+project-id = 457570

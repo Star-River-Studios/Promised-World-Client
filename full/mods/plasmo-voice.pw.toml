@@ -1,0 +1,16 @@
+filename = '[G][辅助][等离子语音]plasmovoice-neoforge-1.21-2.1.8.jar'
+name = 'Plasmo Voice'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b631207d290b78adcf9e08bbd3eef8787e5c086dd7aaf578da0524267fa68335a7fa02d47c78e17ca24248183467076d28b504e01b7232c9b52cb0288f31766b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1bZhdhsH/versions/k1eAJFsl/plasmovoice-neoforge-1.21-2.1.8.jar'
+
+[update.modrinth]
+mod-id = '1bZhdhsH'
+version = 'k1eAJFsl'

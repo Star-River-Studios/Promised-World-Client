@@ -1,0 +1,16 @@
+filename = '[G][辅助][客户端][物品管理器][JEI资源信息]JustEnoughResources-Fabric-1.21.10-1.8.1.27.jar'
+name = 'Just Enough Resources (JER)'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = 'b7868cca21e289d2bf27a1a6a450d002cf3d5b67897db1972e8fb176d55b026db8e5769a96f12d8832beadf6cefe7f4cf5eeb4450491a6cf351c6c5955fc7dcf'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uEfK2CXF/versions/A2NhF2ea/JustEnoughResources-Fabric-1.21.10-1.8.1.27.jar'
+
+[update.modrinth]
+mod-id = 'uEfK2CXF'
+version = 'A2NhF2ea'

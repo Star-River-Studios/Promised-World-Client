@@ -1,0 +1,16 @@
+filename = '[D][农业][沉浸式屠宰]butchery-4.4-neoforge-1.21.1.jar'
+name = 'Butchery'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '97f42f70a2fae35b98c6c39b3b00d163fb32d760d3831fed1ca32af6496a6b08219f056c04620faf71838f1d7184644a186b10266d391b036ed8f33a42aeb503'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6YfOmC9t/versions/s5nQ1Yz5/butchery-4.4-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = '6YfOmC9t'
+version = 's5nQ1Yz5'

@@ -1,0 +1,16 @@
+filename = '[G][辅助][客户端][更好的进度]BetterAdvancements-Fabric-1.21.10-0.4.7.48.jar'
+name = 'Better Advancements'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = 'a299a89c53a82c77ffe6fbcf29a296bed388fceffe4e321e37b5101084148222f646e66fd01971fd2ce4a65b7c7aa3fea6a6af35bf8e1a20b260c114ccf18cbb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Q2OqKxDG/versions/1sNm23bc/BetterAdvancements-Fabric-1.21.10-0.4.7.48.jar'
+
+[update.modrinth]
+mod-id = 'Q2OqKxDG'
+version = '1sNm23bc'

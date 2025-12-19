@@ -1,0 +1,16 @@
+filename = '[F][实用][车万女仆]touhoulittlemaid-1.4.6-neoforge+mc1.21.1.jar'
+name = 'Touhou Little Maid'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8ac0bc57ec419abfb0baf523a56ede0c76c8bd22e84d242cf7fef08a3d0b0896bddcf933afa6a58a2b5ee2777e4f2ed7f5caafc9ecfc44ed3cd945675f87523d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/R0bDWFAW/versions/X9LKPySd/touhoulittlemaid-1.4.6-neoforge%2Bmc1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'R0bDWFAW'
+version = 'X9LKPySd'

@@ -1,0 +1,16 @@
+filename = '[G][辅助][客户端][光标扩展]cursors_extended-fabric-4.1.4+1.21.9.jar'
+name = 'Cursors Extended'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '15a82040d03a30cc809d707b4149db6638045e2cacf9a318f6839f5494e62b5f716173c1d9755df81af24833f9452c350fc6adb452c286e1db39aebeacdec3c3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/o5fhgLeQ/versions/YAdqIKU5/cursors_extended-fabric-4.1.4%2B1.21.9.jar'
+
+[update.modrinth]
+mod-id = 'o5fhgLeQ'
+version = 'YAdqIKU5'

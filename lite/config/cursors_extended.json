@@ -1,0 +1,109 @@
+{
+  "_hash": "fd061c2d",
+  "itemSlotEnabled": true,
+  "itemGrabbingEnabled": true,
+  "creativeTabsEnabled": true,
+  "enchantmentsEnabled": true,
+  "stonecutterRecipesEnabled": true,
+  "loomPatternsEnabled": true,
+  "advancementTabsEnabled": true,
+  "worldIconEnabled": true,
+  "serverIconEnabled": true,
+  "pointerScrollbarEnabled": true,
+  "resizeScrollbarEnabled": true,
+  "heldCursorsEnabled": true,
+  "aggressiveCursor": false,
+  "virtualMode": false,
+  "legacyMode": true,
+  "showHotspotGuide": true,
+  "remapStandardCursors": true,
+  "workarounds": true,
+  "global": {
+    "scaleActive": false,
+    "xhotActive": false,
+    "yhotActive": false,
+    "scale": 1.0,
+    "xhot": 0,
+    "yhot": 0
+  },
+  "cursors": {
+    "not_allowed": {
+      "enabled": true,
+      "scale": 2.5,
+      "xhot": 5,
+      "yhot": 5
+    },
+    "resize_all": {
+      "enabled": true,
+      "scale": 2.5,
+      "xhot": 5,
+      "yhot": 2
+    },
+    "ibeam": {
+      "enabled": true,
+      "scale": 2.5,
+      "xhot": 3,
+      "yhot": 5
+    },
+    "pointing_hand": {
+      "enabled": true,
+      "scale": 2.5,
+      "xhot": 3,
+      "yhot": 0
+    },
+    "shift": {
+      "enabled": true,
+      "scale": 2.5,
+      "xhot": 3,
+      "yhot": 0
+    },
+    "resize_nesw": {
+      "enabled": true,
+      "scale": 2.5,
+      "xhot": 5,
+      "yhot": 5
+    },
+    "crosshair": {
+      "enabled": true,
+      "scale": 2.5,
+      "xhot": 5,
+      "yhot": 5
+    },
+    "default": {
+      "enabled": true,
+      "scale": 2.5,
+      "xhot": 0,
+      "yhot": 0
+    },
+    "resize_ew": {
+      "enabled": true,
+      "scale": 2.5,
+      "xhot": 6,
+      "yhot": 2
+    },
+    "busy": {
+      "enabled": true,
+      "scale": 2.5,
+      "xhot": 0,
+      "yhot": 4
+    },
+    "resize_ns": {
+      "enabled": true,
+      "scale": 2.5,
+      "xhot": 2,
+      "yhot": 6
+    },
+    "grabbing": {
+      "enabled": true,
+      "scale": 2.5,
+      "xhot": 5,
+      "yhot": 2
+    },
+    "resize_nwse": {
+      "enabled": true,
+      "scale": 2.5,
+      "xhot": 5,
+      "yhot": 5
+    }
+  }
+}

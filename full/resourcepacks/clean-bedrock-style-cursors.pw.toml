@@ -1,0 +1,13 @@
+filename = 'CleanBedrockStyleCursors.zip'
+name = 'Clean Bedrock-Style Cursors'
+side = 'client'
+
+[download]
+hash = 'D626EE14ED06513323F80489D552228D9CC3D30CE39954C0C6F8A013FA2585C0F42171EA6B8B7DB8B1F9BD45C5C56053BA61EEC67CEAAE7A832E27E6821B0917'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xstBA7Bt/versions/2pGXEmMZ/CleanBedrockStyleCursors.zip'
+
+[update.modrinth]
+mod-id = 'xstBA7Bt'
+version = '2pGXEmMZ'

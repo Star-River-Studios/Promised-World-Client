@@ -1,0 +1,16 @@
+filename = '[G][辅助][旅行地图]journeymap-neoforge-1.21.1-6.0.0-beta.53.jar'
+name = 'Journeymap'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'd828616cd627f9a09e804b52199f9884215623e76583a73c952669d66fd52f4868385cad59e5bd79dee6e899a634c2b067ba34283829c0151ef759a66bb2a090'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lfHFW1mp/versions/3AZpZoxN/journeymap-neoforge-1.21.1-6.0.0-beta.53.jar'
+
+[update.modrinth]
+mod-id = 'lfHFW1mp'
+version = '3AZpZoxN'

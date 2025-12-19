@@ -1,0 +1,16 @@
+filename = '[A][科技][集成红石电路]little-big-redstone-1.4.14-beta-1.21.1.jar'
+name = 'Little Big Redstone'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '16abbe589e25cd50334fe4521b56436ed29103484b19ffd5418eb9444e82163a43be36c4157f4e93147c4354c3d1257ebcee027730a1be901faaddee58046544'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/cdz2XZgU/versions/bqsk3T71/little-big-redstone-1.4.14-beta-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'cdz2XZgU'
+version = 'bqsk3T71'

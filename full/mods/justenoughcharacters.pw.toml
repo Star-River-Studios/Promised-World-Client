@@ -1,0 +1,16 @@
+filename = '[G][辅助][客户端][物品管理器][通用拼音搜索]jecharacters-1.21-neoforge-4.5.23.jar'
+name = 'Just Enough Characters'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0cbb89bf40d8b89c54fb9683b74891b852a5c6197803a7b9ede9a9d5a74df8d6f8e4a171514033265a5617a51551b419ed1e067cc773ee497526cf3f4a792e52'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/I7k4B65h/versions/TdUA8TeZ/jecharacters-1.21-neoforge-4.5.23.jar'
+
+[update.modrinth]
+mod-id = 'I7k4B65h'
+version = 'TdUA8TeZ'

@@ -1,0 +1,16 @@
+filename = '[C][冒险][更多武器：传承]weaponmod-neoforge-1.21-1.24.3.jar'
+name = "Balkon's WeaponMod: Legacy"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '33737aec10f81c49a78a53d6d96442a00f1b75ee2a493b3be4a4ef516ac6687d95c58815827304d4319193f9ce9859d946c538311ae5e8b9caed4e929bc46a3d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MCF15nCy/versions/AMDOwnHt/weaponmod-neoforge-1.21-1.24.3.jar'
+
+[update.modrinth]
+mod-id = 'MCF15nCy'
+version = 'AMDOwnHt'
