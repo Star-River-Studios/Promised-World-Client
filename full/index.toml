@@ -2490,8 +2490,8 @@ hash = "d82064e1d811dae5d7645e4e7ba6516055e9d60f33ba98c9003cef556bdb87c3"
 metafile = true
 
 [[files]]
-file = "resourcepacks/clean-bedrock-style-cursors.pw.toml"
-hash = "8b937bc0672c1a8abb74a81824f142153112abf865c2c8c60fba0ef51b1e6c9f"
+file = "resourcepacks/squareful.pw.toml"
+hash = "f192659a52226dfc1ab4c057addf2b156606893207f7c223c58e356c7052bc13"
 metafile = true
 
 [[files]]
