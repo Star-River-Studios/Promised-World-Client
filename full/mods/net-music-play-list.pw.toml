@@ -1,4 +1,4 @@
-filename = '[F][实用][网络音乐机][网络音乐机：播放列表]net_music_list-2.2.3-alpha.jar'
+filename = '[F][实用][网络音乐机][网络音乐机：播放列表]net_music_list-2.2.4-alpha.jar'
 name = 'Net Music:Play List'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'alpha'
 
 [download]
-hash = '7108ed57f24d9609ce370fe1eb557f071d83fe4660392713c0b2db9b64896a504aeacd2da08cde963792a74d3210f1aa41b0f3be1a5cf52695fa8e70445b7225'
+hash = 'f5e92310e092429c6abf492b756e5f2534f6745fcbaaf2e90cd1b62fd030bafd23d006d4ca4087423f0ec98ab859eac762b40bae972027be2f525c7704167b89'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/Jc6WJafg/versions/aEESlcJ4/net_music_list-2.2.3-alpha.jar'
+url = 'https://cdn.modrinth.com/data/Jc6WJafg/versions/Eo92Lh7S/net_music_list-2.2.4-alpha.jar'
 
 [update.modrinth]
 mod-id = 'Jc6WJafg'
-version = 'aEESlcJ4'
+version = 'Eo92Lh7S'

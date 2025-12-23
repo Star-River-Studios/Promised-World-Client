@@ -1,16 +1,16 @@
-filename = '[H][优化][客户端][钠][区块淡入动画]chunksfadein-fabric-3.0.13-1.21.9.jar'
-name = 'Chunks fade in'
+filename = '[H][优化][客户端][钠][区块淡入动画]chunksfadein-fabric-3.0.15-1.21.9.jar'
+name = 'Chunks Fade In'
 side = 'client'
 x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.10', '1.21.9' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '5234b3ed440959476d9602ffb2d183a760cc80124ae1dcd3f3844c9f467c626936eecc09a534c568194823673c304cfe62e97e1a4a7a2407fe8b3d151c75bd11'
+hash = '34e0cdf7cf43cf5ca08615136377a1e7fba1a8abcb3ea72ea8d5f97aa075190bf7aa52eb2d55a8d81906d714c4e694ebf2758b3c207157626cc55a29c945dde4'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/JaNmzvA8/versions/PZvHr44h/chunksfadein-fabric-3.0.13-1.21.9.jar'
+url = 'https://cdn.modrinth.com/data/JaNmzvA8/versions/DsUJkJOX/chunksfadein-fabric-3.0.15-1.21.9.jar'
 
 [update.modrinth]
 mod-id = 'JaNmzvA8'
-version = 'PZvHr44h'
+version = 'DsUJkJOX'
