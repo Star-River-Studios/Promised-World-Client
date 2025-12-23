@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "fe4333ed9fa5ac66f71ce3b53d874ad89f89142460da1c3b5c521ec2d66c29c8"
+hash = "bcc60d063896a972c94a0d6cfe958bcd395817ab9ce853f200bc0fb97c8bc466"
 metafile = true
 
 [[files]]
@@ -326,7 +326,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "735108ec6faa233ae6da31349d5243b9a4508f84329fe7ba1283bc14e2234a9a"
+hash = "1a9d6d3aef83ec9e5916a410b75c059ed9904c598089c3450f62a0f50d1e75c8"
 metafile = true
 
 [[files]]
@@ -391,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "936a691951da4ed13b47d677b7ff6bf8111b84d323edaccf44196c81b45a7adf"
+hash = "f2668ea85ef4f1925e904bf26970edce9ae46f5e6bd21ef5643ff7a8231e649c"
 metafile = true
 
 [[files]]
@@ -401,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
-hash = "56b8c9fee7c2c6a6f903ec33056d629962e8d4cde0b4387272e36d0f43969fa6"
+hash = "ccb4039dc7b0b3ea73a003b6ddf9a01b57cd63e7cdcc93cf9d128c5682b5845e"
 metafile = true
 
 [[files]]
@@ -494,7 +494,7 @@ metafile = true
 
 [[files]]
 file = "servers.dat"
-hash = "f881b5361d5b6e5682b219a4b21da1be9d2bc0634f53f4f8e048eba7a3c64e8d"
+hash = "dfafc98e373ed194403871ba2272507a41262c6baac66b55dc033614d61083f3"
 
 [[files]]
 file = "shaderpacks/bsl.pw.toml"
