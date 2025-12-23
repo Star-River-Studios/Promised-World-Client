@@ -15,7 +15,7 @@
   - **处理器：**
     - Intel Core i5-8300H 或更高
     - AMD Ryzen 5 1600X 或更高
-  - **内存：** 16GB 或更高
+  - **内存：** 8GB 或更高
   - **显卡：**
     - NVIDIA GeForce GTX 1050 4GB 或更高
     - AMD Radeon RX 580 4GB 或更高
@@ -26,7 +26,7 @@
   - **处理器：**
     - Intel Core i7-8750H 或更高
     - Apple M1 或更高
-  - **内存：** 16GB 或更高
+  - **内存：** 8GB 或更高
   - **显卡：**
     - AMD Radeon Pro 555X 或更高
     - Apple M1（8核GPU）或更高
@@ -41,7 +41,7 @@
   - **处理器：**
     - Intel Core i5-8300H 或更高
     - AMD Ryzen 5 1600X 或更高
-  - **内存：** 16GB 或更高
+  - **内存：** 8GB 或更高
   - **显卡：**
     - NVIDIA GeForce GTX 1050 4GB 或更高（**需安装官方驱动**）
     - AMD Radeon RX 580 4GB 或更高（**需 Mesa 21.0+ 开源驱动**）

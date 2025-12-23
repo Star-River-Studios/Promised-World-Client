@@ -15,7 +15,7 @@ This repository is the client repository for the Minecraft multiplayer server - 
   - **Processor:**
     - Intel Core i5-8300H or higher
     - AMD Ryzen 5 1600X or higher
-  - **Memory:** 16GB or higher
+  - **Memory:** 8GB or higher
   - **Graphics Card:**
     - NVIDIA GeForce GTX 1050 4GB or higher
     - AMD Radeon RX 580 4GB or higher
@@ -26,7 +26,7 @@ This repository is the client repository for the Minecraft multiplayer server - 
   - **Processor:**
     - Intel Core i7-8750H or higher
     - Apple M1 or higher
-  - **Memory:** 16GB or higher
+  - **Memory:** 8GB or higher
   - **Graphics Card:**
     - AMD Radeon Pro 555X or higher
     - Apple M1 chip (8-core GPU) or higher
@@ -41,7 +41,7 @@ This repository is the client repository for the Minecraft multiplayer server - 
   - **Processor:**
     - Intel Core i5-8300H or higher
     - AMD Ryzen 5 1600X or higher
-  - **Memory:** 16GB or higher
+  - **Memory:** 88GB or higher
   - **Graphics Card:**
     - NVIDIA GeForce GTX 1050 4GB or higher (**official drivers required**)
     - AMD Radeon RX 580 4GB or higher (**Mesa 21.0+ open-source drivers required**)
