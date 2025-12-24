@@ -11,6 +11,12 @@
 	"Weighted Carcasses" = true
 	#Enable looting when butchering carcasses
 	"Looting Enchantment" = true
+	#Enable sulfur ore generation
+	"Sulfur Ore Generation" = true
+	#Enable salt generation
+	"Salt Generation" = true
+	#Enable blood spread
+	"Blood Spread" = true
 
 [Mobs]
 	#Enable Axolotl Carcass

@@ -5,6 +5,9 @@
 	#Ability for the player to create chain drives using create's cogwheels.
 	cogwheelChainDrives = true
 	#.
+	#Ability for the player to create chain drives using the flanged gear cogwheels.
+	flangedChainDrives = true
+	#.
 	#Availability of the Chain Pulley block.
 	chainPulley = true
 	#.

@@ -1,4 +1,4 @@
-showLineNumbers = true
+showLineNumbers = false
 #Allowed Values: OFF, BASIC, ADVANCED
 intellisenseLevel = "OFF"
 preferredEditor = "sfm:v1"

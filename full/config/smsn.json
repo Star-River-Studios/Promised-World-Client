@@ -1,4 +1,5 @@
 {
+  "quarkContributorCheck": false,
   "aetherMoaSkinsFeature": true,
   "immersiveEngineeringSpecialRevolvers": true,
   "ipnUpdateCheckAndUserTracking": false,
@@ -21,6 +22,10 @@
   "tenshilibPatreon": false,
   "arsnouveauRewards": false,
   "immersiveportalsModInfoChecking": false,
+  "kiwiTier": false,
+  "quarkCelebration": "HideLGBTQIA",
+  "zetaSpamLogs": false,
   "immersiveCavesDiscordMessage": false,
+  "ribbitsNoMorePrideMonth": false,
   "disabledMixins": []
 }

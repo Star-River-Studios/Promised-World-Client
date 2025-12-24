@@ -1,10 +1,7 @@
 debug = false
 disable_crowdin = false
 check_for_updates = true
-
 key_bindings = []
-
-
 
 [voice]
 disabled = false
@@ -23,7 +20,6 @@ directional_sources = false
 hrtf = false
 stereo_capture = false
 
-
 [advanced]
 visualize_voice_distance = true
 visualize_voice_distance_on_join = false
@@ -32,7 +28,7 @@ limiter_threshold = -6
 directional_sources_angle = 145
 stereo_sources_to_mono = false
 panning = true
-mute_player_on_direct = true
+source_types_overlap = "MUTE_PROXIMITY"
 camera_sound_listener = true
 exponential_volume_slider = true
 exponential_distance_gain = true
@@ -48,4 +44,3 @@ show_static_source_icons = true
 overlay_enabled = true
 overlay_position = "TOP_LEFT"
 overlay_style = "NAME_SKIN"
-

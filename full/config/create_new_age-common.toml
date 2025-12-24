@@ -31,7 +31,7 @@ overheatingMultiplier = 1.0
 # Default: 1.0
 # Range: 0.0 ~ 1.7976931348623157E308
 passiveHeatSourceMultiplier = 1.0
-#How much heat do pipes loose per second.
+#How much heat do pipes lose per second.
 # Default: 1.0
 # Range: 0.0 ~ 1.7976931348623157E308
 passivePipeHeatLoss = 1.0
@@ -43,7 +43,7 @@ boilerRequiredHeatMultiplier = 1.0
 # Default: 30.0
 # Range: 0.0 ~ 1.7976931348623157E308
 ReactorRodHeat = 30.0
-#How much heat per tick a nuclear reactor rod looses above the 16000*overheatingMultiplier.
+#How much heat per tick a nuclear reactor rod loses above the 16000*overheatingMultiplier.
 # Default: 25.0
 # Range: 0.0 ~ 1.7976931348623157E308
 ReactorRodHeatLoss = 25.0

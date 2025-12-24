@@ -160,13 +160,13 @@
 
 [vanilla]
 	#Whether to replace the vanilla slime model with the yukkuri.
-	ReplaceSlimeModel = false
+	ReplaceSlimeModel = true
 	#Whether to replace the vanilla xp orb texture with the point items.
-	ReplaceXPTexture = false
+	ReplaceXPTexture = true
 	#Whether to replace the vanilla totem texture with the life point.
-	ReplaceTotemTexture = false
+	ReplaceTotemTexture = true
 	#Whether to replace the vanilla bottle of xp texture with the point items.
-	ReplaceXPBottleTexture = false
+	ReplaceXPBottleTexture = true
 
 [render]
 	EnableCompassTip = true
@@ -218,7 +218,7 @@
 	#Allowed Values: PLAYER2, ALIYUN, SILICONFLOW
 	STTType = "PLAYER2"
 	#The name of the microphone device, empty is default
-	STTMicrophone = "主声音捕获驱动程序"
+	STTMicrophone = ""
 	#The range of search when chatting with the maid
 	# Default: 12
 	# Range: 1 ~ 256

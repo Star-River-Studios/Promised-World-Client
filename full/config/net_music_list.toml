@@ -12,3 +12,5 @@ selectHudShowArtist = true
 glowingText = false
 oldGUI = false
 noVIP = false
+only5Second = false
+allowLyricToServer = false

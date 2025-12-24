@@ -1,0 +1,16 @@
+filename = '[A][科技][机械动力][机械动力：北极星]Northstar-0.5.3+1.21.1.jar'
+name = 'Create: Northstar - Redux'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'f88985da85b3e4cf6130b5777daead9567b57024b303d629878f759c2cf346f64b6720a6edc35cf8f68ab9fa5ae912f3b61e1e830e922a2978a216bcdd802fed'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UZiq3QVW/versions/d1m3pUYb/Northstar-0.5.3%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'UZiq3QVW'
+version = 'd1m3pUYb'

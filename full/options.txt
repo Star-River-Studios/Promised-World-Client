@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","file/Squareful 方纹v3.8 for MC 1.20.2~1.21.8.zip","mod_resources","file/Minecraft-Mod-Language-Modpack-Converted-1.21.1.zip","tacz_resources","scholar:colored_books","teastory_asset_generator","scholar:chiseled_bookshelf_colored_books","file/BedrockStyleCursors_v1.0.0.zip"]
+resourcePacks:["vanilla","file/Squareful 方纹v3.8 for MC 1.20.2~1.21.8.zip","mod_resources","teastory_asset_generator","tacz_resources","scholar:colored_books","scholar:chiseled_bookshelf_colored_books","file/BedrockStyleCursors_v1.0.0.zip","file/Minecraft-Mod-Language-Modpack-Converted-1.21.1.zip"]
 incompatibleResourcePacks:["teastory_asset_generator"]
 lastServer:
 lang:zh_cn
@@ -198,7 +198,7 @@ key_key.hexerei.book_hovering_uses:key.keyboard.u
 key_key.hexerei.book_hovering_recipe:key.keyboard.r
 key_key.hexerei.glasses_zoom:key.keyboard.z
 key_create_mobile_packages.keyinfo.open_portable_stock_ticker:key.keyboard.g
-key_better-creative-tabs.creative_index:key.keyboard.period
+key_better-creative-tabs.creative_index:key.keyboard.p
 key_key.immersive_aircraft.fallback_control_left:key.keyboard.unknown
 key_key.immersive_aircraft.fallback_control_right:key.keyboard.unknown
 key_key.immersive_aircraft.fallback_control_forward:key.keyboard.unknown
@@ -268,7 +268,7 @@ key_key.journeymap.fullscreen.disable_buttons:key.keyboard.unknown
 key_key.journeymap.toggle_entity_names:key.keyboard.g
 key_key.configured.open_mod_list:key.keyboard.unknown
 key_key.worldeditcui.chunk:key.keyboard.unknown
-key_key.worldeditcui.clear:key.keyboard.unknown
+key_key.worldeditcui.clear:key.keyboard.u
 key_key.worldeditcui.toggle:key.keyboard.unknown
 key_key.guideme.guide:key.keyboard.g
 key_key.jei.toggleOverlay:key.keyboard.o:CONTROL
@@ -305,6 +305,10 @@ key_key.jei.copy.recipe.id:key.keyboard.unknown
 key_key.immersiveengineering.magnetEquip:key.keyboard.s
 key_key.immersiveengineering.railgunZoom:key.mouse.middle
 key_key.immersiveengineering.chemthrowerSwitch:key.keyboard.unknown
+key_key.anvilcraft.switch_phase:key.keyboard.x
+key_key.anvilcraft.toggle_goggle:key.keyboard.unknown
+key_key.anvilcraft.switch_resonate_mode:key.keyboard.left.alt
+key_key.anvilcraft.use_pill_box:key.keyboard.v
 key_key.jade.config:key.keyboard.keypad.0
 key_key.jade.show_overlay:key.keyboard.keypad.1
 key_key.jade.toggle_liquid:key.keyboard.keypad.2
@@ -323,7 +327,8 @@ key_key.ae2.portable_fluid_cell:key.keyboard.unknown
 key_key.ae2.wireless_pattern_encoding_terminal:key.keyboard.unknown
 key_key.ae2.wireless_terminal:key.keyboard.unknown
 key_key.extendedae.viewpattern:key.keyboard.p
-key_key.irons_spellbooks.spell_wheel:key.keyboard.r
+key_key.extendedae.set_amount:key.mouse.middle
+key_key.irons_spellbooks.spell_wheel:key.keyboard.r:ALT
 key_key.irons_spellbooks.spell_wheel_toggle:key.keyboard.unknown
 key_key.irons_spellbooks.spellbook_cast:key.keyboard.v
 key_key.irons_spellbooks.spell_bar_modifier:key.keyboard.left.alt

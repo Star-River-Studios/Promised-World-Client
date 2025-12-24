@@ -15,5 +15,6 @@
   "fastRender": true,
   "compatibilityMode": true,
   "irisCompatibilityMode": false,
+  "applySodiumWorkaround": false,
   "firstPersonPixelScaling": 1.1
 }

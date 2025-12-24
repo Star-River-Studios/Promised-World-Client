@@ -1,0 +1,16 @@
+filename = '[G][辅助][旅行地图][坐标点同步]jmws-neoforge-1.2.2-1.21.1.jar'
+name = 'JourneyMap Waypoint Syncing (JMWS)'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f6c45a82221c5346ca4117e4ce5321d2c59559487ca4348c8881cd855fb2ef019aca0146321572a2074804d890926c68218f112bbd5ecfdf4fcc756327a3111e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/cF5KO1B5/versions/BQXPBdhW/jmws-neoforge-1.2.2-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'cF5KO1B5'
+version = 'BQXPBdhW'
