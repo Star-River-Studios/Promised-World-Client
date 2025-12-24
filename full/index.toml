@@ -1102,7 +1102,7 @@ hash = "a7ff87dbfa4587eda3e1aa9f8e05102bdf0e6f7961fde07a360e86c6cd69da1f"
 
 [[files]]
 file = "config/touhou_little_maid-common.toml"
-hash = "2dcb131a4dadda6ce83d6bbd9e39913bab5febb4de01efd2685fe8c1fafbdf67"
+hash = "c7666ab7b19f1f579a67f8bc54efb6836abe8c9b3f3695ad361c4c58b67b0562"
 
 [[files]]
 file = "config/touhou_little_maid/info.json"
@@ -2300,7 +2300,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
-hash = "40ed4c39343e08503c61b571f2b822c08e72a2afbe3e520e14e532c9a5d1a9f2"
+hash = "e8bfcbf7977ab4ba0d219993a0d872e9aa2fa8310b20c502a339bb249d60794e"
 metafile = true
 
 [[files]]
