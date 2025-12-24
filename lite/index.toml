@@ -479,7 +479,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "e6563aab34741de3cc900a4c1ef6243bcfa9e3ac748987ba21762cbe807e11e7"
+hash = "81bb2007edf0ea9ffb279f94c5e834cdb5b12c979f39996aa9c693ca5f27dbf5"
 
 [[files]]
 file = "realms_persistence.json"
@@ -488,6 +488,11 @@ hash = "c8179568cdef941ee7600285f06d1caecaa99be6ec6125a6dbdff745c0e06568"
 [[files]]
 file = "resourcepacks/clean-bedrock-style-cursors.pw.toml"
 hash = "8b937bc0672c1a8abb74a81824f142153112abf865c2c8c60fba0ef51b1e6c9f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/summerfields.pw.toml"
+hash = "f836c9c6c64eca2592c9db479664e811562a46542c3a674a4f1f193e9a6cb408"
 metafile = true
 
 [[files]]

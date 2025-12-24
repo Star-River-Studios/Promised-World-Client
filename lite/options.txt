@@ -56,8 +56,8 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/BedrockStyleCursors_v1.0.1.zip","file/Minecraft-Mod-Language-Modpack-Converted-1.21.10.zip", "file/CleanBedrockStyleCursors.zip"]
-incompatibleResourcePacks:["file/Minecraft-Mod-Language-Modpack-Converted-1.21.10.zip"]
+resourcePacks:["vanilla","file/SummerFields_master_1.21.11.zip","fabric","file/Minecraft-Mod-Language-Modpack-Converted-1.21.10.zip","file/CleanBedrockStyleCursors.zip"]
+incompatibleResourcePacks:["file/Minecraft-Mod-Language-Modpack-Converted-1.21.10.zip","file/CleanBedrockStyleCursors.zip"]
 lastServer:
 lang:zh_cn
 chatVisibility:0
