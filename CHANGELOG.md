@@ -163,8 +163,8 @@
 - [English version](./README_EN.md)
 
 ## 🙌 加入社区
-- QQ 群：[点击加入](https://qm.qq.com/q/qZ2TJ0lZdK)
-- Discord：[Join Server](https://discord.gg/j275P4PRzP)
+- QQ 群：[点击加入](https://qm.qq.com/q/RgessVyPC0)
+- Discord：[Join Server](https://discord.gg/ekpaH4FXDF)
 
 ## 💬 更新寄语
 （占位）
@@ -198,8 +198,8 @@
 
 ## 🙌 加入社区
 
-- QQ 群：[点击加入](https://qm.qq.com/q/qZ2TJ0lZdK)
-- Discord：[Join Server](https://discord.gg/j275P4PRzP)
+- QQ 群：[点击加入](https://qm.qq.com/q/RgessVyPC0)
+- Discord：[Join Server](https://discord.gg/ekpaH4FXDF)
 
 ## 💬 更新寄语
 欢迎来到本服务器，你的探索与反馈将塑造它的未来！
@@ -252,8 +252,8 @@
 - [English version](./README_EN.md)
 
 ## 🙌 加入社区
-- QQ 群：[点击加入](https://qm.qq.com/q/qZ2TJ0lZdK)
-- Discord：[Join Server](https://discord.gg/j275P4PRzP)
+- QQ 群：[点击加入](https://qm.qq.com/q/RgessVyPC0)
+- Discord：[Join Server](https://discord.gg/ekpaH4FXDF)
 
 ## 💬 更新寄语
 欢迎继续体验本服务器，你的反馈是我们前进的动力！
@@ -297,8 +297,8 @@
 - [English version](./README_EN.md)
 
 ## 🙌 加入社区
-- QQ 群：[点击加入](https://qm.qq.com/q/qZ2TJ0lZdK)
-- Discord：[Join Server](https://discord.gg/j275P4PRzP)
+- QQ 群：[点击加入](https://qm.qq.com/q/RgessVyPC0)
+- Discord：[Join Server](https://discord.gg/ekpaH4FXDF)
 
 ## 💬 更新寄语
 欢迎继续体验本服务器，你的反馈是我们前进的动力！
@@ -382,8 +382,8 @@
 - [English version](./README_EN.md)
 
 ## 🙌 加入社区
-- QQ 群：[点击加入](https://qm.qq.com/q/qZ2TJ0lZdK)
-- Discord：[Join Server](https://discord.gg/j275P4PRzP)
+- QQ 群：[点击加入](https://qm.qq.com/q/RgessVyPC0)
+- Discord：[Join Server](https://discord.gg/ekpaH4FXDF)
 
 ## 💬 更新寄语
 欢迎继续体验本服务器，你的反馈是我们前进的动力！
@@ -414,8 +414,8 @@
 - [English version](./README_EN.md)
 
 ## 🙌 加入社区
-- QQ 群：[点击加入](https://qm.qq.com/q/qZ2TJ0lZdK)
-- Discord：[Join Server](https://discord.gg/j275P4PRzP)
+- QQ 群：[点击加入](https://qm.qq.com/q/RgessVyPC0)
+- Discord：[Join Server](https://discord.gg/ekpaH4FXDF)
 
 ## 💬 更新寄语
 欢迎继续体验本服务器，你的反馈是我们前进的动力！
@@ -511,8 +511,8 @@
 - [English version](./README_EN.md)
 
 ## 🙌 加入社区
-- QQ 群：[点击加入](https://qm.qq.com/q/qZ2TJ0lZdK)
-- Discord：[Join Server](https://discord.gg/j275P4PRzP)
+- QQ 群：[点击加入](https://qm.qq.com/q/RgessVyPC0)
+- Discord：[Join Server](https://discord.gg/ekpaH4FXDF)
 
 ## 💬 更新寄语
 欢迎继续体验本服务器，你的反馈是我们前进的动力！
@@ -559,8 +559,8 @@
 - [English version](./README_EN.md)
 
 ## 🙌 加入社区
-- QQ 群：[点击加入](https://qm.qq.com/q/qZ2TJ0lZdK)
-- Discord：[Join Server](https://discord.gg/j275P4PRzP)
+- QQ 群：[点击加入](https://qm.qq.com/q/RgessVyPC0)
+- Discord：[Join Server](https://discord.gg/ekpaH4FXDF)
 
 ## 💬 更新寄语
 欢迎继续体验本服务器，你的反馈是我们前进的动力！
@@ -678,8 +678,8 @@
 - [English version](./README_EN.md)
 
 ## 🙌 加入社区
-- QQ 群：[点击加入](https://qm.qq.com/q/qZ2TJ0lZdK)
-- Discord：[Join Server](https://discord.gg/j275P4PRzP)
+- QQ 群：[点击加入](https://qm.qq.com/q/RgessVyPC0)
+- Discord：[Join Server](https://discord.gg/ekpaH4FXDF)
 
 ## 💬 更新寄语
 欢迎继续体验本服务器，你的反馈是我们前进的动力！
@@ -718,8 +718,8 @@
 - [English version](./README_EN.md)
 
 ## 🙌 加入社区
-- QQ 群：[点击加入](https://qm.qq.com/q/qZ2TJ0lZdK)
-- Discord：[Join Server](https://discord.gg/j275P4PRzP)
+- QQ 群：[点击加入](https://qm.qq.com/q/RgessVyPC0)
+- Discord：[Join Server](https://discord.gg/ekpaH4FXDF)
 
 ## 💬 更新寄语
 欢迎继续体验本服务器，你的反馈是我们前进的动力！
@@ -851,8 +851,8 @@
 - [English version](./README_EN.md)
 
 ## 🙌 加入社区
-- QQ 群：[点击加入](https://qm.qq.com/q/qZ2TJ0lZdK)
-- Discord：[Join Server](https://discord.gg/j275P4PRzP)
+- QQ 群：[点击加入](https://qm.qq.com/q/RgessVyPC0)
+- Discord：[Join Server](https://discord.gg/ekpaH4FXDF)
 
 ## 💬 更新寄语
 3.0 版本的发布，标志着「应许之世」正式完成从内部测试与阶段性运行，迈向全面开放与长期运营的重要转折点。

@@ -66,8 +66,8 @@
 7. 启动游戏
 
 ## 三、玩家社区
-- [QQ](https://qm.qq.com/q/qZ2TJ0lZdK)
-- [Discord](https://discord.gg/j275P4PRzP)
+- [QQ](https://qm.qq.com/q/RgessVyPC0)
+- [Discord](https://discord.gg/ekpaH4FXDF)
 
 ## 四、赞助支持
 如果你希望支持本服务器的持续开发和维护，可以通过以下方式赞助：

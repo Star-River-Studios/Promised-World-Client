@@ -67,8 +67,8 @@
 7. 啟動遊戲
 
 ## 叁、玩家社群
-- [QQ](https://qm.qq.com/q/qZ2TJ0lZdK)
-- [Discord](https://discord.gg/j275P4PRzP)
+- [QQ](https://qm.qq.com/q/RgessVyPC0)
+- [Discord](https://discord.gg/ekpaH4FXDF)
 
 ## 肆、贊助支援
 如果您希望支援本服務器的持續開發與維護，可以透過以下方式贊助：

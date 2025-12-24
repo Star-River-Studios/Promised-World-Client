@@ -66,8 +66,8 @@ This repository is the client repository for the Minecraft multiplayer server - 
 7. Launch the game
 
 ## III. Player Community
-- [QQ](https://qm.qq.com/q/qZ2TJ0lZdK)
-- [Discord](https://discord.gg/j275P4PRzP)
+- [QQ](https://qm.qq.com/q/RgessVyPC0)
+- [Discord](https://discord.gg/ekpaH4FXDF)
 
 ## IV. Sponsorship Support
 If you wish to support the continued development and maintenance of this server, you can sponsor through the following methods:
