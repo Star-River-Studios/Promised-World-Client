@@ -67,6 +67,12 @@
     "goggles.detailed": false,
     "placard": true
   },
+  "railcraft": {
+    "signals": true,
+    "track_component": true,
+    "locomotive": true,
+    "switch_track": true
+  },
   "jade_access": {
     "held_item": true,
     "sign": true,
@@ -95,9 +101,6 @@
     "registry_name": "OFF",
     "block_properties": false,
     "mod_name": true
-  },
-  "anvilcraft_pigsplus": {
-    "electric_enchanting_table": true
   },
   "extendedae": {
     "jade_chamber": true,
@@ -155,15 +158,9 @@
     "shrine_lamp": true
   },
   "twilightforest": {
+    "drying_rack": true,
     "chiseled_bookshelf_spawner": true,
     "quest_ram_wool": true
-  },
-  "anvilcraft": {
-    "ruby_prism": true,
-    "space_overcompressor": true,
-    "heatable_block_provider": true,
-    "item_detector": true,
-    "power_provider": true
   },
   "barbequesdelight": {
     "grill": true

@@ -1,0 +1,16 @@
+filename = '[A][科技][应用能源2][ME光束]me_beam_former-1.21.1-1.2.2.jar'
+name = 'ME-Beam-Former'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c868f927f1bb93f8f2935b5cdd8d4c6abc1e3d995530a12a4cd79e79478a92fee2303efb4ab18650e76c0fc9a5b6f5fbdfcd08585b5419e685c3dc9a32028a6b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/wug9w09r/versions/waef3Qjy/me_beam_former-1.21.1-1.2.2.jar'
+
+[update.modrinth]
+mod-id = 'wug9w09r'
+version = 'waef3Qjy'

@@ -1,16 +1,29 @@
-filename = '[G][辅助][客户端][万用皮肤补丁]CustomSkinLoader_ForgeV3-14.26.1.jar'
+filename = '[G][辅助][客户端][万用皮肤补丁]CustomSkinLoader_ForgeV3-14.27.jar'
 name = 'CustomSkinLoader'
 side = 'client'
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.6', '1.21', '1.21.1', '1.21.10', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8', '1.21.9' ]
+x-prismlauncher-mc-versions = [
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.10',
+    '1.21.11',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9'
+]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '68f084110cc1f159f88a042f01145fed3ca4f658d18220f49b62d27c42f1dd21f251bfe0fab92903c78eddfa8199a6d2a81d6deafd1a10e95ef17b205ac0e7a8'
+hash = '8a335bf99c33c718cbe6001e742a01b1cecf21ecdbe094f9f91a3ca5c6ec100bab675569f3d46dd605bc95a31b368d1ac6206bfd0992a53a3c2da98463d224ea'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/idMHQ4n2/versions/8ZHfEWIC/CustomSkinLoader_ForgeV3-14.26.1.jar'
+url = 'https://cdn.modrinth.com/data/idMHQ4n2/versions/w01oabna/CustomSkinLoader_ForgeV3-14.27.jar'
 
 [update.modrinth]
 mod-id = 'idMHQ4n2'
-version = '8ZHfEWIC'
+version = 'w01oabna'

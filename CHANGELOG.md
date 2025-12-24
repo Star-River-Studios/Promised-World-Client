@@ -723,3 +723,139 @@
 
 ## 💬 更新寄语
 欢迎继续体验本服务器，你的反馈是我们前进的动力！
+
+# 🌍 应许之世 - 客户端更新（版本代号：20251225）
+
+> 📅 发布日期：2025-12-25
+>
+> 💡 **客户端更新情况**：
+> - ✅ **Full 客户端已更新至** → `v3.0.0+pw.full.20251225`
+> - ✅ **Lite 客户端已更新至** → `v1.0.0+pw.lite.20251225`
+>
+> 📃 **客户端说明**：
+> - **Full 客户端**
+>   - 用途：模组生存服专用客户端
+>   - 说明：未使用 Full 客户端将无法进入模组生存服
+> - **Lite 客户端**
+>   - 用途：插件生存服推荐客户端
+>   - 说明：是否使用 Lite 客户端均不影响进入插件生存服
+
+## 🛠️ 更新介绍
+在本次 3.0 更新中，我们对服务器与客户端进行了全面重构，并正式推出拆分后的客户端版本。
+这是 **Full 与 Lite 客户端拆分后的第一次正式版更新**，也是服务器向完整开放迈出的重要一步。
+3.0 版本的核心目标，是为服务器的 **全面开放** 和 **统一客户端使用规范** 打下稳定基础。
+请玩家根据自己想参与的玩法选择对应客户端进行下载与使用。
+
+## 🔧 分发标准
+
+- 采用 **Modrinth 整合包格式**（后缀为 `.mrpack` 的压缩文件）进行分发
+- 所有资源（模组、材质包、光影、枪械包等）由 **Packwiz** 统一管理
+- 此为 **「繁星计划（Project Many Stars）」** 下属服务器客户端的统一规范
+
+## 📋 变更说明
+
+### 🌐 【通用】服务器线路变更
+- 🗑️ **删除**
+  - 美国线路
+
+### ⚙️ 【通用】技术栈变更
+- **Full 客户端**
+  - 🔄 **更新**
+    - NeoForge 模组加载器
+
+---
+
+### 📦 【Full 专属】模组变更
+- ➕ **新增**
+  - JourneyMap Waypoint Syncing（坐标点同步）
+  - Create: Northstar - Redux（机械动力：北极星）
+  - Engineered Compatibility（工程兼容性）
+  - ME-Beam-Former（ME光束）
+  - Mekanism x Create: Northstar（通用北极星）
+  - Railcraft Reborn（铁路重生）
+  - Assembly Line（装配线）
+  - Chemical Science（化工科学）
+  - Electrodynamics（电动力学）
+  - Nuclear Science（核科学）
+  - Schematic Energistics（应用蓝图炮）
+  - **前置模组**
+    - Voltaic
+- 🗑️ **删除**
+  - Create: Hypertubes（机械动力：超级管道）
+  - More Enchants（更多附魔）
+  - Enchantment Descriptions（附魔描述）（客户端）
+  - General Feedback（通用意见反馈）（客户端）
+  - JEI Integration: Reborn（JEI扩展）（客户端）
+  - Just Enough Effects Descriptions（JEI药水效果信息）（客户端）
+  - Status Effect Bars Reforged（药水状态条）（客户端）
+  - Just Enough Archaeology（JEI嗅探兽信息）
+  - Applied Schematicannon（应用蓝图炮）
+  - **前置模组**
+    - Sodium Options API（客户端）
+    - Bookshelf
+    - Prickle
+- 🔄 **更新**
+  - Create: Diesel Generators（机械动力：柴油动力）
+  - Create: New Age（机械动力：电气时代）
+  - Create: Bits 'n' Bobs（机械动力：精致附加）
+  - Create: Mobile Packages（机械动力：无人机物流）
+  - Create: Meta Logistics（机械动力：元物流）
+  - Create Nuclear（机械动力：原子核动）
+  - Little Big Redstone（集成红石电路）
+  - PneumaticCraft: Repressurized（气动工艺）
+  - Extended AE（AE2扩展）
+  - ExtendedAE-Plus（AE2扩展+）
+  - Balkon's WeaponMod: Legacy（更多武器：传承）
+  - Butchery（沉浸式屠宰）
+  - ExtraDelight（额外乐事）
+  - Kaleidoscope Cookery（森罗物语：厨房）
+  - 3D Skin Layers（3D皮肤层）
+  - Touhou Little Maid（车万女仆）
+  - Sophisticated Backpacks（精妙背包）
+  - Sophisticated Storage（精妙存储）
+  - Lightman's Currency（莱特曼的货币）
+  - Net Music: Play List（网络音乐机：播放列表）
+  - Plasmo Voice（等离子语音）
+  - Enchantment Level Language Patch（附魔等级语言补丁）（客户端）
+  - Cursors Extended（光标扩展）（客户端）
+  - JustEnoughCharacters（通用拼音搜索）（客户端）
+  - JourneyMap（旅行地图）
+  - TofuCraftReload（豆腐工艺重制版）
+  - Reactive（反应炼金术）
+  - Modular Golems（模块化傀儡）
+  - Just Enough Items（物品管理器）
+  - Chunks Fade In（区块淡入动画）
+  - Create: Food（机械动力：食物扩展）
+  - Fright's Delight（惊悚乐事）
+  - The Twilight Forest（暮色森林）
+  - CustomSkinLoader（万用皮肤补丁）（客户端）
+  - Create More: Parallel Pipes（机械动力：平行管道）
+  - CC: Tweaked（电脑）
+  - **前置模组**
+    - Bagus Lib
+    - Framework
+    - Sophisticated Core
+    - SuperMartijn642's Core Lib
+    - Tesseract API
+
+### 🎨 【Full 专属】资源变更
+- ➕ **新增**
+  - Clean Bedrock-Style Cursors（材质包-游戏内鼠标光标包）
+  - Squareful（材质包-游戏材质包）
+  - SummerFields （材质包-游戏材质包）
+
+## 📚 使用指南
+详细系统要求、启动器配置与安装步骤，请参阅项目 README：
+- [简体中文版](./README.md)
+- [繁體中文版](./README_TW.md)
+- [English version](./README_EN.md)
+
+## 🙌 加入社区
+- QQ 群：[点击加入](https://qm.qq.com/q/qZ2TJ0lZdK)
+- Discord：[Join Server](https://discord.gg/j275P4PRzP)
+
+## 💬 更新寄语
+3.0 版本的发布，标志着「应许之世」正式完成从内部测试与阶段性运行，迈向全面开放与长期运营的重要转折点。
+从这一版本开始，服务器将以群组服务器的形态持续运行，各后端子服务器将在统一规范与架构下陆续对外开放。这不仅意味着内容规模的扩展，也意味着服务器在管理、稳定性与服务质量上的全面升级。
+感谢所有在服务器早期阶段给予支持与理解的玩家。
+未来，「应许之世」将以更加成熟、稳定的姿态，迎接每一位新老玩家的到来。
