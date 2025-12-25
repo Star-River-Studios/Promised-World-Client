@@ -90,28 +90,37 @@ build_pack() {
     done_msg "构建完成，文件名: $out.mrpack"
 }
 
-clean_build() {
-    info "开始清理 build 目录..."
+refresh_pack() {
+    info "开始刷新整合包元数据文件..."
+    "$PACKWIZ" --pack-file "$FULL_DIR/pack.toml" refresh
+    "$PACKWIZ" --pack-file "$LITE_DIR/pack.toml" refresh
+    done_msg "整合包元数据文件已刷新"
+}
+
+clean_pack() {
+    info "开始清理构建目录..."
     rm -rf "$BUILD_DIR"/*
-    done_msg "build 目录已清理完成"
+    done_msg "构建目录已清理完成"
 }
 
 # ==================== 菜单 ====================
 echo "====== Packwiz 构建脚本 ======"
-echo "1) 构建 Full 客户端"
-echo "2) 构建 Lite 客户端"
-echo "3) 全部构建（Full → Lite）"
-echo "4) 清理构建目录"
-echo "5) 退出"
+echo "1. 刷新整合包元数据文件"
+echo "2. 构建 Full 客户端"
+echo "3. 构建 Lite 客户端"
+echo "4. 全部构建（Full → Lite）"
+echo "5. 清理构建目录"
+echo "6. 退出"
 
 choice=$(confirm "请选择操作" || echo "")
 
 # ==================== 行为映射 ====================
 case "$choice" in
-    1) build_pack "Full" "$FULL_DIR" ;;
-    2) build_pack "Lite" "$LITE_DIR" ;;
-    3) build_pack "Full" "$FULL_DIR"; build_pack "Lite" "$LITE_DIR" ;;
-    4) clean_build ;;
-    5) exit_script ;;
+    1) refresh_pack ;;
+    2) build_pack "Full" "$FULL_DIR" ;;
+    3) build_pack "Lite" "$LITE_DIR" ;;
+    4) build_pack "Full" "$FULL_DIR"; build_pack "Lite" "$LITE_DIR" ;;
+    5) clean_pack ;;
+    6) exit_script ;;
     *) warn "无效选项。" ;;
 esac

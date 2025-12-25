@@ -90,31 +90,40 @@ function Build-Pack {
     DoneMsg "构建完成，文件名: $OutName.mrpack"
 }
 
-function Clear-Build {
-    InfoMsg '开始清理 build 目录...'
+function Refresh-Pack {
+    InfoMsg '开始刷新整合包元数据文件...'
+    & $Packwiz --pack-file (Join-Path $FullDir 'pack.toml') refresh
+    & $Packwiz --pack-file (Join-Path $LiteDir 'pack.toml') refresh
+    DoneMsg "整合包元数据文件已刷新"
+}
+
+function Clear-Pack {
+    InfoMsg '开始清理构建目录...'
     if (Test-Path $BuildDir) {
         Remove-Item "$BuildDir\*" -Recurse -Force -ErrorAction SilentlyContinue
     }
-    DoneMsg "build 目录已清理完成"
+    DoneMsg "构建目录已清理完成"
 }
 
 # ==================== 菜单 ====================
 Write-Host "====== Packwiz 构建脚本 ======"
-Write-Host '1) 构建 Full 客户端'
-Write-Host '2) 构建 Lite 客户端'
-Write-Host '3) 全部构建（Full → Lite）'
-Write-Host '4) 清理构建目录'
-Write-Host '5) 退出'
+Write-Host '1. 刷新整合包元数据文件'
+Write-Host '2. 构建 Full 客户端'
+Write-Host '3. 构建 Lite 客户端'
+Write-Host '4. 全部构建（Full → Lite）'
+Write-Host '5. 清理构建目录'
+Write-Host '6. 退出'
 
 # 先读取用户输入
 $Choice = ConfirmMsg '请选择操作：'
 
 # ==================== 行为映射 ====================
 switch ($Choice) {
-    '1' { Build-Pack 'Full' $FullDir }
-    '2' { Build-Pack 'Lite' $LiteDir }
-    '3' { Build-Pack 'Full' $FullDir; Build-Pack 'Lite' $LiteDir }
-    '4' { Clear-Build }
-    '5' { exit }
+    '1' { Refresh-Pack }
+    '2' { Build-Pack 'Full' $FullDir }
+    '3' { Build-Pack 'Lite' $LiteDir }
+    '4' { Build-Pack 'Full' $FullDir; Build-Pack 'Lite' $LiteDir }
+    '5' { Clear-Pack }
+    '6' { exit }
     default { WarnMsg '无效选项。' }
 }
