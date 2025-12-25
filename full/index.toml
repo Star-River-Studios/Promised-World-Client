@@ -1026,7 +1026,7 @@ hash = "a7697bfc49c5e4a6677476ad1adb327df790f1d421280aefd8f3b04ac1149e64"
 
 [[files]]
 file = "config/versioner-common.toml"
-hash = "cbf888a0f3923356a85ba5b24238e50b7bfb847b148f9a04b18a1df63a0f7848"
+hash = "5e6f3dd27828ee526b91e482bada6932e862f7f58c1b03d7693e4de0f051df4b"
 
 [[files]]
 file = "config/vinery.toml"
@@ -2302,7 +2302,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "e12f099ac73b9c347f0da01e56595d3cf8e2c241bdcc66f5f32d18f950de58ad"
+hash = "2fe4c76b39725911d56ca45221ec17163bc5555916135c020abdc0c4ee5becef"
 
 [[files]]
 file = "patchouli_data.json"
@@ -2315,17 +2315,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/squareful.pw.toml"
-hash = "f192659a52226dfc1ab4c057addf2b156606893207f7c223c58e356c7052bc13"
+hash = "12c3a1a1063689c1193805e43f4f60e5a59dcd3ea788b9cbf786126596aa00ac"
 metafile = true
 
 [[files]]
 file = "resourcepacks/summerfields.pw.toml"
 hash = "f836c9c6c64eca2592c9db479664e811562a46542c3a674a4f1f193e9a6cb408"
-metafile = true
-
-[[files]]
-file = "resourcepacks/xk-redstone-display.pw.toml"
-hash = "44b79ab61de9223fad9b2ab31f19b56c9ad2c595c27bd983baff1133328c5e97"
 metafile = true
 
 [[files]]

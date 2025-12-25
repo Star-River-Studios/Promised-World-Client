@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","file/Squareful 方纹v3.8 for MC 1.20.2~1.21.8.zip","mod_resources","teastory_asset_generator","tacz_resources","scholar:colored_books","scholar:chiseled_bookshelf_colored_books","file/BedrockStyleCursors_v1.0.0.zip","file/Minecraft-Mod-Language-Modpack-Converted-1.21.1.zip"]
+resourcePacks:["vanilla","file/Squareful_方纹v26.0.zip","mod_resources","teastory_asset_generator","tacz_resources","scholar:colored_books","scholar:chiseled_bookshelf_colored_books","file/BedrockStyleCursors_v1.0.0.zip","file/Minecraft-Mod-Language-Modpack-Converted-1.21.1.zip"]
 incompatibleResourcePacks:["teastory_asset_generator"]
 lastServer:
 lang:zh_cn
