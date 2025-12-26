@@ -102,6 +102,9 @@
     "block_properties": false,
     "mod_name": true
   },
+  "anvilcraft_pigsplus": {
+    "electric_enchanting_table": true
+  },
   "extendedae": {
     "jade_chamber": true,
     "jade_wireless": true
@@ -161,6 +164,13 @@
     "drying_rack": true,
     "chiseled_bookshelf_spawner": true,
     "quest_ram_wool": true
+  },
+  "anvilcraft": {
+    "ruby_prism": true,
+    "space_overcompressor": true,
+    "heatable_block_provider": true,
+    "item_detector": true,
+    "power_provider": true
   },
   "barbequesdelight": {
     "grill": true

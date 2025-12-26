@@ -1,4 +1,4 @@
-filename = '[F][实用][车万女仆][女仆摇曲柄]MaidUseHandCrank_1.4.2-neoforge_21.1.206-1.21.1.jar'
+filename = '[F][实用][车万女仆][女仆摇曲柄]MaidUseHandCrank_1.5.1-neoforge_21.1.206-1.21.1.jar'
 name = 'MaidUseHandCrank'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'dc8cbb39132559c395cc76f80d5458b455a6b5d3552acc1ef2d307b3faad98f838dd31064f15fbc58230b36a5783f4cec061a023abadf6e4d9ba1b5382dea1f0'
+hash = '6a7b9fc76131ab5c61d362a741211b06d39b556a483530d2e47754ede4422006aef21a650dd56fbe41dac54dbb8e2a2f29d67919a959e25a4aa3d2852ab1c7af'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/kVNtrRcL/versions/3aC72epd/MaidUseHandCrank_1.4.2-neoforge_21.1.206-1.21.1.jar'
+url = 'https://cdn.modrinth.com/data/kVNtrRcL/versions/NfLzVMT9/MaidUseHandCrank_1.5.1-neoforge_21.1.206-1.21.1.jar'
 
 [update.modrinth]
 mod-id = 'kVNtrRcL'
-version = '3aC72epd'
+version = 'NfLzVMT9'

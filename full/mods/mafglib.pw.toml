@@ -1,4 +1,4 @@
-filename = '[Z][前置模组][客户端]mafglib-0.4.1+mc1.21.1.jar'
+filename = '[Z][前置模组][客户端]mafglib-0.4.2+mc1.21.1.jar'
 name = 'MaFgLib'
 side = 'client'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '9294f14cf17605bbd0af7fb54278395ad6865145d8dcf2100289128daf966cee45862a5032f5e248d70aa6aa34418d937cfac9c1c3d7ce78317531b46570a75d'
+hash = '43c24f8ebd2f27b3f8be33df224d59baf3c901fcaa7c01ce42e5bcf8891c4cad0a7406e0374f66107474a8b627c55cf81f7805cc15d7da2f8f1bbe052892b856'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/SKI34J7B/versions/znxhC06k/mafglib-0.4.1%2Bmc1.21.1.jar'
+url = 'https://cdn.modrinth.com/data/SKI34J7B/versions/YcfOKxBv/mafglib-0.4.2%2Bmc1.21.1.jar'
 
 [update.modrinth]
 mod-id = 'SKI34J7B'
-version = 'znxhC06k'
+version = 'YcfOKxBv'

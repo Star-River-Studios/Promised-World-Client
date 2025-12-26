@@ -1,12 +1,12 @@
 name = "Promised-World-Client-Lite"
 author = "ManyStars"
-version = "1.0.1+pw.lite.20251226"
+version = "1.1.0+pw.lite.20251227"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "99eed22f78922eba0bcce46f62f21baf96658941caa076010225b936a84ed36d"
+hash = "509e0a6c9fa82ed03f122faf912aafb1bbc5724a1c873ed79b4e7a5f3b7fc4e3"
 
 [versions]
 fabric = "0.18.3"
