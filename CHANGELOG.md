@@ -1034,4 +1034,4 @@
 - Discord：[Join Server](https://discord.gg/ekpaH4FXDF)
 
 ## 💬 更新寄语
-（占位）
+迎继续体验本服务器，你的反馈是我们前进的动力！
