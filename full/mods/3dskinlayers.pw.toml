@@ -1,5 +1,5 @@
 filename = '[E][装饰][客户端][3D皮肤层]skinlayers3d-neoforge-1.10.1-mc1.21.1.jar'
-name = '3d-Skin-Layers'
+name = '3D Skin Layers'
 side = 'client'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

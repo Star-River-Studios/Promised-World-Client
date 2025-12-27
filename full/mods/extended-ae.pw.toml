@@ -1,5 +1,5 @@
 filename = '[A][科技][应用能源2][AE2扩展]ExtendedAE-1.21-2.2.27-neoforge.jar'
-name = 'ExtendedAE'
+name = 'Extended AE'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

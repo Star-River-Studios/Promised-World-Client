@@ -1,5 +1,5 @@
 filename = '[D][农业][农夫乐事][额外乐事]extradelight-2.6.3.jar'
-name = 'Extra Delight'
+name = 'ExtraDelight'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

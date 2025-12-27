@@ -1,5 +1,5 @@
 filename = '[B][魔法][反应炼金术]reactive-1.21.1-10.0.2.jar'
-name = 'Reactive'
+name = 'Reactive Alchemy'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]

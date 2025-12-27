@@ -1,5 +1,5 @@
 filename = '[G][辅助][客户端][光标扩展]minecraft-cursor-neoforge-3.11.2+1.21.1-patch.1.jar'
-name = 'Minecraft Cursor'
+name = 'Cursors Extended'
 side = 'client'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

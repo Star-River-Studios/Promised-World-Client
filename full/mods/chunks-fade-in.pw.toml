@@ -1,5 +1,5 @@
 filename = '[H][优化][客户端][钠][区块淡入动画]chunksfadein-neoforge-3.0.15-1.21.jar'
-name = 'Chunks Fade In'
+name = 'Chunks fade in'
 side = 'client'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]

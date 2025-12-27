@@ -1,5 +1,5 @@
 filename = '[C][冒险][永恒枪械工坊：零-非官方版]tacz-neoforge-1.21.1-1.1.7-r2.jar'
-name = 'Timeless & Classics Guns: Zero'
+name = '[UNOFFICIAL] TaCZ 1.21.1 NeoForge Port'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

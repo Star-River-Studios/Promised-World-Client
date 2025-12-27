@@ -1,5 +1,5 @@
 filename = '[F][实用][网络音乐机][网络音乐机：播放列表]net_music_list-2.2.4-alpha.jar'
-name = 'Net Music:Play List'
+name = 'Net Music: Play List'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

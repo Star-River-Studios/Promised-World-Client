@@ -1,5 +1,5 @@
 filename = '[G][辅助][客户端][创世神][创世神范围显示]WorldEditCUI-NeoForge-1.21.1+01-SNAPSHOT.jar'
-name = 'WorldEdit CUI (Forge)'
+name = 'WorldEdit CUI (Unofficial Forge Port)'
 side = 'client'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]

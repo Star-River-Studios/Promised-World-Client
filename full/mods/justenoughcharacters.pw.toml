@@ -1,5 +1,5 @@
 filename = '[G][辅助][客户端][物品管理器][通用拼音搜索]jecharacters-1.21-neoforge-4.5.23.jar'
-name = 'Just Enough Characters'
+name = 'JustEnoughCharacters'
 side = 'client'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

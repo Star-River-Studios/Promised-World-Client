@@ -3,7 +3,7 @@
 ## 版本号说明
 
 本版本号专指 **「应许之世」客户端整合包** 的版本，采用 **语义化版本（SemVer 2.0.0）** 格式，并附加项目与构建信息：
-版本号结构：`MAJOR.MINOR.PATCH(-PRERELEASE)+PROJECTCODE.CHANNEL.YYYYMMDD`
+版本号结构：`MAJOR.MINOR.PATCH(-PRERELEASE)+PROJECTCODE.CHANNEL.YYYYMMDD.NUMBER`
 其中：
 
 - **`MAJOR`**：主版本号
@@ -22,7 +22,11 @@
   → 玩家**可选择性更新**，不影响连接。
 
 - **`-PRERELEASE`**（可选）：预发布标识（如 `beta.1`）；无此后缀即为正式版。
-- **`+PROJECTCODE.CHANNEL.YYYYMMDD`**：构建元数据，标识所属项目、构建频道与发布日期，**不影响版本排序**。
+- **`+PROJECTCODE.CHANNEL.YYYYMMDD.NUMBER`**：构建元数据，标识所属项目、构建频道与发布日期，**不影响版本排序**。
+  - `PROJECTCODE`：项目代号，用于标识项目，例如：`sf`、`pw`、`bp` 等。
+  - `CHANNEL`：构建频道，用于标识构建渠道，例如：`full`、`lite` 等。
+  - `YYYYMMDD`：构建日期，标识日期，例如：`20251103`
+  - `NUMBER`：构建编号，标识同一日期的构建次数，例如：`1`、`2`、`3` 等。(当日的首次构建则不添加该字段，为0号构建)
 
 > 🔄 **版本号归零规则（SemVer 标准）**
 > - 当 `MAJOR` 递增时（如世界重置、NeoForge 升级）→ `MINOR = 0`，`PATCH = 0`
@@ -40,8 +44,9 @@
   - 项目：Promised World（应许之世）
   - 频道：Full（完整版，模组服专用客户端）
   - 构建日期：2025 年 11 月 08 日
+  - 构建编号：0号（当日首次更新）
 
-- `2.1.3+pw.lite.20260315` 表示：
+- `2.1.3+pw.lite.20260315.1` 表示：
   - 主版本号：2
   - 次版本号：1
   - 修补版本号：3
@@ -49,6 +54,7 @@
   - 项目：Promised World（应许之世）
   - 频道：Lite（精简版，插件服推荐客户端）
   - 构建日期：2026 年 3 月 15 日
+  - 构建编号：1号（当日第二个更新）
 
 ## 更新模板
 ```markdown
@@ -58,8 +64,8 @@
 > ⚠️ 此为 **Beta** 测试版本，可能存在兼容性问题，欢迎反馈！（仅在Beta版中添加）
 >
 > 💡 **客户端更新情况**：
-> - ✅ **Full 客户端已更新至** → `v3.0.2+pw.full.20251220`
-> - ✅ **Lite 客户端已更新至** → `v3.0.2+pw.lite.20251220`
+> - ✅ **Full 客户端已更新至** → `vMAJOR.MINOR.PATCH(-PRERELEASE)+PROJECTCODE.CHANNEL.YYYYMMDD.NUMBER`
+> - ✅ **Lite 客户端已更新至** → `vMAJOR.MINOR.PATCH(-PRERELEASE)+PROJECTCODE.CHANNEL.YYYYMMDD.NUMBER`
 >
 > 📃 **客户端说明**：
 > - **Full 客户端**
@@ -985,3 +991,47 @@
 
 ## 💬 更新寄语
 欢迎继续体验本服务器，你的反馈是我们前进的动力！
+
+# 🌍 应许之世 - 客户端更新（版本代号：20251227.1）
+
+> 📅 发布日期：2025-12-27
+>
+> 💡 **客户端更新情况**：
+> - ✅ **Full 客户端已更新至** → `v3.2.0+pw.full.20251227.1`
+> - ✅ **Lite 客户端已更新至** → `v1.1.0+pw.lite.20251227`
+>
+> 📃 **客户端说明**：
+> - **Full 客户端**
+>   - 用途：模组生存服专用客户端
+>   - 说明：未使用 Full 客户端将无法进入模组生存服
+> - **Lite 客户端**
+>   - 用途：插件生存服推荐客户端
+>   - 说明：是否使用 Lite 客户端均不影响进入插件生存服
+
+## 🛠️ 更新介绍
+在本次更新中，我们紧急修复了**Full客户端**在上个版本由于内容不同步导致无法进入mod服务器的情况。并对现有模组进行了一次更新检查
+
+## 🔧 分发标准
+
+- 采用 **Modrinth 整合包格式**（后缀为 `.mrpack` 的压缩文件）进行分发
+- 所有资源（模组、材质包、光影、枪械包等）由 **Packwiz** 统一管理
+- 此为 **「繁星计划（Project Many Stars）」** 下属服务器客户端的统一规范
+
+## 📋 变更说明
+
+### 📦 【Full 专属】模组变更
+- 🔄 **更新**
+  - The Twilight Forest（暮色森林）
+
+## 📚 使用指南
+详细系统要求、启动器配置与安装步骤，请参阅项目 README：
+- [简体中文版](./README.md)
+- [繁體中文版](./README_TW.md)
+- [English version](./README_EN.md)
+
+## 🙌 加入社区
+- QQ 群：[点击加入](https://qm.qq.com/q/RgessVyPC0)
+- Discord：[Join Server](https://discord.gg/ekpaH4FXDF)
+
+## 💬 更新寄语
+（占位）
