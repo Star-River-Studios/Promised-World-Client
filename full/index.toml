@@ -269,6 +269,10 @@ file = "config/cmparallelpipes-client.toml"
 hash = "82258e4600e793f23eab83d8f44ad444c2dffc614718244ed6da859ec9777c53"
 
 [[files]]
+file = "config/commoncapabilities-common.toml"
+hash = "e016bfc3b6fed50ceca8c8d71351fc5fffe5d1edbbdf8af71723bf6cba4a6a81"
+
+[[files]]
 file = "config/compatdelight-common.toml"
 hash = "24663290d2cdb4d5bc6c5a379b264b0e9dfad97a520f69fb8901d8c907c6edd0"
 
@@ -371,6 +375,10 @@ hash = "9f00a6b9904cf63a36c0c72f8346642962d538aaa78b59943b9de60dda82e6d0"
 [[files]]
 file = "config/custom-micromaterials.cfg"
 hash = "4d0caa199d91f8038c660f30e66dd92aafa353bb9d3693542ad5934254731a9d"
+
+[[files]]
+file = "config/cyclopscore-common.toml"
+hash = "fede2239a8566281381e13f863d6a30a326ea4a89bca5c7b5badad75f9536fd4"
 
 [[files]]
 file = "config/deeperdarker-common.toml"
@@ -521,6 +529,34 @@ file = "config/immersiveengineering-startup.toml"
 hash = "db0592dacaddc8d709b9632c9fd4b785622b671fe0dba35009ee198f858f1bb2"
 
 [[files]]
+file = "config/integratedcrafting-common.toml"
+hash = "e5de8239e0659787bd5ab5514547fd46f867e7ff7c68a243e4442910c7f92f5c"
+
+[[files]]
+file = "config/integrateddynamics-common.toml"
+hash = "ddba81cb58c09a2aab329e73eec9319e710ad2888c8df9c4ecc221c60599c666"
+
+[[files]]
+file = "config/integrateddynamicscompat-common.toml"
+hash = "bf536dde07b33cb27b2d1442fe3b4952b41cdc0c57b2a845716decce112892b2"
+
+[[files]]
+file = "config/integratedmekanism-common.toml"
+hash = "67106a4af4c1463bbfe899b90d7cb73ef55ddaf1e78916a1d5d47a73087b9bd4"
+
+[[files]]
+file = "config/integratedscripting-common.toml"
+hash = "5cb16b6b28f1fd6c49db370e39c72de34b4b14ee105c01fa42e0c1a95f15dd57"
+
+[[files]]
+file = "config/integratedterminals-common.toml"
+hash = "961d6bdfb843d3fe0643936d8b08d186fca96477a816cf381faad8dc92835312"
+
+[[files]]
+file = "config/integratedtunnels-common.toml"
+hash = "5ad9d1e520a9848c16218345a89cf755af0089384f5f2baa9f178d85034b486d"
+
+[[files]]
 file = "config/iris-excluded.json"
 hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
@@ -550,11 +586,11 @@ hash = "5754114a0a663b321793a61f741bafa70c2a6dd649657260cdc096600763ad94"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "896672113ef5dbbe5ecbe710a8d50e8e1adbe8ce3bc53569b13f18b85c54260a"
+hash = "77575ebe2935d34420e79f4fad33378e77f36fa91a77af392ba386adfcb28d69"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "67f3fe74010ea8ac115a8a13a1d549525a5c754bfb9b49ace50b0928c5c9daad"
+hash = "9fa7cbc7fbfdc7edfd6668f0074a4ac607243faccdcfbccc4dd9b034c98a1e10"
 
 [[files]]
 file = "config/jecharacters-client.toml"
@@ -686,7 +722,7 @@ hash = "fe878a2717a145cd890621eac5b3be1e1fd656f7ff9abc6e8d53f670d37474c4"
 
 [[files]]
 file = "config/net_music_list.toml"
-hash = "30e660f519dd3ae50718d9d6a895d896feadcdd8ef1c8c7193b6c67b83198caa"
+hash = "9b22359c07e68a79a85fc4ca7c680d8d43d9904f65bfb6f055f97a7cb942f971"
 
 [[files]]
 file = "config/netmusic-common.toml"
@@ -778,7 +814,7 @@ hash = "6bc27c0abf808d1ce9a6c3139100ef9c3f12199d060f57075793e3461292063a"
 
 [[files]]
 file = "config/plasmovoice/meta_cache.json"
-hash = "8f9ec37f923355a56da8e4bd66bef205189f62a1340fc8f91c847553973a7737"
+hash = "bc878d5763a3bbdfb725097e1eb03989c3b2be6b430982b482130098c5121435"
 
 [[files]]
 file = "config/pneumaticcraft-client.toml"
@@ -1117,7 +1153,7 @@ metafile = true
 
 [[files]]
 file = "mods/anvilcraft.pw.toml"
-hash = "98c77f6fee98afcb71b20d76767dd5ad46ce8379c2e4a2236ca648ec6bc4d354"
+hash = "39f5fc81f2bd4c25f07ca25285d870d5856bdbfc6383f09a14fb93cb0d570b1c"
 metafile = true
 
 [[files]]
@@ -1283,6 +1319,11 @@ metafile = true
 [[files]]
 file = "mods/codechicken-lib.pw.toml"
 hash = "2503c97123ef6865cee08fbe31308509668ca96ab87de46e0adacf5c206c36c2"
+metafile = true
+
+[[files]]
+file = "mods/common-capabilities.pw.toml"
+hash = "e5cdd95ac9f93364404325113bbc31c3d3ca26543d204396e1765948727a92e4"
 metafile = true
 
 [[files]]
@@ -1471,6 +1512,11 @@ hash = "b9b642328bc006cde716b45e3a3026c8e34079dfb685020bbf0dbac22abbae9a"
 metafile = true
 
 [[files]]
+file = "mods/cyclops-core.pw.toml"
+hash = "ad7503aee45c4559bb8628815222cf527566b67e0f6d63a3417820b3d3753ca3"
+metafile = true
+
+[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "6c343e65c73d11b8a3507070ed211d11e4c8e780d57174313e89a9849d95a1a0"
 metafile = true
@@ -1637,7 +1683,7 @@ metafile = true
 
 [[files]]
 file = "mods/golem-dungeons.pw.toml"
-hash = "cf0fbfd3abd244ec07d5ab262658baaa291a0b9564d03ff0f1db2a266e28f221"
+hash = "03a81976a67e94308ab4930510169ad2dc15abb4ce43f9c5a3eb135eb832be98"
 metafile = true
 
 [[files]]
@@ -1647,7 +1693,7 @@ metafile = true
 
 [[files]]
 file = "mods/gtbcs-spelllib.pw.toml"
-hash = "262cedfa6767c979e1917ca2b142c9df6d7829b99ccabbc0094110923f48083f"
+hash = "206684bd547684d063e1e02f62b438886bdef6b80ec381eb402b1a9b4b465273"
 metafile = true
 
 [[files]]
@@ -1688,6 +1734,36 @@ metafile = true
 [[files]]
 file = "mods/immersiveengineering.pw.toml"
 hash = "5644d99c7a23bfb621aebb5749ef70a57d6f9eea90b94ebac68810a0c482a05e"
+metafile = true
+
+[[files]]
+file = "mods/integrated-crafting.pw.toml"
+hash = "114489ac504f4f8ceaf33a0942771b418e116c4ccb1fb26d965112577f17220b"
+metafile = true
+
+[[files]]
+file = "mods/integrated-dynamics.pw.toml"
+hash = "f305ef721a4411222437871e6933a8b6da08670d81af81277c5e066a3465c98b"
+metafile = true
+
+[[files]]
+file = "mods/integrated-mekanism.pw.toml"
+hash = "8652218fd73c9e5b3dbda903ae82039f62ab0e037b70630d73348784ee3f5997"
+metafile = true
+
+[[files]]
+file = "mods/integrated-scripting.pw.toml"
+hash = "ea15791030a71556670f42552afec8bc8092a7974994bcd047441c222b70e865"
+metafile = true
+
+[[files]]
+file = "mods/integrated-terminals.pw.toml"
+hash = "ed8b534256318cda22e448477ffc9943ab76d649a738aa6711437dcd55313b99"
+metafile = true
+
+[[files]]
+file = "mods/integrated-tunnels.pw.toml"
+hash = "d044c293c0e83bead8e6346c0bf62e880ccc7cc3f3f5e025567d8ae3a3ec5efa"
 metafile = true
 
 [[files]]
@@ -1812,7 +1888,7 @@ metafile = true
 
 [[files]]
 file = "mods/magic-from-the-east.pw.toml"
-hash = "081806ffce9a2c364a2ad1395fae2b4a8406066c99d7099ea24976b53731285a"
+hash = "81b4f86632d22182eb82c65a593be74a0220b6989b5d22064e53a6290b0579d0"
 metafile = true
 
 [[files]]
@@ -1927,7 +2003,7 @@ metafile = true
 
 [[files]]
 file = "mods/net-music-play-list.pw.toml"
-hash = "f9bece46adf68106389189378b7ed6e194ce2f70793a6c594fae4aeedb8859e8"
+hash = "07ccd346de49996225f3242c48552542778ca9aafdb96550c2e5467f7c82151a"
 metafile = true
 
 [[files]]
@@ -1972,7 +2048,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "a0cc809f5a67e8564b46d33b1854cb23365ee8988d6d69d3a28d3e7247cb9ccb"
+hash = "1271231855bec1b1c217d9c19b4db7d2c656731fa190b337d79f4ac4a7680bb0"
 metafile = true
 
 [[files]]
@@ -2037,7 +2113,7 @@ metafile = true
 
 [[files]]
 file = "mods/pv-addon-groups.pw.toml"
-hash = "97b97da85aa513a9b72763560e1d0c8006868b2315e50bed16ad3e8ffc02c614"
+hash = "dd92a51d8a11901baaad8fdb801798bb8b36830ef06f95ca6f0748b2273f755f"
 metafile = true
 
 [[files]]

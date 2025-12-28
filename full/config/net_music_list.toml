@@ -14,3 +14,4 @@ oldGUI = false
 noVIP = false
 only5Second = false
 allowLyricToServer = false
+glyMusicEntity = false

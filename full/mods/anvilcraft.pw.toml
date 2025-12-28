@@ -1,4 +1,4 @@
-filename = '[A][科技][铁砧科技]anvilcraft-neoforge-1.21.1-1.5.0+hotfix.1564.jar'
+filename = '[A][科技][铁砧工艺]anvilcraft-neoforge-1.21.1-1.5.0+hotfix.1565.jar'
 name = 'AnvilCraft'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = 'e737be1d0a4b5801d06acbc5efe2ce799588c55f2156a49bdfdcddde9f54419a1b783f7f04c01200d0c5b073538f68e0bfed00b52c4626dffe8e3a3d6e385de6'
+hash = '7122c599d22c08b4f71ca05ecdb9d57bb13077d6138195a8f9d61c7bdcae98544593db33670358869e194e718323e92364e2d12e36389e53d380ee055119aa6d'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/vuISAWPc/versions/nAKDqGhY/anvilcraft-neoforge-1.21.1-1.5.0%2Bhotfix.1564.jar'
+url = 'https://cdn.modrinth.com/data/vuISAWPc/versions/8UunY2vq/anvilcraft-neoforge-1.21.1-1.5.0%2Bhotfix.1565.jar'
 
 [update.modrinth]
 mod-id = 'vuISAWPc'
-version = 'nAKDqGhY'
+version = '8UunY2vq'

@@ -58,7 +58,7 @@
 
 ## 更新模板
 ```markdown
-# 🌍 应许之世 - 客户端更新（版本代号：YYYYMMDD）
+# 🌍 应许之世 - 客户端更新（版本代号：YYYYMMDD.NUMBER）
 
 > 📅 发布日期：YYYY-MM-DD
 > ⚠️ 此为 **Beta** 测试版本，可能存在兼容性问题，欢迎反馈！（仅在Beta版中添加）
@@ -1022,6 +1022,66 @@
 ### 📦 【Full 专属】模组变更
 - 🔄 **更新**
   - The Twilight Forest（暮色森林）
+
+## 📚 使用指南
+详细系统要求、启动器配置与安装步骤，请参阅项目 README：
+- [简体中文版](./README.md)
+- [繁體中文版](./README_TW.md)
+- [English version](./README_EN.md)
+
+## 🙌 加入社区
+- QQ 群：[点击加入](https://qm.qq.com/q/RgessVyPC0)
+- Discord：[Join Server](https://discord.gg/ekpaH4FXDF)
+
+## 💬 更新寄语
+迎继续体验本服务器，你的反馈是我们前进的动力！
+
+# 🌍 应许之世 - 客户端更新（版本代号：20251128）
+
+> 📅 发布日期：2025-12-28
+>
+> 💡 **客户端更新情况**：
+> - ✅ **Full 客户端已更新至** → `v3.3.0+pw.full.20251228`
+> - ✅ **Lite 客户端已更新至** → `v1.1.0+pw.lite.20251227`
+>
+> 📃 **客户端说明**：
+> - **Full 客户端**
+>   - 用途：模组生存服专用客户端
+>   - 说明：未使用 Full 客户端将无法进入模组生存服
+> - **Lite 客户端**
+>   - 用途：插件生存服推荐客户端
+>   - 说明：是否使用 Lite 客户端均不影响进入插件生存服
+
+## 🛠️ 更新介绍
+在本次更新中，我们为**Full客户端**添加了`Integrated Dynamics（动态联合）`模组及其附属模组，并对**Full客户端**的现有模组进行了一次更新检查。
+
+## 🔧 分发标准
+
+- 采用 **Modrinth 整合包格式**（后缀为 `.mrpack` 的压缩文件）进行分发
+- 所有资源（模组、材质包、光影、枪械包等）由 **Packwiz** 统一管理
+- 此为 **「繁星计划（Project Many Stars）」** 下属服务器客户端的统一规范
+
+## 📋 变更说明
+
+### 📦 【Full 专属】模组变更
+- ➕ **新增**
+  - Integrated Crafting（集成合成学）
+  - Integrated Dynamics（动态联合）
+  - Integrated Mekanism（动态联合：通用机械扩展）
+  - Integrated Scripting（脚本联合）
+  - Integrated Terminals（集成终端）
+  - Integrated Tunnels（集成管道）
+  - **前置模组**
+    - Common Capabilities
+    - Cyclops Core
+- 🔄 **更新**
+  - AnvilCraft（铁砧工艺）
+  - Golem Dungeons（傀儡地牢）
+  - ISS: Magic From The East（中亚魔法）
+  - Net Music:Play List（网络音乐机：播放列表）
+  - **前置模组**
+    - GTBC's SpellLib
+    - Player Animator
 
 ## 📚 使用指南
 详细系统要求、启动器配置与安装步骤，请参阅项目 README：

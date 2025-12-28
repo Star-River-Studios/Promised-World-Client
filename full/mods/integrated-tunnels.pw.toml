@@ -1,0 +1,16 @@
+filename = '[A][科技][动态联合][集成管道]integratedtunnels-1.21.1-neoforge-1.9.2-521.jar'
+name = 'Integrated Tunnels'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '2966e5100f8ac5ebb78dff76d8de6c9a6eb37b57ae1d139f750001fc5a2db4ccfc1957f968edd47bd10a1b2a1be8eb239dc759f2d67847738eb2ce3840dd230f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Etqy1Omb/versions/Hyioo4Pn/integratedtunnels-1.21.1-neoforge-1.9.2-521.jar'
+
+[update.modrinth]
+mod-id = 'Etqy1Omb'
+version = 'Hyioo4Pn'

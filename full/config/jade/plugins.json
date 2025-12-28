@@ -1,4 +1,8 @@
 {
+  "net_music_list": {
+    "player_entity": true,
+    "player_block": true
+  },
   "minecraft": {
     "item_storage.show_name_amount": 5,
     "furnace": true,
@@ -108,6 +112,14 @@
   "extendedae": {
     "jade_chamber": true,
     "jade_wireless": true
+  },
+  "integrateddynamicscompat": {
+    "proxy": true,
+    "mechanical_squeezer": true,
+    "mechanical_drying_basin": true,
+    "drying_basin": true,
+    "part": true,
+    "squeezer": true
   },
   "ae2": {
     "part_icon": true,

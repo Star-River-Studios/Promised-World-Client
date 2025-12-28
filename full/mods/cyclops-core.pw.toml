@@ -1,0 +1,16 @@
+filename = '[Z][前置模组]cyclopscore-1.21.1-neoforge-1.28.0.jar'
+name = 'Cyclops Core'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '798b804ee0b01f3b14eba6862bd59c339f75fb62d1a3442b28e574c926bccf90009d8f9d295562d31a05600b1efad6bd2783ebbeecfe85431c1ddd0cf8944fbd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Z9DM0LJ4/versions/ZleI6ExO/cyclopscore-1.21.1-neoforge-1.28.0.jar'
+
+[update.modrinth]
+mod-id = 'Z9DM0LJ4'
+version = 'ZleI6ExO'

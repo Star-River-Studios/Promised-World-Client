@@ -1,0 +1,16 @@
+filename = '[A][科技][动态联合][动态联合：通用机械扩展]integratedmekanism-1.21.1-neoforge-1.0.3-89.jar'
+name = 'Integrated Mekanism'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'd1ee3858e76befdd3811e2bf9189c7c8aeb960c7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7252460
+project-id = 1332544

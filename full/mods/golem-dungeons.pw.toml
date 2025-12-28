@@ -1,4 +1,4 @@
-filename = '[C][冒险][模块化傀儡][傀儡地牢]golemdungeons-2.0.4.jar'
+filename = '[C][冒险][模块化傀儡][傀儡地牢]golemdungeons-2.0.5.jar'
 name = 'Golem Dungeons'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'a5b326450f4f58e52bcfe6ad32ba8c32fc6e57595900c33e8923c0471e4af02340ac96233fa291f049e7fc305908af2c18aa847a35a59eb49cc27b87d2be9bd8'
+hash = 'a7a0d848fd3e05e22ec45532e83ae07ea0b6e34814c43a102a2d51b74a7f6112c844d6f13240a71f6f6de726bde5e3769d3b1af204533df05b100694ada277ca'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/5OrL8C4a/versions/WsAcw5QD/golemdungeons-2.0.4.jar'
+url = 'https://cdn.modrinth.com/data/5OrL8C4a/versions/qmjvx8WM/golemdungeons-2.0.5.jar'
 
 [update.modrinth]
 mod-id = '5OrL8C4a'
-version = 'WsAcw5QD'
+version = 'qmjvx8WM'
