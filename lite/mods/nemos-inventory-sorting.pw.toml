@@ -1,16 +1,16 @@
-filename = '[G][辅助][客户端][背包整理]nemos-inventory-sorting-Fabric-1.21.10-1.14.7.jar'
+filename = '[G][辅助][客户端][背包整理]nemos-inventory-sorting-Fabric-1.21.11-1.14.8.jar'
 name = "Nemo's Inventory Sorting"
 side = 'client'
 x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-mc-versions = [ '1.21.11' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '86e3e20eafe17ae64671fe338bfbec4287ec4eae5fab8c7a4556e1beff0bb319177c8f157fa29ee31b17f57ab23254ee7615ef1c035d0e7810a013ab5ae2bfdf'
+hash = '44010b24b22c48ee5021bbd55472b586cb09bb1e2a4b5ec4e83c3a98df0c0fdfe8cd46a0e202be63378f00e06f606ac49f1b464ed6299718c3dff53e6ed9f86e'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/JHgf35QL/versions/BVKLZcah/nemos-inventory-sorting-Fabric-1.21.10-1.14.7.jar'
+url = 'https://cdn.modrinth.com/data/JHgf35QL/versions/7yHjaOrm/nemos-inventory-sorting-Fabric-1.21.11-1.14.8.jar'
 
 [update.modrinth]
 mod-id = 'JHgf35QL'
-version = 'BVKLZcah'
+version = '7yHjaOrm'

@@ -1,14 +1,7 @@
 {
-  "_hash": "fd061c2d",
+  "_hash": "e878abc9",
   "itemSlotEnabled": true,
   "itemGrabbingEnabled": true,
-  "creativeTabsEnabled": true,
-  "enchantmentsEnabled": true,
-  "stonecutterRecipesEnabled": true,
-  "loomPatternsEnabled": true,
-  "advancementTabsEnabled": true,
-  "worldIconEnabled": true,
-  "serverIconEnabled": true,
   "pointerScrollbarEnabled": true,
   "resizeScrollbarEnabled": true,
   "heldCursorsEnabled": true,
@@ -69,17 +62,17 @@
       "xhot": 5,
       "yhot": 5
     },
-    "default": {
-      "enabled": true,
-      "scale": 2.5,
-      "xhot": 0,
-      "yhot": 0
-    },
     "resize_ew": {
       "enabled": true,
       "scale": 2.5,
       "xhot": 6,
       "yhot": 2
+    },
+    "default": {
+      "enabled": true,
+      "scale": 2.5,
+      "xhot": 0,
+      "yhot": 0
     },
     "busy": {
       "enabled": true,

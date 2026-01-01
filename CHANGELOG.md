@@ -1036,7 +1036,7 @@
 ## 💬 更新寄语
 迎继续体验本服务器，你的反馈是我们前进的动力！
 
-# 🌍 应许之世 - 客户端更新（版本代号：20251128）
+# 🌍 应许之世 - 客户端更新（版本代号：20251228）
 
 > 📅 发布日期：2025-12-28
 >
@@ -1095,3 +1095,90 @@
 
 ## 💬 更新寄语
 迎继续体验本服务器，你的反馈是我们前进的动力！
+
+# 🌍 应许之世 - 客户端更新（版本代号：20260101）
+
+> 📅 发布日期：2026-01-01
+>
+> 💡 **客户端更新情况**：
+> - ✅ **Full 客户端已更新至** → `v3.3.0+pw.full.20251228`
+> - ✅ **Lite 客户端已更新至** → `v2.0.0+pw.lite.20260101`
+>
+> 📃 **客户端说明**：
+> - **Full 客户端**
+>   - 用途：模组生存服专用客户端
+>   - 说明：未使用 Full 客户端将无法进入模组生存服
+> - **Lite 客户端**
+>   - 用途：插件生存服推荐客户端
+>   - 说明：是否使用 Lite 客户端均不影响进入插件生存服
+
+## 🛠️ 更新介绍
+本次更新是2026年的第一个更新。在本次更新中，我们将**Lite客户端**的游戏版本从`1.21.10`升级至`1.21.11`。并对**Lite客户端**的模组列表进行了一次调整和更新检查。
+
+## 🔧 分发标准
+
+- 采用 **Modrinth 整合包格式**（后缀为 `.mrpack` 的压缩文件）进行分发
+- 所有资源（模组、材质包、光影、枪械包等）由 **Packwiz** 统一管理
+- 此为 **「繁星计划（Project Many Stars）」** 下属服务器客户端的统一规范
+
+## 📋 变更说明
+
+### ⚙️ 【通用】技术栈变更
+- **Lite 客户端**
+  - 🔄 **更新**
+    - Minecraft 游戏底层
+    - Fabric 模组加载器
+
+---
+
+### 📦 【Lite 专属】模组变更
+- ➕ **新增**
+  - Mod Menu（模组目录）（客户端）
+  - **前置模组**
+    - Text Placeholder API
+- 🗑️ **删除**
+  - BetterF3（更好的F3）（客户端）
+  - Catalogue（模组目录）（客户端）
+  - Configured（配置界面）
+  - I18nUpdateMod（自动汉化更新）（客户端）
+  - Just Enough Items（物品管理器）
+  - Just Enough Resources（JEI资源信息）（客户端）
+  - Just Enough Breeding（JEI繁殖信息）（客户端）
+  - JustEnoughCharacters（通用拼音搜索）（客户端）
+- 🔄 **更新**
+  - AppleSkin（苹果皮）
+  - Better Advancements（更好的进度）（客户端）
+  - Chunks fade in（区块淡入动画）（客户端）
+  - Controlling（键位冲突显示）（客户端）
+  - Fancy Toasts | Better Advancements（更好的成就提示）（客户端）
+  - FerriteCore（铁氧体磁芯）
+  - Iris Shaders（iris着色器）（客户端）
+  - Jade 🔍（玉）
+  - JourneyMap（旅行地图）
+  - Cursors Extended（光标扩展）（客户端）
+  - Mouse Tweaks（鼠标手势）（客户端）
+  - Nemo's Inventory Sorting（背包整理）（客户端）
+  - Plasmo Voice（等离子语音）
+  - Reese's Sodium Options（Reese的钠视频界面）（客户端）
+  - Resourcify（资源下载）（客户端）
+  - Sodium Extra（钠·扩展）（客户端）
+  - Sodium（钠）（客户端）
+  - spark（性能监测）
+  - **前置模组**
+    - Cloth Config API
+    - Fabric API
+    - Searchables
+
+## 📚 使用指南
+详细系统要求、启动器配置与安装步骤，请参阅项目 README：
+- [简体中文版](./README.md)
+- [繁體中文版](./README_TW.md)
+- [English version](./README_EN.md)
+
+## 🙌 加入社区
+- QQ 群：[点击加入](https://qm.qq.com/q/RgessVyPC0)
+- Discord：[Join Server](https://discord.gg/ekpaH4FXDF)
+
+## 💬 更新寄语
+迎继续体验本服务器，你的反馈是我们前进的动力！
+以及，项目组在此祝各位新年快乐！
