@@ -63,9 +63,9 @@
 > 📅 发布日期：YYYY-MM-DD
 > ⚠️ 此为 **Beta** 测试版本，可能存在兼容性问题，欢迎反馈！（仅在Beta版中添加）
 >
-> 💡 **客户端更新情况**：
-> - ✅ **Full 客户端已更新至** → `vMAJOR.MINOR.PATCH(-PRERELEASE)+PROJECTCODE.CHANNEL.YYYYMMDD.NUMBER`
-> - ✅ **Lite 客户端已更新至** → `vMAJOR.MINOR.PATCH(-PRERELEASE)+PROJECTCODE.CHANNEL.YYYYMMDD.NUMBER`
+> 💡 **客户端更新情况（点击版本号即可跳转到对应版本）**：
+> - ✅ **Full 客户端已更新至** → [`vMAJOR.MINOR.PATCH(-PRERELEASE)+PROJECTCODE.CHANNEL.YYYYMMDD.NUMBER`]()
+> - ✅ **Lite 客户端已更新至** → [`vMAJOR.MINOR.PATCH(-PRERELEASE)+PROJECTCODE.CHANNEL.YYYYMMDD.NUMBER`]()
 >
 > 📃 **客户端说明**：
 > - **Full 客户端**
@@ -1182,3 +1182,89 @@
 ## 💬 更新寄语
 迎继续体验本服务器，你的反馈是我们前进的动力！
 以及，项目组在此祝各位新年快乐！
+
+# 🌍 应许之世 - 客户端更新（版本代号：20260103）
+
+> 📅 发布日期：2026-01-03
+>
+> 💡 **客户端更新情况（点击版本号即可跳转到对应版本）**：
+> - ✅ **Full 客户端已更新至** → [`v3.4.0+pw.full.20260103`](#)
+> - ✅ **Lite 客户端已更新至** → [`v2.1.0+pw.lite.20260103`](#)
+>
+> 📃 **客户端说明**：
+> - **Full 客户端**
+>   - 用途：模组生存服专用客户端
+>   - 说明：未使用 Full 客户端将无法进入模组生存服
+> - **Lite 客户端**
+>   - 用途：插件生存服推荐客户端
+>   - 说明：是否使用 Lite 客户端均不影响进入插件生存服
+
+## 🛠️ 更新介绍
+在本次更新中，我们对两个客户端的模组列表进行了一次调整和更新检查。
+
+## 🔧 分发标准
+
+- 采用 **Modrinth 整合包格式**（后缀为 `.mrpack` 的压缩文件）进行分发
+- 所有资源（模组、材质包、光影、枪械包等）由 **Packwiz** 统一管理
+- 此为 **「繁星计划（Project Many Stars）」** 下属服务器客户端的统一规范
+
+## 📋 变更说明
+
+### 📦 【Full 专属】模组变更
+- ➕ **新增**
+  - Ballistix（弹道学）
+  - Blastcraft（防爆工艺）
+- 🗑️ **删除**
+  - WorldEdit（创世神）
+- 🔄 **更新**
+  - AnvilCraft（铁砧工艺）
+  - AnvilCraft-PigsPlus（铁砧工艺：猪+）
+  - Butchery（沉浸式屠宰）
+  - Chunks Fade In（区块淡入动画）（客户端）
+  - Create Bits 'n' Bobs（机械动力：精致附加）
+  - Create: Deep Dark（机械动力：深暗之域）
+  - Create: New Age（机械动力：电气时代）
+  - Electrodynamics（电动力学）
+  - Exposure（拾光定影）
+  - IntegratedCrafting（集成合成学）
+  - IntegratedDynamics（动态联合）
+  - IntegratedTerminals（集成终端）
+  - Iron's Spells 'n Spellbooks（Iron的法术与魔法书）
+  - Just Enough Items（物品管理器）
+  - Lightman's Currency Tech（莱特曼的货币科技）
+  - Lightman's Currency（莱特曼的货币）
+  - MaidUseHandCrank（女仆摇曲柄）
+  - More Immersive Wires（更多沉浸式线缆）
+  - Net Music:Play List（网络音乐机：播放列表）
+  - Nuclear Science（核科学）
+  - PneumaticCraft: Repressurized（气动工艺）
+  - Railcraft Reborn（铁路重生）
+  - Reactive（反应炼金术）
+  - Save My Shit Network（禁用模组联网）
+  - Sophisticated Backpacks（精妙背包）
+  - The Twilight Forest（暮色森林）
+  - Tom's Simple Storage Mod（汤姆的简易存储）
+  - **前置模组**
+    - Bagus Lib
+    - playerAnimator
+    - Sophisticated Core
+    - Voltaic
+
+---
+
+### 📦 【Lite 专属】模组变更
+- 🔄 **更新**
+  - Cursors Extended（光标扩展）（客户端）
+
+## 📚 使用指南
+详细系统要求、启动器配置与安装步骤，请参阅项目 README：
+- [简体中文版](./README.md)
+- [繁體中文版](./README_TW.md)
+- [English version](./README_EN.md)
+
+## 🙌 加入社区
+- QQ 群：[点击加入](https://qm.qq.com/q/RgessVyPC0)
+- Discord：[Join Server](https://discord.gg/ekpaH4FXDF)
+
+## 💬 更新寄语
+迎继续体验本服务器，你的反馈是我们前进的动力！

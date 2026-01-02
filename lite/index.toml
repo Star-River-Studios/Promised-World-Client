@@ -416,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-cursor.pw.toml"
-hash = "f92cff62f52a6792d81eab0ce20374ec2eb8c5282b6146b37e482acdf58eebfb"
+hash = "534bd9344e27b0db234d44d1ea24c9cab67408ac1b6aebc4e8a94a516855aba1"
 metafile = true
 
 [[files]]

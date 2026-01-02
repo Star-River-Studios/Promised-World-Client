@@ -1,4 +1,4 @@
-filename = '[A][科技][气动工艺]pneumaticcraft-repressurized-8.2.14+mc1.21.1.jar'
+filename = '[A][科技][气动工艺]pneumaticcraft-repressurized-8.2.15+mc1.21.1.jar'
 name = 'PneumaticCraft: Repressurized'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '1b9ab9214a0a060b815697059ae47263b87044e1ebcc9748bf20e2fb9b912786a2e1e05459e637c57e2cc9c0d703a72fc900b845388cbbc98dcc1b76b79164e8'
+hash = '477ce23daeafa8d885432d38abd7623d9f67fa4464b1d5b7ff8fcbeff25688949bf4024f615cac91b6d21f6986b5fefe0f356b7a5a1aacc1ec1952d341d7e21f'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/ncAcdgk7/versions/BHuKt5iQ/pneumaticcraft-repressurized-8.2.14%2Bmc1.21.1.jar'
+url = 'https://cdn.modrinth.com/data/ncAcdgk7/versions/ZAVbKVFX/pneumaticcraft-repressurized-8.2.15%2Bmc1.21.1.jar'
 
 [update.modrinth]
 mod-id = 'ncAcdgk7'
-version = 'BHuKt5iQ'
+version = 'ZAVbKVFX'

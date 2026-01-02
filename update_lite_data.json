@@ -1,11 +1,15 @@
 {
-	"versionName": "2.0.0+pw.lite.20260101",
-	"versionCode": 20260101,
+	"versionName": "2.1.0+pw.lite.20260103",
+	"versionCode": 20260103,
 	"versionFormat": "%versionName% (%versionCode%)",
 	"changelogs": {
+		"2.1.0+pw.lite.20260103": [
+			"完整更新日志",
+			"https://github.com/Star-River-Studios/Promised-World-Client/releases/tag/20260103"
+		],
 		"2.0.0+pw.lite.20260101": [
 			"完整更新日志",
-			"https://github.com/Star-River-Studios/Promised-World-Client/releases/tag/20251227"
+			"https://github.com/Star-River-Studios/Promised-World-Client/releases/tag/20260101"
 		],
 		"1.1.0+pw.lite.20251227": [
 			"完整更新日志",

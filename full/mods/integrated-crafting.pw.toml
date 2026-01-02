@@ -1,16 +1,16 @@
-filename = '[A][科技][动态联合][集成合成学]integratedcrafting-1.21.1-neoforge-1.3.4.jar'
-name = 'Integrated Crafting'
+filename = '[A][科技][动态联合][集成合成学]integratedcrafting-1.21.1-neoforge-1.4.1-442.jar'
+name = 'IntegratedCrafting'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = '6cfe5c382541d73cbae3075040cb860b8b71faae'
+hash = '7168903e1aa5f63cc9078f3c11aa6bfca8014a24'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7246590
+file-id = 7407521
 project-id = 287357

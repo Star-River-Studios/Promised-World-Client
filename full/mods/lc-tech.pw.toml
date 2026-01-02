@@ -1,4 +1,4 @@
-filename = '[A][科技][莱特曼的货币][莱特曼的货币科技]lctech-1.21-0.2.2.6.jar'
+filename = '[A][科技][莱特曼的货币][莱特曼的货币科技]lctech-1.21-0.2.2.7.jar'
 name = "Lightman's Currency Tech"
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '818145eaf62b82bcc44ad20f0c47dabb74a548d8870b0b27995878bbd70b5b4551e35f6628307fc298f38726ea4fc20bb50bb4e9d290afde5433b9a98b810b6c'
+hash = '3c2d4e28e2b63c03749b8769bda818946542f74bd5bd0c4323dd4748057ebb886e7cd9f645f60b81b1134547b619e0f101b6e1515cce198f6c2ba38ee70c377d'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/US8EsYXT/versions/f2vbrGIq/lctech-1.21-0.2.2.6.jar'
+url = 'https://cdn.modrinth.com/data/US8EsYXT/versions/touwuiOG/lctech-1.21-0.2.2.7.jar'
 
 [update.modrinth]
 mod-id = 'US8EsYXT'
-version = 'f2vbrGIq'
+version = 'touwuiOG'

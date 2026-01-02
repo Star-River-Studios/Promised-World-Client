@@ -1,4 +1,4 @@
-filename = '[A][科技][电动力学]electrodynamics-1.21.1-1.0.0-3.jar'
+filename = '[A][科技][电动力学]electrodynamics-1.21.1-1.0.0-4.jar'
 name = 'Electrodynamics'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '91d47ec9a0da886b56838aa252444cff50fc77b5cddf4a19add62585d64983ad0431da4fe224abf78417864060a6127108b6517fdd9d334c216d2d085002710d'
+hash = 'aeb750fffd862e5fdfef22dcc15cfd3fc1316b3bee21f250baf5220636c656a7ea4ea43d022c017aba14ce2695c1dc1ec62b4b2a9e4a7e55ab2e4c0912731e9d'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/xmhmr70o/versions/gWRsRv96/electrodynamics-1.21.1-1.0.0-3.jar'
+url = 'https://cdn.modrinth.com/data/xmhmr70o/versions/psR8IcUY/electrodynamics-1.21.1-1.0.0-4.jar'
 
 [update.modrinth]
 mod-id = 'xmhmr70o'
-version = 'gWRsRv96'
+version = 'psR8IcUY'

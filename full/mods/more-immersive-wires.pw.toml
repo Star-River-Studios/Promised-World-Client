@@ -1,4 +1,4 @@
-filename = '[A][科技][沉浸工程][更多沉浸式线缆]more-immersive-wires-1.21.1-1.1.7.jar'
+filename = '[A][科技][沉浸工程][更多沉浸式线缆]more-immersive-wires-1.21.1-1.1.8.jar'
 name = 'More Immersive Wires'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '41b187e2f635f14a1e1b6338d330ee2e571ca0910d74d600ec637e04a67203056b0c5d4103bc9b93a5608235d09b0ec67bd50ba82e7ce7eaef53e1cd676b8d0d'
+hash = '1d5a3fcd9e34a80a290b9333cc2b9823fd096638e79a196bb493494cfcca40181db81fe3c1af7d2f979b3147d4a24724a12524fb965885a1cfdb039ef5ce281b'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/ekzqyEZL/versions/x9IYZgpu/more-immersive-wires-1.21.1-1.1.7.jar'
+url = 'https://cdn.modrinth.com/data/ekzqyEZL/versions/8OjxdvGS/more-immersive-wires-1.21.1-1.1.8.jar'
 
 [update.modrinth]
 mod-id = 'ekzqyEZL'
-version = 'x9IYZgpu'
+version = '8OjxdvGS'

@@ -1,8 +1,12 @@
 {
-	"versionName": "3.3.0+pw.full.20251228",
-	"versionCode": "20251228",
+	"versionName": "3.4.0+pw.full.20260103",
+	"versionCode": "20260103",
 	"versionFormat": "%versionName% (%versionCode%)",
 	"changelogs": {
+		"3.4.0+pw.full.20260103": [
+			"完整更新日志",
+			"https://github.com/Star-River-Studios/Promised-World-Client/releases/tag/20260103"
+		],
 		"3.3.0+pw.full.20251228": [
 			"完整更新日志",
 			"https://github.com/Star-River-Studios/Promised-World-Client/releases/tag/20251228"

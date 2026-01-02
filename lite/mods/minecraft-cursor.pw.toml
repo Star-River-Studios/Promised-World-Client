@@ -1,16 +1,16 @@
-filename = '[G][辅助][客户端][光标扩展]cursors_extended-fabric-4.1.4+1.21.11.jar'
+filename = '[G][辅助][客户端][光标扩展]cursors_extended-fabric-4.1.4+1.21.11-patch.1.jar'
 name = 'Cursors Extended'
-side = 'client'
+side = 'both'
 x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.11' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '510ceb0e780da1d6698f34c8e2a8050680856800390318a927ec6c3cfecf24c87990ccb54dda4749e3fa90e0e4f4e0b0224a78473a6022d6efe4897551596018'
+hash = 'e6e323a8990c7c411f8fc41a11396adb008d4952a5044260df657cc18f81f6c49e29318ccd1dac1a3cb8f4774a882fe9ab2254e7e465f25d5d5d8e5ae652ac8a'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/o5fhgLeQ/versions/VVRPV2HD/cursors_extended-fabric-4.1.4%2B1.21.11.jar'
+url = 'https://cdn.modrinth.com/data/o5fhgLeQ/versions/q3U4pZIm/cursors_extended-fabric-4.1.4%2B1.21.11-patch.1.jar'
 
 [update.modrinth]
 mod-id = 'o5fhgLeQ'
-version = 'VVRPV2HD'
+version = 'q3U4pZIm'

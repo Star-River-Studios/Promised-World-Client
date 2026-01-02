@@ -1,16 +1,16 @@
-filename = '[B][魔法][反应炼金术]reactive-1.21.1-10.0.2.jar'
-name = 'Reactive Alchemy'
+filename = '[B][魔法][反应炼金术]reactive-1.21.1-10.1.1.jar'
+name = 'Reactive'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'cf47049c808bace1d52fd740a484cdfa9e745bafaab0dacb5e2bdda14f753c49285386b8b30b3ed1852ad0809e57e9dedc0de00685b0065a20f3c57701fa48b1'
+hash = '860eb56c605bb2c2cc709ad46863722eb891d26065e7f364cea57e39fe1bb3220fb401d543903f6a3508356f2cd162119acc390ce669b8685b8d1c65d1621759'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/soWqucCB/versions/a7da3pPf/reactive-1.21.1-10.0.2.jar'
+url = 'https://cdn.modrinth.com/data/soWqucCB/versions/uMY9EVae/reactive-1.21.1-10.1.1.jar'
 
 [update.modrinth]
 mod-id = 'soWqucCB'
-version = 'a7da3pPf'
+version = 'uMY9EVae'

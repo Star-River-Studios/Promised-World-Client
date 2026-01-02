@@ -1,16 +1,16 @@
-filename = '[A][科技][动态联合][集成终端]integratedterminals-1.21.1-neoforge-1.6.21-649.jar'
-name = 'Integrated Terminals'
+filename = '[A][科技][动态联合][集成终端]integratedterminals-1.21.1-neoforge-1.6.22.jar'
+name = 'IntegratedTerminals'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'beta'
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '92b4bc13f134a096c6a1d5dccb5cb5a6dcf99c670f35e17a231dbc7e7d175e7c34745433c58d2dfda9afec9357cad8db34c6d236db052e95396db38d2eb5d25b'
+hash = 'aed21fbcdd41c4f66f0b4d2753d604f2b7d4a4a6ee08e0bf00e07a1a5d4c3bea45a808c2911df4e5445d3507e78fcc0563e88ff5fbbe65d2d7d264ba94bb4e5d'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/HmLJoQ1K/versions/qtPatFAN/integratedterminals-1.21.1-neoforge-1.6.21-649.jar'
+url = 'https://cdn.modrinth.com/data/HmLJoQ1K/versions/Wj8tjjaS/integratedterminals-1.21.1-neoforge-1.6.22.jar'
 
 [update.modrinth]
 mod-id = 'HmLJoQ1K'
-version = 'qtPatFAN'
+version = 'Wj8tjjaS'

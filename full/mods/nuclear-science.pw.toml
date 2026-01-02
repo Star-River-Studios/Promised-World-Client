@@ -1,4 +1,4 @@
-filename = '[A][科技][电动力学][核科学]nuclearscience-1.21.1-0.8.0-2.jar'
+filename = '[A][科技][电动力学][核科学]nuclearscience-1.21.1-0.8.1-0.jar'
 name = 'Nuclear Science'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'b462cb4e271464bb8c9abeff36168985f98028d322d6b9a2767661e10637433fe8cd1ee9fb453f5ac7e0391336864ab4ef6f7855a3e3ebce6466d75d23ffb59c'
+hash = '2edc288a28a41546e99d7e5c2bed130529288c09498f064ffdbf1bd5b5bafc32dd3124757edfea6dd027992c1d31b2bee814d8f3eeeb62240d5068f7a4a71a3d'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/aH4Sud5i/versions/l6R1Ylu4/nuclearscience-1.21.1-0.8.0-2.jar'
+url = 'https://cdn.modrinth.com/data/aH4Sud5i/versions/OUmYDu56/nuclearscience-1.21.1-0.8.1-0.jar'
 
 [update.modrinth]
 mod-id = 'aH4Sud5i'
-version = 'l6R1Ylu4'
+version = 'OUmYDu56'

@@ -1,0 +1,16 @@
+filename = '[A][科技][电动力学][防爆工艺]blastcraft-1.21.1-0.6.0-1.jar'
+name = 'Blastcraft'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd859316466500c3fae575da79f0f53df0791cc17751a29a4c03a5e441b3eb826d882a5b2fc13f0af584eb8b4f5468a5ab13c4e9eafa7a8fa30e5aea6a0740a45'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qzSqkQKb/versions/xkrv51d9/blastcraft-1.21.1-0.6.0-1.jar'
+
+[update.modrinth]
+mod-id = 'qzSqkQKb'
+version = 'xkrv51d9'
