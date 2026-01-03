@@ -153,6 +153,8 @@
 	"Zombie Villager" = true
 	#Enable Zombified Piglin Corpses
 	"Zombified Piglin" = true
+	#Enable Player Corpses
+	Player = true
 
 ["Mod Compatibilities"]
 	#Enable Farmers Delight Compatibility

@@ -122,7 +122,7 @@ hash = "bc16c459ae645fbf5eac389cba7b24ca8c486f572ec47319c5ef96e1afb98efa"
 
 [[files]]
 file = "config/Butchery.toml"
-hash = "600c8856361e6616186750f23c57ecf1469313b3a3e9267cad1bb9b3cb85d8f5"
+hash = "b13f48f7ab14f192e9abf99eec84da97eeb21e2c3554e6a369030bd4a67ff637"
 
 [[files]]
 file = "config/CSC/Data/variables.data"
@@ -566,7 +566,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "1774ca0843299be211bd3a2b6f922e0a144e32afc953bf3d74db3a8fb68760c1"
+hash = "b0548ad34d53ca631910ea1388c3ecb478e9a4b2ad920079740e1e0fb841f9c1"
 
 [[files]]
 file = "config/irons_spellbooks-client.toml"
@@ -746,11 +746,11 @@ hash = "e854c8ff4deb4267e08c5e8b1399772da15fb9d7c1f493394afb977672c3a054"
 
 [[files]]
 file = "config/nuclearscience-common.toml"
-hash = "68f3faae8f8d120b6e4b33c3c3595727ef1d7c24cb4e2558a40d3831c6c51621"
+hash = "11dcd3e6caa8f08c725e4c25e3e996f8fee31d5d81913dc031520028ddd34208"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "a832316e3dfa20b057e149b9893aa402a14f5bdb5c88336539e977a1d65466ae"
+hash = "3fa720a4036083496c9b6643c34667bf0f636023488ee0843b4f6392b1457345"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -866,7 +866,7 @@ hash = "1b663980dffc7c169f320852cafdf92b295beaf282752a4b44d1ec083e5134a5"
 
 [[files]]
 file = "config/railcraft-common.toml"
-hash = "bf36057a5131f3c975c86471ce091b5a886734fdd70c10a7172f9cb4418c9200"
+hash = "09affd2a64fe20cf5313112e84c674185be6f1107d1394e2531d2669e6c1fade"
 
 [[files]]
 file = "config/reactive-client.toml"
@@ -895,14 +895,6 @@ hash = "9d0c53bd2b6c28bd7b2eb5df887951dda3afbc49e55d74c2c4c1185c1efe34b5"
 [[files]]
 file = "config/rusticdelight-common.toml"
 hash = "57b796391eff38e698ae399e34b19ce7fc5bd23cfb73c275c323e59420c18a70"
-
-[[files]]
-file = "config/scholar-client.toml"
-hash = "f3959e957253ab5631cdd55fae4acad3dd6ce39aef76791b00335ba3716e14db"
-
-[[files]]
-file = "config/scholar-common.toml"
-hash = "62e10948b3244c03963ea88598770268cd3d89e6d4e23706885b3542633e820b"
 
 [[files]]
 file = "config/sfm-client-program-editor.toml"
@@ -1085,10 +1077,6 @@ file = "config/weaponmod.json5"
 hash = "fa22a1a95b0b0288bfd588c8f3cc62e6ad2d24facf858f9653c7e61acf7cca73"
 
 [[files]]
-file = "config/worldeditcui.config.json"
-hash = "862eb44e855b5ff872006933278eaf6c17c04c4cb56c6a90f7e2b1c232a2920b"
-
-[[files]]
 file = "config/wormhole-common.toml"
 hash = "09cb063b6fb50c33b96c8b162a7160b5c7a6d09750f299cf96bc49117b56a65f"
 
@@ -1106,35 +1094,35 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.core.config"
-hash = "78a66e2ec2d235fc5ff01c0079b9d7c01a6b55ae9aa56b076b9b626013d92b55"
+hash = "23d348de238695b2777a6b763d6c923f3c5721ad592df08a2e471b1ae3e4f8f9"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.fullmap.config"
-hash = "a9afaeda7cf6eb800f6c926d2dddbe026bc7cb381d7302f09755a93f33e652c3"
+hash = "4a6e0b81a6b00455421ef3e52378b1834d44f656544d1ac2b32eee8c5ae3f30a"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap.config"
-hash = "1f6d31721f6cd74e5318c70c700b5d38f328d17271e4f585b657ea5d3298cb9f"
+hash = "f2c95e05ce758d6cb7e2909f2028d75b0f024f08f7aefe6962b51d890a90ced7"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap2.config"
-hash = "0303ac5d3cc4b469f525b1e5bd3c90893f2aea2738ffb033258aeb2fde18a770"
+hash = "0c9cd8a3aa73c0882cc40e51c23876c5162e065eb16f1525b6b4d6735f485ff3"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.rendering.config"
-hash = "af27518b19a1bd0500c8ce1e04bc0f672de30a8568bb59536e05b2e01ea0df5c"
+hash = "0014d73d55c3e4d56443d2bfad4d8be45d2076e630e2577234bd8552c196cc0c"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.topo.config"
-hash = "156976ebfa39152d252eada202f3649cd32af7a665576127fcb5bb5523fff67c"
+hash = "144eecc62052b43f777456f4b5d09f07660d0b0dbe7b143b9da8885668b65b7a"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.waypoint.config"
-hash = "0ee6e97ca6403bb1fb734b2b2aae598c1c2502f6d92b89ad475ff88ce37c654a"
+hash = "46977308afaa99555df8e629d1effae1ddb6ee877a991272e378027c54b74134"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.webmap.config"
-hash = "92ecaadb674023fb5cd2f67831547f41af6a3a90bc2ef076bc45351d363c6594"
+hash = "268be342b6d44aa46322c65783928333dac467d4adea85823ec9472ee1c45078"
 
 [[files]]
 file = "journeymap/server/6.0/journeymap.server.default.config"
@@ -1320,6 +1308,11 @@ hash = "3ef427d61b6632ce7a2c468fa8a1e5453f9a356f52b7e9297b63a1ac3e9cf23b"
 metafile = true
 
 [[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "533b9ba14bb9415a65af98c4865a1df74cc7d32229e0b177db221e8041a73357"
+metafile = true
+
+[[files]]
 file = "mods/chemicalscience.pw.toml"
 hash = "edf41fd7c06e7aace52b8db6569f07d70374d79d153c644f7a2a15c0fab9905c"
 metafile = true
@@ -1352,6 +1345,11 @@ metafile = true
 [[files]]
 file = "mods/configured.pw.toml"
 hash = "d38b160ce398a865ec6b898e088bdb7bb0ac01268b8b4f3e805d327b1d38de5a"
+metafile = true
+
+[[files]]
+file = "mods/controlify.pw.toml"
+hash = "28a74408addfd507d382c0de0ed489c1081c3a4136b31c843e41eb4a5ac6cf32"
 metafile = true
 
 [[files]]
@@ -1895,6 +1893,11 @@ hash = "03e0e6ae557336195a69762d6cdd9cedb8e29df3dcbc0e73bfb288a7c009b989"
 metafile = true
 
 [[files]]
+file = "mods/longer-chat-history.pw.toml"
+hash = "7593044709c0380e19424392a33c55964b0e6ec92201889abed4a61ab4df8d89"
+metafile = true
+
+[[files]]
 file = "mods/luncheon-meat-s-delight.pw.toml"
 hash = "561d056c6b2adcc15ea83c11b6bde7796538e2f2d1f88d208824d0470868af67"
 metafile = true
@@ -2007,6 +2010,11 @@ metafile = true
 [[files]]
 file = "mods/natures-aura.pw.toml"
 hash = "13598e6b93437dada3d8bd481006cceceeebc1711662cc5e42d8f6eaca97f684"
+metafile = true
+
+[[files]]
+file = "mods/nbt-autocomplete.pw.toml"
+hash = "fa153a14dcb1bc65bedb2f4c9359b5d8bf83f13019f347c14a7af37e4d5bf41f"
 metafile = true
 
 [[files]]
@@ -2180,8 +2188,8 @@ hash = "d9389beeff29b239fa03c65fa684bcd824e024a0cde5300ab0aa44fbe4f82121"
 metafile = true
 
 [[files]]
-file = "mods/scholar.pw.toml"
-hash = "3f0558306203da46518fddeeda05816c6631627d6fc978830f3ad52e306ad9b2"
+file = "mods/scribble.pw.toml"
+hash = "827d2b39418601da8305eef93b7246860d75ea2a63b7c03edda3b581a0dc2fd0"
 metafile = true
 
 [[files]]
@@ -2370,13 +2378,13 @@ hash = "28401c48c68a9b5ca65ab1afd8c425349562ee443a243229635a7ab264d96201"
 metafile = true
 
 [[files]]
-file = "mods/worldeditcui-forge.pw.toml"
-hash = "73bfb1f6fbed9121f9430084fbd5a1cca69ee86e447b95284efbc243b7b3ddf0"
+file = "mods/wormhole.pw.toml"
+hash = "f2890d3f0d12561672d960bbcb44908b35c158efdde7eb2fd0f5e7e48828e8e1"
 metafile = true
 
 [[files]]
-file = "mods/wormhole.pw.toml"
-hash = "f2890d3f0d12561672d960bbcb44908b35c158efdde7eb2fd0f5e7e48828e8e1"
+file = "mods/yacl.pw.toml"
+hash = "6d6f6f180aa24864504880a453aca4bff427dcd449a0c5183ecd6a5458cf7f55"
 metafile = true
 
 [[files]]

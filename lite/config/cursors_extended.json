@@ -1,5 +1,5 @@
 {
-  "_hash": "e878abc9",
+  "_hash": "",
   "itemSlotEnabled": true,
   "itemGrabbingEnabled": true,
   "pointerScrollbarEnabled": true,
@@ -38,13 +38,13 @@
       "xhot": 3,
       "yhot": 5
     },
-    "pointing_hand": {
+    "shift": {
       "enabled": true,
       "scale": 2.5,
       "xhot": 3,
       "yhot": 0
     },
-    "shift": {
+    "pointing_hand": {
       "enabled": true,
       "scale": 2.5,
       "xhot": 3,
@@ -62,17 +62,17 @@
       "xhot": 5,
       "yhot": 5
     },
-    "resize_ew": {
-      "enabled": true,
-      "scale": 2.5,
-      "xhot": 6,
-      "yhot": 2
-    },
     "default": {
       "enabled": true,
       "scale": 2.5,
       "xhot": 0,
       "yhot": 0
+    },
+    "resize_ew": {
+      "enabled": true,
+      "scale": 2.5,
+      "xhot": 6,
+      "yhot": 2
     },
     "busy": {
       "enabled": true,

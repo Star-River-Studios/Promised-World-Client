@@ -121,6 +121,14 @@ file = "cache/chunksfadein/translations/zh-TW"
 hash = "bc16c459ae645fbf5eac389cba7b24ca8c486f572ec47319c5ef96e1afb98efa"
 
 [[files]]
+file = "cache/nbt_ac/0.txt"
+hash = "958a0a341aea1f1e891a51e758ff6d2e8df5857db49756087fbf19d2f86e4f98"
+
+[[files]]
+file = "cache/nbt_ac/_index.txt"
+hash = "30761d20733941de5c671d766c576d710b1605cbcc1a17ba6e7f8dbc012d7b0c"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -133,16 +141,24 @@ file = "config/betteradvancements.json"
 hash = "86b92c4716a03d328a6f98b66a894c5fa1568c5b3b83074c4d9ddcf518cc849c"
 
 [[files]]
+file = "config/chatanimation.json"
+hash = "de5bb1061dcd48c3378f6849658940a465c3e094e5d6c342c5f73ea984da2a8b"
+
+[[files]]
 file = "config/chunksfadein.properties"
 hash = "50de0c770717008172529787a6a4d785bf42224a25f164d02a0e194c80964eea"
 
 [[files]]
+file = "config/controlify.json"
+hash = "5dc4f29febdf22dd04f2c119f265f279d4f79bfaca4e75ea2b31dec95461b348"
+
+[[files]]
 file = "config/cursors_extended.json"
-hash = "1645fbfc63964ead5bada17083323fc9e718a212a754f7c05ded78977696e12f"
+hash = "0b9ef0f4b8f69bb3f7b431d9e31125014b906dc0a718e00d8bdda91fd5a8ec86"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "94624d39c8fc6972268172c414dbf0363e871eba5bd4bc113e106b4d2c222e27"
+hash = "23b017986696c8b5e25c85ff83b438149b432e7a3d5666fb2262bdadd80f5acb"
 
 [[files]]
 file = "config/fancytoasts/general.json"
@@ -166,11 +182,23 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "d4a14a03f59b7532ff414d4382d3cff62b99cb10003f852fc2ebdcd38bb3fb67"
+hash = "ef5197be97b567b1b28449bef98cb6d232e6e7406d71e72dbe00db96324ae0ef"
+
+[[files]]
+file = "config/jade/hide-blocks.json"
+hash = "881bebe1f34ae249fc7d83f6a0d97ce3598746c133bc369775fc48fdeb5e1a76"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "4aa6e50e59ce75cc6e335e69ac98277f3d5afc1b016bb6c14aeece67a4ebb543"
+
+[[files]]
+file = "config/jade/hide-mob-effects.json"
+hash = "a5c36f4ed48b1262f7f7d7be731c87c18aa6fdb79aaddb54568f9f8d526925c7"
 
 [[files]]
 file = "config/jade/jade.json"
-hash = "296c70fd6a4bffd150c5dc02c016dd4927e209e4f6c54ba0221ee2c623f0f2c5"
+hash = "487f429f142bf2d57089b9857fa5f4fc59fd265cdeb01e32f250ef8c9f697605"
 
 [[files]]
 file = "config/jade/profiles/1/jade.json"
@@ -191,6 +219,10 @@ hash = "c0235d429020dce0cd44eb11e34a728f83e8416ef5b61bd9607af370e963ad6c"
 [[files]]
 file = "config/modmenu.json"
 hash = "3613be8de2a7479e52a5a26686a495d7ca6e702985d4d6acfb1273e58a35e161"
+
+[[files]]
+file = "config/nbt_ac.txt"
+hash = "038998f3f5636c25ad39ed2c3cbac946d476b44f514eb46fef78cf73c01c15c8"
 
 [[files]]
 file = "config/nemos-inventory-sorting/config.json"
@@ -266,11 +298,19 @@ hash = "6bc27c0abf808d1ce9a6c3139100ef9c3f12199d060f57075793e3461292063a"
 
 [[files]]
 file = "config/plasmovoice/meta_cache.json"
-hash = "5db3d17465b89c55dc44718498b52754634e689508c66e3088bf0bc52b5d929f"
+hash = "ed6a3e6616615636945c3102a82b22d5b6a2bc67c41d07a419139c5949bf6520"
 
 [[files]]
 file = "config/resourcify.json"
 hash = "e58371e7d636e557efde9fecf278417fd1b5290f025fe79564bc57030eca1566"
+
+[[files]]
+file = "config/scribble.json"
+hash = "4a902ca24fa81d1d1aab6d24855820c5818a17101718fcd8f7c3c1780dcc56fb"
+
+[[files]]
+file = "config/skinlayers.json"
+hash = "45162f45aa2db525a0edc483959f35b6d958ba2e54066a4f87e7f3c3f0f99166"
 
 [[files]]
 file = "config/sodium-extra-options.json"
@@ -295,6 +335,18 @@ hash = "2b0725daa4052885bde7f195eb60501a5f6f9baadcb6e384c844660458b9fbaf"
 [[files]]
 file = "config/spark/tmp-client/about.txt"
 hash = "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0"
+
+[[files]]
+file = "config/transition.json"
+hash = "6c0060c7301372bbc414f86a139b383e34fb620f0621badd71bb19efc3f26767"
+
+[[files]]
+file = "config/trender.json"
+hash = "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124"
+
+[[files]]
+file = "config/yacl.json5"
+hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
 file = "data/fabric_default_resource_packs.json"
@@ -345,6 +397,11 @@ file = "journeymap/server/6.0/journeymap.server.global.config"
 hash = "ebf4c8138b6f982e1df8ca89c203a448556f2c72eef77788baf11ef9c1b6fe7d"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "d0f27b917b507d898658e7c36f485c5ab3840e41a97bdf7f6d27ddd14429c1fa"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "1dccd56d8f5de76f65c521efa05293ab3913bd5c20e5d46a7358eb9859011e9b"
 metafile = true
@@ -355,6 +412,11 @@ hash = "392d69f52ebe668f15fd449a6b6445215ca12cbf61dbfd39f1c642bc88f3c1a4"
 metafile = true
 
 [[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "02a7357f440660b7ac16578217a5280a15ea42c6b6718b86ebe0e909f4f3610c"
+metafile = true
+
+[[files]]
 file = "mods/chunks-fade-in.pw.toml"
 hash = "104875a5de4e46d3bcb8dadb223ec8933ab326bf869b7db57c09b1f50494e3e3"
 metafile = true
@@ -362,6 +424,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "0ce795b587852005f9a254591bb739567fb580a0574b5efbba7842d198f51678"
+metafile = true
+
+[[files]]
+file = "mods/controlify.pw.toml"
+hash = "bd0d1d8ed3c85f84b95ab28139d14493236b9c1c7aad9972b33ea937636585cb"
 metafile = true
 
 [[files]]
@@ -415,6 +482,11 @@ hash = "4296a6c11eea79dcb4a9e3c32c87929ff1d9ca085fe4ef1f5a1e47b4d19b474b"
 metafile = true
 
 [[files]]
+file = "mods/longer-chat-history.pw.toml"
+hash = "0ec5d4f7f507c435487d1ceb9846b2401d7f9754a36028c468f3c19505a6cd3f"
+metafile = true
+
+[[files]]
 file = "mods/minecraft-cursor.pw.toml"
 hash = "534bd9344e27b0db234d44d1ea24c9cab67408ac1b6aebc4e8a94a516855aba1"
 metafile = true
@@ -427,6 +499,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "7dd6f48cfda61b87daebbb633be566a6ccbe1e27b8e5b1e9dc7d086b7cf1e417"
+metafile = true
+
+[[files]]
+file = "mods/nbt-autocomplete.pw.toml"
+hash = "f0b4f901f4d3017474c596cca6f39b8ede43a863d342a8b21da9f747bfca81e5"
 metafile = true
 
 [[files]]
@@ -460,6 +537,11 @@ hash = "acbe788fd4e2acfbd8a7c45835f11103f88f7cca985a8e231d0953b4695a5228"
 metafile = true
 
 [[files]]
+file = "mods/scribble.pw.toml"
+hash = "f1a8d60c44f3b4a1499a6384b8886c2733d74f691bfe8d8369474998cfd2d7d3"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "ca79350b2e709cf100bc3418ca57160a82ec203ac7b3395e027970f1137d15b4"
 metafile = true
@@ -477,6 +559,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "ba7bd38480d19211874fdfa220e02047ecbde624ad83444d7aca7cfba1f19e3f"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "51a6dff1872f593009005b8f289270b44d81a859e17e50c57f2d3e226beb0ee6"
 metafile = true
 
 [[files]]

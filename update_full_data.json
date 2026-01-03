@@ -1,8 +1,12 @@
 {
-	"versionName": "3.4.0+pw.full.20260103",
-	"versionCode": "20260103",
+	"versionName": "3.5.0+pw.full.20260103.1",
+	"versionCode": "20260103.1",
 	"versionFormat": "%versionName% (%versionCode%)",
 	"changelogs": {
+		"3.5.0+pw.full.20260103.1": [
+			"完整更新日志",
+			"https://github.com/Star-River-Studios/Promised-World-Client/releases/tag/20260103.1"
+		],
 		"3.4.0+pw.full.20260103": [
 			"完整更新日志",
 			"https://github.com/Star-River-Studios/Promised-World-Client/releases/tag/20260103"

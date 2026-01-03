@@ -47,7 +47,7 @@
 	# Default: 480.0
 	# Range: 0.0 ~ 1.7976931348623157E308
 	atomicassembler_voltage = 480.0
-	# Default: 12000
+	# Default: 6000
 	# Range: > 0
 	atomicassembler_required_ticks = 12000
 	# Default: 40

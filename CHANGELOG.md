@@ -1034,7 +1034,7 @@
 - Discord：[Join Server](https://discord.gg/ekpaH4FXDF)
 
 ## 💬 更新寄语
-迎继续体验本服务器，你的反馈是我们前进的动力！
+欢迎继续体验本服务器，你的反馈是我们前进的动力！
 
 # 🌍 应许之世 - 客户端更新（版本代号：20251228）
 
@@ -1094,7 +1094,7 @@
 - Discord：[Join Server](https://discord.gg/ekpaH4FXDF)
 
 ## 💬 更新寄语
-迎继续体验本服务器，你的反馈是我们前进的动力！
+欢迎继续体验本服务器，你的反馈是我们前进的动力！
 
 # 🌍 应许之世 - 客户端更新（版本代号：20260101）
 
@@ -1180,7 +1180,7 @@
 - Discord：[Join Server](https://discord.gg/ekpaH4FXDF)
 
 ## 💬 更新寄语
-迎继续体验本服务器，你的反馈是我们前进的动力！
+欢迎继续体验本服务器，你的反馈是我们前进的动力！
 以及，项目组在此祝各位新年快乐！
 
 # 🌍 应许之世 - 客户端更新（版本代号：20260103）
@@ -1267,4 +1267,70 @@
 - Discord：[Join Server](https://discord.gg/ekpaH4FXDF)
 
 ## 💬 更新寄语
-迎继续体验本服务器，你的反馈是我们前进的动力！
+欢迎继续体验本服务器，你的反馈是我们前进的动力！
+
+# 🌍 应许之世 - 客户端更新（版本代号：20260103.1）
+
+> 📅 发布日期：2026-01-03
+>
+> 💡 **客户端更新情况（点击版本号即可跳转到对应版本）**：
+> - ✅ **Full 客户端已更新至** → [`v3.5.0+pw.full.20260103.1`](#)
+> - ✅ **Lite 客户端已更新至** → [`v2.2.0+pw.lite.20260103.1`](#)
+>
+> 📃 **客户端说明**：
+> - **Full 客户端**
+>   - 用途：模组生存服专用客户端
+>   - 说明：未使用 Full 客户端将无法进入模组生存服
+> - **Lite 客户端**
+>   - 用途：插件生存服推荐客户端
+>   - 说明：是否使用 Lite 客户端均不影响进入插件生存服
+
+## 🛠️ 更新介绍
+在本次更新中，我们删除了与创世神相关的所有模组，并添加了一些优化客户端游戏体验的模组。具体内容请看下方的变更说明。
+
+## 🔧 分发标准
+
+- 采用 **Modrinth 整合包格式**（后缀为 `.mrpack` 的压缩文件）进行分发
+- 所有资源（模组、材质包、光影、枪械包等）由 **Packwiz** 统一管理
+- 此为 **「繁星计划（Project Many Stars）」** 下属服务器客户端的统一规范
+
+## 📋 变更说明
+
+### 📦 【Full 专属】模组变更
+- ➕ **新增**
+  - Scribble（书籍体验增强）（客户端）
+  - Longer Chat History（更长的聊天记录）（客户端）
+  - NBT Autocomplete（NBT自动补全）（客户端）
+  - ChatAnimation（聊天动画）（客户端）
+  - Controlify (Controller support)（手柄支持）（客户端）
+  - **前置模组**
+    - YetAnotherConfigLib (YACL)
+- 🗑️ **删除**
+  - WorldEdit CUI（创世神范围显示）（客户端）
+  - Scholar（书籍体验增强）
+
+---
+
+### 📦 【Lite 专属】模组变更
+- ➕ **新增**
+  - 3D Skin Layers（3D皮肤层）（客户端）
+  - Scribble（书籍体验增强）（客户端）
+  - Longer Chat History（更长的聊天记录）（客户端）
+  - NBT Autocomplete（NBT自动补全）（客户端）
+  - ChatAnimation（聊天动画）（客户端）
+  - Controlify (Controller support)（手柄支持）（客户端）
+  - **前置模组**
+    - YetAnotherConfigLib (YACL)
+
+## 📚 使用指南
+详细系统要求、启动器配置与安装步骤，请参阅项目 README：
+- [简体中文版](./README.md)
+- [繁體中文版](./README_TW.md)
+- [English version](./README_EN.md)
+
+## 🙌 加入社区
+- QQ 群：[点击加入](https://qm.qq.com/q/RgessVyPC0)
+- Discord：[Join Server](https://discord.gg/ekpaH4FXDF)
+
+## 💬 更新寄语
+欢迎继续体验本服务器，你的反馈是我们前进的动力！

@@ -1,0 +1,16 @@
+filename = '[G][辅助][客户端][手柄支持]controlify-2.5.0+1.21.11-fabric.jar'
+name = 'Controlify (Controller support)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'cba7986ff8519a6f99c206f46d7990fccb73d25b3120f99f01f2bdec6b4715826d27aff2f294a2536e01e95fbaf8466b33f107cc7e3e2368fab7ec6d83e7a69e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DOUdJVEm/versions/4N7tPBpk/controlify-2.5.0%2B1.21.11-fabric.jar'
+
+[update.modrinth]
+mod-id = 'DOUdJVEm'
+version = '4N7tPBpk'
